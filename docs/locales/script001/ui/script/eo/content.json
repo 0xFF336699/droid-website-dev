@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "La numeron, kiun vi volas sendi tekstmesaĝon aŭ telefoni",
+          "label": "Telefonnumero",
+          "helperText": "La numeron, kiun vi volas sendi tekstmesaĝon aŭ telefoni"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Mi estas iomete malkomforta, venu ĉi tien! ! !",
+          "label": "SMS -Enhavo",
+          "helperText": "SMS -Enhavo"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -ricevanta listo"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Ricevanta poŝtelefona numero",
+          "label": "Ricevanta poŝtelefona numero",
+          "helperText": "Ricevanta poŝtelefona numero"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kreu ŝparvojon",
+      "description": "Kreu ŝparvojojn sur via movebla labortablo"
+    },
+    "launcherName": "Urĝa alvoko por helpo"
+  },
+  "SelectedContackList": {
+    "title": "Kriz -kontaktulo"
+  }
+}

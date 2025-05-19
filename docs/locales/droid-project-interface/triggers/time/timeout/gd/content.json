@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Cuir dàil gu bàs",
+    "content_delay": "Dàil",
+    "content_milliseconds": "Cuir an gnìomh ann am milliseconds"
+  }
+}

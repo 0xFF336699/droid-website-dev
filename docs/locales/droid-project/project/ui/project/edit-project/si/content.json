@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ව්යාපෘතිය නොපවතී",
+    "clickToSetProjectName": "නම් නොකළ ව්යාපෘති",
+    "projectTools": {
+      "run": "ක්රියාත්මක කිරීම"
+    }
+  }
+}

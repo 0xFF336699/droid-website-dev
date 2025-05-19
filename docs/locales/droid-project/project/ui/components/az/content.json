@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "yaratmaq",
+    "delete": "silmək",
+    "confirmDelete": "Bu elementi silmək istədiyinizə əminsiniz?",
+    "cancel": "zahiri etmək",
+    "title": "xəbərdarlıq etmək"
+  }
+}

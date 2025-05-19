@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "cruthaigh",
+    "delete": "scrios amach",
+    "confirmDelete": "An bhfuil tú cinnte gur mhaith leat an mhír seo a scriosadh?",
+    "cancel": "tabhair suas",
+    "title": "rabhadh a thabhairt do"
+  }
+}

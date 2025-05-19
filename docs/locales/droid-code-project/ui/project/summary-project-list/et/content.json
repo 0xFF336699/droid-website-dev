@@ -1,0 +1,8 @@
+{
+  "SummaryProjectList": {
+    "edit": "redigeerima",
+    "delete": "kustutama",
+    "run": "jooksma",
+    "stop": "peatus"
+  }
+}

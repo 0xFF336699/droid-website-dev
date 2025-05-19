@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numer, który chcesz wysłać wiadomość tekstową lub wykonać wywołanie",
+          "label": "numer telefonu",
+          "helperText": "Numer, który chcesz wysłać wiadomość tekstową lub wykonać wywołanie"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Czuję się trochę nieswojo, chodź tutaj! ! !",
+          "label": "Treść SMS",
+          "helperText": "Treść SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista odbiorców SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numer telefonu komórkowego odbiorcy",
+          "label": "Numer telefonu komórkowego odbiorcy",
+          "helperText": "Numer telefonu komórkowego odbiorcy"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Utwórz skrót",
+      "description": "Utwórz skróty na mobilnym pulpicie"
+    },
+    "launcherName": "Pilne wezwanie pomocy"
+  },
+  "SelectedContackList": {
+    "title": "Osoba kontaktowa w nagłych wypadkach"
+  }
+}

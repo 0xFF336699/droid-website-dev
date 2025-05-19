@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "نمبر جيڪو توهان هڪ ٽيڪسٽ پيغام موڪلڻ چاهيو ٿا يا ڪال ڪ out ي ٿو",
+          "label": "فون نمبر",
+          "helperText": "نمبر جيڪو توهان هڪ ٽيڪسٽ پيغام موڪلڻ چاهيو ٿا يا ڪال ڪ out ي ٿو"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "مان ٿورڙو ناجائز آهيان، هتي اچ! ! !",
+          "label": "ايس ايم ايس مواد",
+          "helperText": "ايس ايم ايس مواد"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "ايس ايم ايس وصول ڪندڙ لسٽ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "وصول ڪندڙ موبائل نمبر",
+          "label": "وصول ڪندڙ موبائل نمبر",
+          "helperText": "وصول ڪندڙ موبائل نمبر"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "شارٽ ڪٽ ٺاهيو",
+      "description": "توهان جي موبائل ڊيسڪ ٽاپ تي شارٽ ڪٽ ٺاهيو"
+    },
+    "launcherName": "مدد لاء تڪڙي ڪال"
+  },
+  "SelectedContackList": {
+    "title": "ايمرجنسي رابطو ماڻهو"
+  }
+}

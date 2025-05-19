@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "Kreu",
+    "delete": "Forigi",
+    "confirmDelete": "Ĉu vi certas, ke vi volas forigi ĉi tiun eron?",
+    "cancel": "Rezignu",
+    "title": "avertu"
+  }
+}

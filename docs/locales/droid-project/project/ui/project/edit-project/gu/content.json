@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "પ્રોજેક્ટ અસ્તિત્વમાં નથી",
+    "clickToSetProjectName": "અનામી પ્રોજેક્ટ્સ",
+    "projectTools": {
+      "run": "અમલમાં મૂકવું"
+    }
+  }
+}

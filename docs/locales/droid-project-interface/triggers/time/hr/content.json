@@ -1,0 +1,7 @@
+{
+  "ui": {
+    "title": "Odgođeno izvršenje",
+    "content_delay": "Odgoditi",
+    "content_milliseconds": "Izvršiti u milisekundama"
+  }
+}

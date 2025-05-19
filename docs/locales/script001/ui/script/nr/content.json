@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "I-issssssssssssssasssssssasssssss.",
+          "label": "i",
+          "helperText": "I-issssssssssssssasssssssasssssss."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Nxa ngizizwa ngizizwa ngisiza! - -",
+          "label": "Ukukhiqizwa",
+          "helperText": "Ukukhiqizwa"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Hlola umcimbi ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Hlala ubukhulu ubukhulu .",
+          "label": "Hlala ubukhulu ubukhulu .",
+          "helperText": "Hlala ubukhulu ubukhulu ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Isakhiwo.",
+      "description": "I-asssssssssssssssssssssss."
+    },
+    "launcherName": "Hlala ukhumbule i ."
+  },
+  "SelectedContackList": {
+    "title": "Ukuhlukahluka kakhulu ."
+  }
+}

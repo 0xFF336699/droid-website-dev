@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "skabe",
+    "delete": "Slet",
+    "confirmDelete": "Er du sikker på, at du vil slette denne vare?",
+    "cancel": "Giv op",
+    "title": "advare"
+  }
+}

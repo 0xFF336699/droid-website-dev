@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "voorblad",
+    "me": "myne",
+    "settings": "opgestel",
+    "script": "draaiboek",
+    "store": "mark",
+    "market": "mark"
+  },
+  "tabbar": {
+    "test": "Onderste menubalk"
+  }
+}

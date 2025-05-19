@@ -1,0 +1,8 @@
+{
+  "content": {
+    "createButton": "skabe",
+    "noProjects": "Der er endnu ingen projekter på projektlisten, du kan oprette et nyt projekt",
+    "orFindFromMarket": "Eller find de krævede varer fra markedet",
+    "projects": "Projektliste"
+  }
+}

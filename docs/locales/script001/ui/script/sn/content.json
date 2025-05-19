@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nhamba yaunoda kutumira meseji kana kuita runhare",
+          "label": "nhamba yenhare",
+          "helperText": "Nhamba yaunoda kutumira meseji kana kuita runhare"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ini handina kugadzikana, uyai pano! ! !",
+          "label": "SMS zvemukati",
+          "helperText": "SMS zvemukati"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Regtient Rondedzero"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nhamba yekugamuchira nharembozha",
+          "label": "Nhamba yekugamuchira nharembozha",
+          "helperText": "Nhamba yekugamuchira nharembozha"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Gadzira ipfupi",
+      "description": "Gadzira mapfupi pane yako nhare desktop"
+    },
+    "launcherName": "Kurumidza kufona rubatsiro"
+  },
+  "SelectedContackList": {
+    "title": "Emergency Exton"
+  }
+}

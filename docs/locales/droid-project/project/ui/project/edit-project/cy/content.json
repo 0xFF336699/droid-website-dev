@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Nid yw'r prosiect yn bodoli",
+    "clickToSetProjectName": "Prosiectau dienw",
+    "projectTools": {
+      "run": "gweithredon"
+    }
+  }
+}

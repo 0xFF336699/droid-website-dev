@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "sukurti",
+    "delete": "Ištrinti",
+    "confirmDelete": "Ar tikrai norite ištrinti šį elementą?",
+    "cancel": "Atsisakyk",
+    "title": "perspėti"
+  }
+}

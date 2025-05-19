@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Нумар, які вы хочаце даслаць тэкставае паведамленне альбо патэлефанаваць",
+          "label": "нумар тэлефона",
+          "helperText": "Нумар, які вы хочаце даслаць тэкставае паведамленне альбо патэлефанаваць"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Мне крыху нязручна, ідзі сюды! ! !",
+          "label": "Змест SMS",
+          "helperText": "Змест SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Спіс атрымальнікаў SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Нумар мабільнага атрымальніка",
+          "label": "Нумар мабільнага атрымальніка",
+          "helperText": "Нумар мабільнага атрымальніка"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Стварыце ярлык",
+      "description": "Стварыце цэтлікі на мабільным працоўным стале"
+    },
+    "launcherName": "Тэрміновавы заклік да дапамогі"
+  },
+  "SelectedContackList": {
+    "title": "Аварыйны кантакт"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "An àireamh a tha thu airson teachdaireachd teacsa a chuir no gairm a-mach",
+          "label": "Àireamh fòn",
+          "helperText": "An àireamh a tha thu airson teachdaireachd teacsa a chuir no gairm a-mach"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Tha mi beagan mì-chofhurtail, thig an seo! ! !",
+          "label": "Sruth SMS",
+          "helperText": "Sruth SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Liosta neach-faighinn SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Àireamh gluasadach neach a gheibh e",
+          "label": "Àireamh gluasadach neach a gheibh e",
+          "helperText": "Àireamh gluasadach neach a gheibh e"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Cruthaich ath-ghoirid",
+      "description": "Cruthaich geàrr-chunntasan air an deasg gluasadach agad"
+    },
+    "launcherName": "Gairm èiginneach airson cuideachadh"
+  },
+  "SelectedContackList": {
+    "title": "Neach-conaltraidh èiginn èiginneach"
+  }
+}

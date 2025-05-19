@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nomor yang ingin Anda kirim pesan teks atau lakukan panggilan",
+          "label": "nomor telepon",
+          "helperText": "Nomor yang ingin Anda kirim pesan teks atau lakukan panggilan"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Saya sedikit tidak nyaman, datang ke sini! Lai Lai",
+          "label": "Konten SMS",
+          "helperText": "Konten SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Daftar Penerima SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nomor ponsel penerima",
+          "label": "Nomor ponsel penerima",
+          "helperText": "Nomor ponsel penerima"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Buat jalan pintas",
+      "description": "Buat jalan pintas di desktop seluler Anda"
+    },
+    "launcherName": "Panggilan mendesak untuk bantuan"
+  },
+  "SelectedContackList": {
+    "title": "Orang kontak darurat"
+  }
+}

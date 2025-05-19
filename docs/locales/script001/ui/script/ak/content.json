@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nnɔmba a wopɛ sɛ wode text message mena anaa wofrɛ no .",
+          "label": "Tɛlɛfon nɔma .",
+          "helperText": "Nnɔmba a wopɛ sɛ wode text message mena anaa wofrɛ no ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Me ho nyɛ me dɛ kakra, bra ha! ! !",
+          "label": "SMS mu Nsɛm .",
+          "helperText": "SMS mu Nsɛm ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Recipient List ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Obi a ogye mobile nɔma .",
+          "label": "Obi a ogye mobile nɔma .",
+          "helperText": "Obi a ogye mobile nɔma ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Yɛ ɔkwan tiawa bi .",
+      "description": "Yɛ akwan tiawa wɔ wo mobile desktop so ."
+    },
+    "launcherName": "Ɔfrɛ a egye ntɛmpɛ a wɔde hwehwɛ mmoa ."
+  },
+  "SelectedContackList": {
+    "title": "Onipa a obi ne no di nkitaho ntɛm ara ."
+  }
+}

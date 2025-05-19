@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Мәтіндік хабарлама жібергіңіз немесе қоңырау шалғыңыз келетін нөмір",
+          "label": "телефон нөмірі",
+          "helperText": "Мәтіндік хабарлама жібергіңіз немесе қоңырау шалғыңыз келетін нөмір"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Мен сәл ыңғайсызмын, осында кел! ! !",
+          "label": "SMS мазмұны",
+          "helperText": "SMS мазмұны"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS алушылардың тізімі"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Алушы ұялы нөмірі",
+          "label": "Алушы ұялы нөмірі",
+          "helperText": "Алушы ұялы нөмірі"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Төте жол жасаңыз",
+      "description": "Ұялы жұмыс үстелінде төте жолдар жасаңыз"
+    },
+    "launcherName": "Көмекке жедел қоңырау"
+  },
+  "SelectedContackList": {
+    "title": "Төтенше байланыс тұлғасы"
+  }
+}

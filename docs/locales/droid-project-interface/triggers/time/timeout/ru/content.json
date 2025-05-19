@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Отсроченное исполнение",
+    "content_delay": "Задерживать",
+    "content_milliseconds": "Выполнить в миллисекундах"
+  }
+}

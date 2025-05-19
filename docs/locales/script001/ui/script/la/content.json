@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numerus vis mittere text nuntium vel vocatio",
+          "label": "phone numerus",
+          "helperText": "Numerus vis mittere text nuntium vel vocatio"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ego paulo inconvenientes, veni huc! ! !",
+          "label": "SMS Content",
+          "helperText": "SMS Content"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Recipient List"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobile Number Recipient",
+          "label": "Mobile Number Recipient",
+          "helperText": "Mobile Number Recipient"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Partum a brevis",
+      "description": "Create shortcuts in vestri mobile desktop"
+    },
+    "launcherName": "Urgente vocatio auxilium"
+  },
+  "SelectedContackList": {
+    "title": "Subitis contactus hominem"
+  }
+}

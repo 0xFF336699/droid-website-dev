@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "prima pagina",
+    "me": "minera",
+    "settings": "istituisci",
+    "script": "script",
+    "store": "Mercatu",
+    "market": "Mercatu"
+  },
+  "tabbar": {
+    "test": "Barra di menu di fondu"
+  }
+}

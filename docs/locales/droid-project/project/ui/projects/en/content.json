@@ -1,0 +1,8 @@
+{
+  "content": {
+    "createButton": "create",
+    "noProjects": "There are no projects in the project list yet, you can create a new project",
+    "orFindFromMarket": "Or find the required items from the market",
+    "projects": "Project List"
+  }
+}

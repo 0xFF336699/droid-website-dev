@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numărul pe care doriți să -l trimiteți un mesaj text sau să faceți un apel",
+          "label": "număr de telefon",
+          "helperText": "Numărul pe care doriți să -l trimiteți un mesaj text sau să faceți un apel"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Sunt puțin incomod, vino aici! ! !",
+          "label": "Conținut SMS",
+          "helperText": "Conținut SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista destinatarului SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numărul de telefon destinatar",
+          "label": "Numărul de telefon destinatar",
+          "helperText": "Numărul de telefon destinatar"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Creați o scurtătură",
+      "description": "Creați comenzi rapide pe desktopul dvs. mobil"
+    },
+    "launcherName": "Apel urgent pentru ajutor"
+  },
+  "SelectedContackList": {
+    "title": "Persoană de contact de urgență"
+  }
+}

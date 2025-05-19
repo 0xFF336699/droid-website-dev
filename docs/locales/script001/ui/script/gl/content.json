@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "O número que desexa enviar unha mensaxe de texto ou facer unha chamada",
+          "label": "Número de teléfono",
+          "helperText": "O número que desexa enviar unha mensaxe de texto ou facer unha chamada"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Estou un pouco incómodo, ven aquí! ! !",
+          "label": "Contido SMS",
+          "helperText": "Contido SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista de destinatarios SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Número de móbil do destinatario",
+          "label": "Número de móbil do destinatario",
+          "helperText": "Número de móbil do destinatario"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Crea un atallo",
+      "description": "Crea atallos no teu escritorio móbil"
+    },
+    "launcherName": "Chamada urxente de axuda"
+  },
+  "SelectedContackList": {
+    "title": "Persoa de contacto de emerxencia"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "नम्बर जुन तपाईं पाठ सन्देश पठाउन चाहानुहुन्छ वा कल गर्नुहोस्",
+          "label": "फोन नम्बर",
+          "helperText": "नम्बर जुन तपाईं पाठ सन्देश पठाउन चाहानुहुन्छ वा कल गर्नुहोस्"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "म अलि अप्ठ्यारो छु, यहाँ आउनुहोस्! ! !",
+          "label": "SMS सामग्री",
+          "helperText": "SMS सामग्री"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS प्राप्तकर्ता सूची"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "प्राप्तकर्ता मोबाइल नम्बर",
+          "label": "प्राप्तकर्ता मोबाइल नम्बर",
+          "helperText": "प्राप्तकर्ता मोबाइल नम्बर"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "एक सर्टकट सिर्जना गर्नुहोस्",
+      "description": "तपाईंको मोबाइल डेस्कटपमा सर्टकटहरू सिर्जना गर्नुहोस्"
+    },
+    "launcherName": "मद्दतको लागि तत्काल कल"
+  },
+  "SelectedContackList": {
+    "title": "आपतकालीन सम्पर्क व्यक्ति"
+  }
+}

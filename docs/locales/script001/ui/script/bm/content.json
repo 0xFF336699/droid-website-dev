@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "I b’a fɛ ka sms ci nimɔrɔ min na walima i b’a fɛ ka weleli kɛ .",
+          "label": "Telefɔni nimɔrɔ .",
+          "helperText": "I b’a fɛ ka sms ci nimɔrɔ min na walima i b’a fɛ ka weleli kɛ ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ne dusu man di dɔɔnin, aw ka na yan! ! !",
+          "label": "SMS kɔnɔkow .",
+          "helperText": "SMS kɔnɔkow ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS sɔrɔbagaw ka lisi ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numéro de mobile à mobile .",
+          "label": "Numéro de mobile à mobile .",
+          "helperText": "Numéro de mobile à mobile ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Aw bɛ suruku dɔ da .",
+      "description": "Aw bɛ surukuw da aw ka mobili tabali kan ."
+    },
+    "launcherName": "Kɔrɔtɔko weleli ka kɛ dɛmɛ ye ."
+  },
+  "SelectedContackList": {
+    "title": "Kɔrɔtɔko la mɔgɔ min bɛ se ka kuma ."
+  }
+}

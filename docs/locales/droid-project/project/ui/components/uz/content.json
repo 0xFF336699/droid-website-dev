@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "yaratmoq",
+    "delete": "o'chirmoq",
+    "confirmDelete": "Ushbu mahsulotni yo'q qilmoqchimisiz?",
+    "cancel": "voz kechish",
+    "title": "ogohlantirmoq"
+  }
+}

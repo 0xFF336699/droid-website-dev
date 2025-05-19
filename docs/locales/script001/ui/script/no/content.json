@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nummeret du vil sende en tekstmelding eller ringe",
+          "label": "Telefonnummer",
+          "helperText": "Nummeret du vil sende en tekstmelding eller ringe"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Jeg er litt ukomfortabel, kom hit! ! !",
+          "label": "SMS -innhold",
+          "helperText": "SMS -innhold"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS mottakerliste"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mottakerens mobilnummer",
+          "label": "Mottakerens mobilnummer",
+          "helperText": "Mottakerens mobilnummer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Lag en snarvei",
+      "description": "Lag snarveier på det mobile skrivebordet ditt"
+    },
+    "launcherName": "Presserende samtale om hjelp"
+  },
+  "SelectedContackList": {
+    "title": "Nødkontaktperson"
+  }
+}

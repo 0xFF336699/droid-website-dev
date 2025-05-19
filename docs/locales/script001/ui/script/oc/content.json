@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Lo numèro que volètz mandar un messatge de tèxte o far una crida",
+          "label": "numèro de telefòn",
+          "helperText": "Lo numèro que volètz mandar un messatge de tèxte o far una crida"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Soi un pauc mal a l'aise, venètz aquí ! ! !",
+          "label": "contengut SMS",
+          "helperText": "contengut SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista de destinatari SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numèro mobil destinatari .",
+          "label": "Numèro mobil destinatari .",
+          "helperText": "Numèro mobil destinatari ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Crear un acorchi",
+      "description": "Creatz d'acorchis sus vòstre burèu mobil ."
+    },
+    "launcherName": "Convocatòria urgenta per ajudar"
+  },
+  "SelectedContackList": {
+    "title": "Persona de contacte d'urgéncia"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Talið, sum tú vilt senda sms ella ringja út",
+          "label": "telefonnummar",
+          "helperText": "Talið, sum tú vilt senda sms ella ringja út"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Eg eri eitt sindur óbehagiligur, kom higar! ! !",
+          "label": "SMS innihald",
+          "helperText": "SMS innihald"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS móttakaralisti"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Móttakari fartelefonnummar",
+          "label": "Móttakari fartelefonnummar",
+          "helperText": "Móttakari fartelefonnummar"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Stovna ein snarveg",
+      "description": "Skapa snarvegir á tínum fartelefon skriviborði"
+    },
+    "launcherName": "Bráðfeingis áheitan um hjálp"
+  },
+  "SelectedContackList": {
+    "title": "Bráðfeingis kontaktpersónur"
+  }
+}

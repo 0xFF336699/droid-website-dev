@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Pwojè a pa egziste",
+    "clickToSetProjectName": "Pwojè anonim",
+    "projectTools": {
+      "run": "akonpli"
+    }
+  }
+}

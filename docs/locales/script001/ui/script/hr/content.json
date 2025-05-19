@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Broj koji želite poslati tekstualnu poruku ili uputiti poziv",
+          "label": "telefonski broj",
+          "helperText": "Broj koji želite poslati tekstualnu poruku ili uputiti poziv"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Malo mi je neugodno, dođi ovamo! ! !",
+          "label": "SMS sadržaj",
+          "helperText": "SMS sadržaj"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Popis primatelja SMS -a"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Primatelj mobilnog broja",
+          "label": "Primatelj mobilnog broja",
+          "helperText": "Primatelj mobilnog broja"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Stvorite prečac",
+      "description": "Stvorite prečace na mobilnoj radnoj površini"
+    },
+    "launcherName": "Hitni poziv za pomoć"
+  },
+  "SelectedContackList": {
+    "title": "Osoba za kontakt za hitne slučajeve"
+  }
+}

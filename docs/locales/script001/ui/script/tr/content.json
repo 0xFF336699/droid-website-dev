@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Metin mesajı göndermek veya arama yapmak istediğiniz numara",
+          "label": "telefon numarası",
+          "helperText": "Metin mesajı göndermek veya arama yapmak istediğiniz numara"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Biraz rahatsızım, buraya gel! ! !",
+          "label": "SMS İçeriği",
+          "helperText": "SMS İçeriği"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Alıcı Listesi"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Alıcı Mobil Numarası",
+          "label": "Alıcı Mobil Numarası",
+          "helperText": "Alıcı Mobil Numarası"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kısayol Oluştur",
+      "description": "Mobil masaüstünüzde kısayollar oluşturun"
+    },
+    "launcherName": "Acil Yardım Çağrısı"
+  },
+  "SelectedContackList": {
+    "title": "Acil durum iletişim kişisi"
+  }
+}

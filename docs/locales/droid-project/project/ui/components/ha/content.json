@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "halitta",
+    "delete": "share",
+    "confirmDelete": "Shin kun tabbata kuna son share wannan abun?",
+    "cancel": "bari",
+    "title": "yi gargaɗi"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "እቲ ናይ ጽሑፍ መልእኽቲ ክትሰድድ ወይ ጻውዒት ክትገብር እትደሊ ቁጽሪ",
+          "label": "ቁጽሪ ተሌፎን",
+          "helperText": "እቲ ናይ ጽሑፍ መልእኽቲ ክትሰድድ ወይ ጻውዒት ክትገብር እትደሊ ቁጽሪ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ቁሩብ ዘይምቹእ እየ፣ ንዑ ናብዚ! ! !",
+          "label": "ትሕዝቶ ኤስኤምኤስ",
+          "helperText": "ትሕዝቶ ኤስኤምኤስ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "ዝርዝር ተቐባሊ ኤስ.ኤም.ኤስ ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "ተቐባሊ ሞባይል ቁጽሪ",
+          "label": "ተቐባሊ ሞባይል ቁጽሪ",
+          "helperText": "ተቐባሊ ሞባይል ቁጽሪ"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ኣቋራጭ መንገዲ ምፍጣር .",
+      "description": "ኣብ ሞባይልካ ኣቋራጭ መንገዲ ምፍጣር"
+    },
+    "launcherName": "ህጹጽ ጻውዒት ሓገዝ"
+  },
+  "SelectedContackList": {
+    "title": "ናይ ህጹጽ እዋን ርክብ ሰብ"
+  }
+}

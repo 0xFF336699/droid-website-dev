@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "आपण मजकूर संदेश पाठवू किंवा कॉल करू इच्छित असलेला नंबर",
+          "label": "फोन नंबर",
+          "helperText": "आपण मजकूर संदेश पाठवू किंवा कॉल करू इच्छित असलेला नंबर"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "मी जरा अस्वस्थ आहे, येथे या! ! !",
+          "label": "एसएमएस सामग्री",
+          "helperText": "एसएमएस सामग्री"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "एसएमएस प्राप्तकर्ता यादी"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "प्राप्तकर्ता मोबाइल नंबर",
+          "label": "प्राप्तकर्ता मोबाइल नंबर",
+          "helperText": "प्राप्तकर्ता मोबाइल नंबर"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "शॉर्टकट तयार करा",
+      "description": "आपल्या मोबाइल डेस्कटॉपवर शॉर्टकट तयार करा"
+    },
+    "launcherName": "मदतीसाठी त्वरित कॉल"
+  },
+  "SelectedContackList": {
+    "title": "आपत्कालीन संपर्क व्यक्ती"
+  }
+}

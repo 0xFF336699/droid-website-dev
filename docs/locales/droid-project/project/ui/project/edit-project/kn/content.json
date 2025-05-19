@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ಯೋಜನೆ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ",
+    "clickToSetProjectName": "ಹೆಸರಿಸದ ಯೋಜನೆಗಳು",
+    "projectTools": {
+      "run": "ಕಾರ್ಯರೂಪಕ್ಕೆ ತರು"
+    }
+  }
+}

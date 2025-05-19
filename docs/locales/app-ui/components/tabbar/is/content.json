@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "forsíðu",
+    "me": "Mín",
+    "settings": "Setja upp",
+    "script": "Handrit",
+    "store": "Markaður",
+    "market": "Markaður"
+  },
+  "tabbar": {
+    "test": "Neðri valmyndarstikan"
+  }
+}

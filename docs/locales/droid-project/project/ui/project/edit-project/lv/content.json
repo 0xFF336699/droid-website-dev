@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Projekts neeksistē",
+    "clickToSetProjectName": "Nenosaukti projekti",
+    "projectTools": {
+      "run": "ieviests"
+    }
+  }
+}

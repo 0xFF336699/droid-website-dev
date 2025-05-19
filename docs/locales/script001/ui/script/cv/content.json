@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Эсир текст хыпарне ярса парас е шăнкăравлăр.",
+          "label": "телефон",
+          "helperText": "Эсир текст хыпарне ярса парас е шăнкăравлăр."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Мана кăштах кансĕр, кунта кил! ! !",
+          "label": "СМС содержанийĕ",
+          "helperText": "СМС содержанийĕ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "СМС илекенсен списокĕ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Реципиент мобильлĕ номер",
+          "label": "Реципиент мобильлĕ номер",
+          "helperText": "Реципиент мобильлĕ номер"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Кĕске çул тăвасси",
+      "description": "Хăвăрăн мобильлĕ ĕç сĕтелĕ çинче ярлыксем тăвăр"
+    },
+    "launcherName": "Çивĕч пулăшу ыйтăр ."
+  },
+  "SelectedContackList": {
+    "title": "Чрезвычайлă лару-тăрупа çыхăннă çын"
+  }
+}

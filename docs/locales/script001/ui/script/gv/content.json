@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Yn earroo ta shiu dy yannoo text message ny dy yannoo call out",
+          "label": "phone",
+          "helperText": "Yn earroo ta shiu dy yannoo text message ny dy yannoo call out"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ta mee beggan anchasley, tar ayns shoh! ! !",
+          "label": "Teaghlagh SMS",
+          "helperText": "Teaghlagh SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lioar tashtee SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Lhiass-mobile mobile",
+          "label": "Lhiass-mobile mobile",
+          "helperText": "Lhiass-mobile mobile"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Cruinney y ghleashtan",
+      "description": "Creeaghyn er dty board mobile"
+    },
+    "launcherName": "Coorse y chur son cooney"
+  },
+  "SelectedContackList": {
+    "title": "Dooinney-tastey"
+  }
+}

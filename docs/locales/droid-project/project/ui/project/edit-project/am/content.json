@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ፕሮጀክቱ የለም",
+    "clickToSetProjectName": "ያልተሰየሙ ፕሮጄክቶች",
+    "projectTools": {
+      "run": "መተግበር"
+    }
+  }
+}

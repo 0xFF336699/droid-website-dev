@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "די נומער איר ווילן צו שיקן אַ טעקסט אָנזאָג אָדער מאַכן אַ רוף",
+          "label": "טעלעפאָנ-נומער",
+          "helperText": "די נומער איר ווילן צו שיקן אַ טעקסט אָנזאָג אָדער מאַכן אַ רוף"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "איך בין אַ ביסל ומבאַקוועם, קומען דאָ! ! !",
+          "label": "SMS אינהאַלט",
+          "helperText": "SMS אינהאַלט"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS באַקומער רשימה"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "באַקומער מאָביל נומער",
+          "label": "באַקומער מאָביל נומער",
+          "helperText": "באַקומער מאָביל נומער"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "שאַפֿן אַ דורכוועג",
+      "description": "שאַפֿן דורכוועג אויף דיין רירעוודיק דעסקטאַפּ"
+    },
+    "launcherName": "דרינגלעך רופן פֿאַר הילף"
+  },
+  "SelectedContackList": {
+    "title": "נויטפאַל קאָנטאַקט מענטש"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "front pagina",
+    "me": "miene",
+    "settings": "opzitte",
+    "script": "gesjreve stuk",
+    "store": "merret",
+    "market": "merret"
+  },
+  "tabbar": {
+    "test": "De bottom Menu Bar"
+  }
+}

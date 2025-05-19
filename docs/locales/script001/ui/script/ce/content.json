@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Текст дӀаяхьийта лууш долу номер я кхайкхам бан лууш долу терахь",
+          "label": "телефонан номер",
+          "helperText": "Текст дӀаяхьийта лууш долу номер я кхайкхам бан лууш долу терахь"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Со жимма синтем боцуш ву, схьавола кхуза! ! !",
+          "label": "SMS чулацам",
+          "helperText": "SMS чулацам"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS схьаоьцу тептар"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Реципиент мобилан номер",
+          "label": "Реципиент мобилан номер",
+          "helperText": "Реципиент мобилан номер"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Косилка кхолла .",
+      "description": "Хьайн мобилан стоьла тӀехь ярлыкаш кхолла ."
+    },
+    "launcherName": "ГӀалин кхайкхам баре гӀо дан"
+  },
+  "SelectedContackList": {
+    "title": "Орцан контакт стаг"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "kreye",
+    "delete": "efase",
+    "confirmDelete": "Èske ou sèten ou vle efase atik sa a?",
+    "cancel": "bay",
+    "title": "avèti"
+  }
+}

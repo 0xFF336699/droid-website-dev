@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numéro oyo olingi kotinda message to kosala appel out .",
+          "label": "Numéro ya téléphone .",
+          "helperText": "Numéro oyo olingi kotinda message to kosala appel out ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Naza mua inconfortable, yaka awa! ! !",
+          "label": "Contenu ya SMS .",
+          "helperText": "Contenu ya SMS ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Liste ya ba destinataires ya SMS ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Motángo ya telefone ya mabɔkɔ oyo ezwi yango .",
+          "label": "Motángo ya telefone ya mabɔkɔ oyo ezwi yango .",
+          "helperText": "Motángo ya telefone ya mabɔkɔ oyo ezwi yango ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Bosala nzela mokuse .",
+      "description": "Salá ba raccourcis na bureau na yo ya telefone ya mabɔkɔ ."
+    },
+    "launcherName": "Lisengi ya lisalisi ya nokinoki mpo na lisalisi ."
+  },
+  "SelectedContackList": {
+    "title": "Moto oyo azali kokutana na likambo ya mbalakaka ."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Атексттә дырраҭара ашьҭра, мамзаргьы аҭел ааушьҭырц иуҭаху ахыԥхьаӡара",
+          "label": "аҭел аномер",
+          "helperText": "Атексттә дырраҭара ашьҭра, мамзаргьы аҭел ааушьҭырц иуҭаху ахыԥхьаӡара"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Маҷк сгәы нмырхакәа, арахь уааи! ! !",
+          "label": "СМС аҵакы",
+          "helperText": "СМС аҵакы"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "АСМС адкылага рсиа"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Азауад амобилтә номер",
+          "label": "Азауад амобилтә номер",
+          "helperText": "Азауад амобилтә номер"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Иаԥҵатәуп аҿаԥара",
+      "description": "Имобилтә стол аҿы аҿацәқәа ҟашәҵа"
+    },
+    "launcherName": "Ацхыраара азы лассы-лассы ааԥхьара"
+  },
+  "SelectedContackList": {
+    "title": "Аԥшратә контакттә усзуҩы"
+  }
+}

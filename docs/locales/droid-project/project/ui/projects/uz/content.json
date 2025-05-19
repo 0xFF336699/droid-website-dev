@@ -1,0 +1,8 @@
+{
+  "content": {
+    "createButton": "yaratmoq",
+    "noProjects": "Loyihalar ro'yxatida hali loyihalar yo'q, siz yangi loyihani yaratishingiz mumkin",
+    "orFindFromMarket": "Yoki bozordan kerakli narsalarni toping",
+    "projects": "Loyihalar ro'yxati"
+  }
+}

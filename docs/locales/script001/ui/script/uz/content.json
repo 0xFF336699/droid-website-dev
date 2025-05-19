@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Matnli xabar yubormoqchi bo'lgan raqam yoki qo'ng'iroq qilish",
+          "label": "Telefon raqami",
+          "helperText": "Matnli xabar yubormoqchi bo'lgan raqam yoki qo'ng'iroq qilish"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Men biroz noqulayman, bu erga keling! ! !",
+          "label": "SMS tarkibi",
+          "helperText": "SMS tarkibi"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS qabul qiluvchilar ro'yxati"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Qabul qiluvchi mobil raqam",
+          "label": "Qabul qiluvchi mobil raqam",
+          "helperText": "Qabul qiluvchi mobil raqam"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Yorliq yaratish",
+      "description": "Mobil ish stoliingizda yorliqlarni yarating"
+    },
+    "launcherName": "Yordam so'rab shoshilinch qo'ng'iroq"
+  },
+  "SelectedContackList": {
+    "title": "Favqulodda vaziyat bilan bog'langan shaxs"
+  }
+}

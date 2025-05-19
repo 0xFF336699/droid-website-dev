@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Huk qillqa willayta apachiyta munasqayki yupayta utaq huk waqyayta ruwayta munanki .",
+          "label": "Teléfono yupay .",
+          "helperText": "Huk qillqa willayta apachiyta munasqayki yupayta utaq huk waqyayta ruwayta munanki ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Estoy un poco incómodo, ven aquí! ! !",
+          "label": "SMS nisqa contenido .",
+          "helperText": "SMS nisqa contenido ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS chaskiq lista ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Chaskiq Cóvil Numero .",
+          "label": "Chaskiq Cóvil Numero .",
+          "helperText": "Chaskiq Cóvil Numero ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Huk llalliq ñanta ruway .",
+      "description": "Ruwanapaq kuyuchina mesaykipi llalliq ñankunata ruway ."
+    },
+    "launcherName": "Urgente llamada a la ayuda ."
+  },
+  "SelectedContackList": {
+    "title": "Emergencia Contacto Runa ."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "તમે ટેક્સ્ટ સંદેશ મોકલવા અથવા ક call લ કરવા માંગો છો તે નંબર",
+          "label": "ફોન નંબર",
+          "helperText": "તમે ટેક્સ્ટ સંદેશ મોકલવા અથવા ક call લ કરવા માંગો છો તે નંબર"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "હું થોડી અસ્વસ્થતા છું, અહીં આવો! ! !",
+          "label": "એસએમએસ સામગ્રી",
+          "helperText": "એસએમએસ સામગ્રી"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "એસએમએસ પ્રાપ્તકર્તા સૂચિ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "પ્રાપ્ત કરનાર મોબાઇલ નંબર",
+          "label": "પ્રાપ્ત કરનાર મોબાઇલ નંબર",
+          "helperText": "પ્રાપ્ત કરનાર મોબાઇલ નંબર"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "શોર્ટકટ બનાવો",
+      "description": "તમારા મોબાઇલ ડેસ્કટ .પ પર શોર્ટકટ્સ બનાવો"
+    },
+    "launcherName": "મદદ માટે તાત્કાલિક ક call લ"
+  },
+  "SelectedContackList": {
+    "title": "કટોકટી સંપર્ક વ્યક્તિ"
+  }
+}

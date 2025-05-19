@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Tekst habaryny ibermek ýa-da jaň etmek isleýän belgiňiz",
+          "label": "telefon belgisi",
+          "helperText": "Tekst habaryny ibermek ýa-da jaň etmek isleýän belgiňiz"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Men az oňaýsyz, bärik gel, bärik geliň! ! !",
+          "label": "SMS mazmuny",
+          "helperText": "SMS mazmuny"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Alyjy sanawy"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Alyjynyň ykjam belgisi",
+          "label": "Alyjynyň ykjam belgisi",
+          "helperText": "Alyjynyň ykjam belgisi"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Gysga ýol dörediň",
+      "description": "Ykjam iş stoluňyzda gysga ýollary dörediň"
+    },
+    "launcherName": "Kömek üçin gyssagly jaň"
+  },
+  "SelectedContackList": {
+    "title": "Gyssagly habarlaşyň"
+  }
+}

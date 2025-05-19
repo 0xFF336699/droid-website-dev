@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "U numeru chì vulete mandà un messagiu testu o fà una chjama",
+          "label": "numeru di telefonu",
+          "helperText": "U numeru chì vulete mandà un messagiu testu o fà una chjama"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Sò un pocu scomdu, vene quì! ! !",
+          "label": "Contenutu SMS",
+          "helperText": "Contenutu SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista Diceventi SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numeru Mobile di destinatariu",
+          "label": "Numeru Mobile di destinatariu",
+          "helperText": "Numeru Mobile di destinatariu"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Crea un scurciatu",
+      "description": "Crea Shortcuts nantu à u vostru Desktop Mobile"
+    },
+    "launcherName": "Chjama urgente per l'aiutu"
+  },
+  "SelectedContackList": {
+    "title": "Persona di cuntattu d'emergenza"
+  }
+}

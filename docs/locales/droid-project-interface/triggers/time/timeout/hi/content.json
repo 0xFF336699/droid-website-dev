@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "विलंबित निष्पादन",
+    "content_delay": "देरी",
+    "content_milliseconds": "मिलीसेकंड में निष्पादित करें"
+  }
+}

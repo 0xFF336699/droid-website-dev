@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Hejmara ku hûn dixwazin peyamek nivîsandinê bişînin an bangek çêbikin",
+          "label": "jimare telefon",
+          "helperText": "Hejmara ku hûn dixwazin peyamek nivîsandinê bişînin an bangek çêbikin"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ez hinekî aciz im, werin vir! ! !",
+          "label": "Naveroka SMS",
+          "helperText": "Naveroka SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lîsteya wergirê SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Hejmara Mobile Mobile",
+          "label": "Hejmara Mobile Mobile",
+          "helperText": "Hejmara Mobile Mobile"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kurteçek çêbikin",
+      "description": "Li ser sermaseya xweya mobîl kurtek çêbikin"
+    },
+    "launcherName": "Banga lezgîn ji bo alîkariyê"
+  },
+  "SelectedContackList": {
+    "title": "Kesê Têkiliya EMERGENCY"
+  }
+}

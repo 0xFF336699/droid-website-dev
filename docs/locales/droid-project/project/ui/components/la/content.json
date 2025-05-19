@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "creo",
+    "delete": "delete",
+    "confirmDelete": "Certus tu vis delere hoc item?",
+    "cancel": "subscribo",
+    "title": "moneo"
+  }
+}

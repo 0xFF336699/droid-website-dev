@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "আপনি যে নম্বরটি একটি পাঠ্য বার্তা প্রেরণ করতে চান বা কল আউট করতে চান",
+          "label": "ফোন নম্বর",
+          "helperText": "আপনি যে নম্বরটি একটি পাঠ্য বার্তা প্রেরণ করতে চান বা কল আউট করতে চান"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "আমি একটু অস্বস্তি, এখানে এসো! আর! আর!",
+          "label": "এসএমএস সামগ্রী",
+          "helperText": "এসএমএস সামগ্রী"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "এসএমএস প্রাপক তালিকা"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "প্রাপক মোবাইল নম্বর",
+          "label": "প্রাপক মোবাইল নম্বর",
+          "helperText": "প্রাপক মোবাইল নম্বর"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "একটি শর্টকাট তৈরি করুন",
+      "description": "আপনার মোবাইল ডেস্কটপে শর্টকাট তৈরি করুন"
+    },
+    "launcherName": "সাহায্যের জন্য জরুরি কল"
+  },
+  "SelectedContackList": {
+    "title": "জরুরী যোগাযোগের ব্যক্তি"
+  }
+}

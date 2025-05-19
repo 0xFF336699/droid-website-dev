@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Aikin ba ya wanzu",
+    "clickToSetProjectName": "Ayyukan da ba a ambata ba",
+    "projectTools": {
+      "run": "cika"
+    }
+  }
+}

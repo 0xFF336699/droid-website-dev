@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "وہ نمبر جو آپ ٹیکسٹ میسج بھیجنا چاہتے ہیں یا کال کرنا چاہتے ہیں",
+          "label": "فون نمبر",
+          "helperText": "وہ نمبر جو آپ ٹیکسٹ میسج بھیجنا چاہتے ہیں یا کال کرنا چاہتے ہیں"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "میں تھوڑا سا بے چین ہوں ، یہاں آو! ! !",
+          "label": "ایس ایم ایس مواد",
+          "helperText": "ایس ایم ایس مواد"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "ایس ایم ایس وصول کنندہ کی فہرست"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "وصول کنندہ موبائل نمبر",
+          "label": "وصول کنندہ موبائل نمبر",
+          "helperText": "وصول کنندہ موبائل نمبر"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ایک شارٹ کٹ بنائیں",
+      "description": "اپنے موبائل ڈیسک ٹاپ پر شارٹ کٹ بنائیں"
+    },
+    "launcherName": "مدد کے لئے فوری کال"
+  },
+  "SelectedContackList": {
+    "title": "ہنگامی رابطہ شخص"
+  }
+}

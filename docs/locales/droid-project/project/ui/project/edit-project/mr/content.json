@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "प्रकल्प अस्तित्त्वात नाही",
+    "clickToSetProjectName": "अज्ञात प्रकल्प",
+    "projectTools": {
+      "run": "अंमलबजावणी"
+    }
+  }
+}

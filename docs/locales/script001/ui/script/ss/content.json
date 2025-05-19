@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Inombolo lofuna kutfumela umlayeto wembhalo nobe ushayele kushayela .",
+          "label": "lucingo",
+          "helperText": "Inombolo lofuna kutfumela umlayeto wembhalo nobe ushayele kushayela ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ngingakhululeki kancane, wota lapha! ? ?",
+          "label": "Lokucuketfwe yi-SMS",
+          "helperText": "Lokucuketfwe yi-SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Luhla lwekwemukela i-SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Inombolo yeselula lemukelako",
+          "label": "Inombolo yeselula lemukelako",
+          "helperText": "Inombolo yeselula lemukelako"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Dala sicubile",
+      "description": "Dala tindlela letimfisha ku-desktop yakho yeselula"
+    },
+    "launcherName": "Kubita lusito loluphutfumako"
+  },
+  "SelectedContackList": {
+    "title": "Umuntfu lotsintsana na"
+  }
+}

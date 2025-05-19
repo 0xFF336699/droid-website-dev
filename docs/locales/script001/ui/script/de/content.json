@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Die Nummer, die Sie eine SMS senden oder einen Anruf tätigen möchten",
+          "label": "Telefonnummer",
+          "helperText": "Die Nummer, die Sie eine SMS senden oder einen Anruf tätigen möchten"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ich bin ein bisschen unangenehm, komm her! ! !",
+          "label": "SMS -Inhalt",
+          "helperText": "SMS -Inhalt"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -Empfängerliste"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Empfängernummer",
+          "label": "Empfängernummer",
+          "helperText": "Empfängernummer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Erstellen Sie eine Abkürzung",
+      "description": "Erstellen Sie Verknüpfungen auf Ihrem mobilen Desktop"
+    },
+    "launcherName": "Dringender Hilfe um Hilfe"
+  },
+  "SelectedContackList": {
+    "title": "Notfallkontaktperson"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "作成する",
+    "delete": "消去",
+    "confirmDelete": "このアイテムを削除したいですか？",
+    "cancel": "あきらめる",
+    "title": "警告"
+  }
+}

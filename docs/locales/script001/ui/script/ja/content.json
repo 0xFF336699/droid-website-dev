@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "テキストメッセージを送信したい番号または電話をかけたい",
+          "label": "電話番号",
+          "helperText": "テキストメッセージを送信したい番号または電話をかけたい"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "私は少し不快です、ここに来てください！ ！ ！",
+          "label": "SMSコンテンツ",
+          "helperText": "SMSコンテンツ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMSレシピエントリスト"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "受信者の携帯電話番号",
+          "label": "受信者の携帯電話番号",
+          "helperText": "受信者の携帯電話番号"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ショートカットを作成します",
+      "description": "モバイルデスクトップにショートカットを作成します"
+    },
+    "launcherName": "緊急の助けを求める"
+  },
+  "SelectedContackList": {
+    "title": "緊急連絡先"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "మీరు వచన సందేశాన్ని పంపించాలనుకుంటున్న సంఖ్య లేదా కాల్ చేయండి",
+          "label": "ఫోన్ నంబర్",
+          "helperText": "మీరు వచన సందేశాన్ని పంపించాలనుకుంటున్న సంఖ్య లేదా కాల్ చేయండి"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "నేను కొంచెం అసౌకర్యంగా ఉన్నాను, ఇక్కడకు రండి! ! !",
+          "label": "SMS కంటెంట్",
+          "helperText": "SMS కంటెంట్"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS గ్రహీత జాబితా"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "గ్రహీత మొబైల్ సంఖ్య",
+          "label": "గ్రహీత మొబైల్ సంఖ్య",
+          "helperText": "గ్రహీత మొబైల్ సంఖ్య"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "సత్వరమార్గాన్ని సృష్టించండి",
+      "description": "మీ మొబైల్ డెస్క్‌టాప్‌లో సత్వరమార్గాలను సృష్టించండి"
+    },
+    "launcherName": "సహాయం కోసం అత్యవసర కాల్"
+  },
+  "SelectedContackList": {
+    "title": "అత్యవసర సంప్రదింపు వ్యక్తి"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "loowo atu rubtam faxxam kutbe farmo hinnay seeco tatrus",
+          "label": "silki qar",
+          "helperText": "loowo atu rubtam faxxam kutbe farmo hinnay seeco tatrus"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Anu dagoom sahha axce wee, akke amaateh! ! !",
+          "label": "SMS addatino",
+          "helperText": "SMS addatino"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS qagisiyenti rorta"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobaayil mobaayil ixxima",
+          "label": "Mobaayil mobaayil ixxima",
+          "helperText": "Mobaayil mobaayil ixxima"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Ux ux hadliyya hadla",
+      "description": "Ux gititte gin kok mobaayil desktopil"
+    },
+    "launcherName": "Catoh seecoh seeco"
+  },
+  "SelectedContackList": {
+    "title": "Meqem abitti numu ongoorow"
+  }
+}

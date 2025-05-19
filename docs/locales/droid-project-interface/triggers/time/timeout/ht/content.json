@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Anreta ekzekisyon",
+    "content_delay": "Mize",
+    "content_milliseconds": "Egzekite nan milisgond"
+  }
+}

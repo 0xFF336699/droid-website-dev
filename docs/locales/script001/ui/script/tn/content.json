@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nomoro e o batlang go e romela molaetsa wa founo kgotsa go leletsa mogala",
+          "label": "nomoro ya mogala",
+          "helperText": "Nomoro e o batlang go e romela molaetsa wa founo kgotsa go leletsa mogala"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ke sa phuthologa go se kae, tla kwano! ! !",
+          "label": "Diteng tsa SMS",
+          "helperText": "Diteng tsa SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lenaane la moamogedi wa SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nomoro ya selulafouno e e amogelang",
+          "label": "Nomoro ya selulafouno e e amogelang",
+          "helperText": "Nomoro ya selulafouno e e amogelang"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Tlhama tlhabanyetso",
+      "description": "Tlhama dikgaoganyo mo desekethopong ya gago ya selulafouno"
+    },
+    "launcherName": "Tlhotlhela thuso ka bonako"
+  },
+  "SelectedContackList": {
+    "title": "Motho wa maemo a tshoganyetso"
+  }
+}

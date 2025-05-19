@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "আপুনি এটা টেক্সট মেছেজ বা কল আউট কৰিব বিচৰা নম্বৰটো",
+          "label": "ফোন নম্বৰ",
+          "helperText": "আপুনি এটা টেক্সট মেছেজ বা কল আউট কৰিব বিচৰা নম্বৰটো"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "মই অলপ অস্বস্তিত পৰিছো, ইয়ালৈ আহক! ! !",
+          "label": "SMS বিষয়বস্তু",
+          "helperText": "SMS বিষয়বস্তু"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS গ্ৰহণকাৰী তালিকা"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "গ্ৰাহক মোবাইল নম্বৰ",
+          "label": "গ্ৰাহক মোবাইল নম্বৰ",
+          "helperText": "গ্ৰাহক মোবাইল নম্বৰ"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "এটা চৰ্টকাট সৃষ্টি কৰক",
+      "description": "আপোনাৰ মোবাইল ডেস্কটপত চৰ্টকাট সৃষ্টি কৰক"
+    },
+    "launcherName": "সহায়ৰ বাবে জৰুৰী আহ্বান"
+  },
+  "SelectedContackList": {
+    "title": "জৰুৰীকালীন যোগাযোগ ব্যক্তি"
+  }
+}

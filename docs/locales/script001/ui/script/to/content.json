@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Ko e fika 'oku ke fie 'ave ha fekau text pe fai ha ui .",
+          "label": "fika telefoni",
+          "helperText": "Ko e fika 'oku ke fie 'ave ha fekau text pe fai ha ui ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "'Oku ou ki'i ta'efiemalie, ha'u ki heni! ! !",
+          "label": "Ko e kakano SMS",
+          "helperText": "Ko e kakano SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "lisi 'o e kau ma'u SMS ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Fika fe'ave'aki pa'anga .",
+          "label": "Fika fe'ave'aki pa'anga .",
+          "helperText": "Fika fe'ave'aki pa'anga ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Faʻu ha founga fakanounou .",
+      "description": "Faʻu ha ngaahi fakanounou ʻi hoʻo tesi feʻaveʻakí ."
+    },
+    "launcherName": "ui fakavavevave ki ha tokoni ."
+  },
+  "SelectedContackList": {
+    "title": "Tokotaha fetu'utaki fakavavevave"
+  }
+}

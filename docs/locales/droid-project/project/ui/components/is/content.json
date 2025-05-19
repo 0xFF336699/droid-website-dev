@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "Búa til",
+    "delete": "Eyða",
+    "confirmDelete": "Ertu viss um að þú viljir eyða þessum hlut?",
+    "cancel": "gefast upp",
+    "title": "vara við"
+  }
+}

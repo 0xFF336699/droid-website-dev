@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Ang proyekto ay hindi umiiral",
+    "clickToSetProjectName": "Hindi pinangalanan na mga proyekto",
+    "projectTools": {
+      "run": "ipatupad"
+    }
+  }
+}

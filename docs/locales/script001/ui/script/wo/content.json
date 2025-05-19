@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nimero bi nga bëgg a yónnee ab mesaasu mbind wala nga woo ko",
+          "label": "nimero telefon",
+          "helperText": "Nimero bi nga bëgg a yónnee ab mesaasu mbind wala nga woo ko"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Man maa ngi ci jafe-jafe, ñëwal fii! ! !",
+          "label": "Ëmbiit SMS",
+          "helperText": "Ëmbiit SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Limu ñiy joxe SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nimero mobil",
+          "label": "Nimero mobil",
+          "helperText": "Nimero mobil"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sosal ab diir",
+      "description": "Sosal ay gaawaay ci sa biro mobile"
+    },
+    "launcherName": "woote bu am solo ngir ndimbal"
+  },
+  "SelectedContackList": {
+    "title": "Ku nekk ci jokkoo ak jafe-jafe"
+  }
+}

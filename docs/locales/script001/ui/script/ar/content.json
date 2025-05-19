@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "الرقم الذي تريد إرسال رسالة نصية أو إجراء مكالمة",
+          "label": "رقم التليفون",
+          "helperText": "الرقم الذي تريد إرسال رسالة نصية أو إجراء مكالمة"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "أنا غير مرتاح قليلاً ، تعال إلى هنا! ! !",
+          "label": "محتوى الرسائل القصيرة",
+          "helperText": "محتوى الرسائل القصيرة"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "قائمة مستلم الرسائل القصيرة"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "رقم الهاتف المحمول المتلقي",
+          "label": "رقم الهاتف المحمول المتلقي",
+          "helperText": "رقم الهاتف المحمول المتلقي"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "إنشاء اختصار",
+      "description": "قم بإنشاء اختصارات على سطح المكتب المحمول الخاص بك"
+    },
+    "launcherName": "دعوة عاجلة للمساعدة"
+  },
+  "SelectedContackList": {
+    "title": "شخص الاتصال في حالات الطوارئ"
+  }
+}

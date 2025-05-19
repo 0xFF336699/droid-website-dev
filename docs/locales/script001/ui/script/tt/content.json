@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Сез текст хәбәрен җибәрергә яки шалтыратырга теләгән номер",
+          "label": "Телефон номеры",
+          "helperText": "Сез текст хәбәрен җибәрергә яки шалтыратырга теләгән номер"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Мин монда бераз уңайсыз! ! !",
+          "label": "SMS эчтәлеге",
+          "helperText": "SMS эчтәлеге"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS алучы исемлек"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Алучы мобиль номер",
+          "label": "Алучы мобиль номер",
+          "helperText": "Алучы мобиль номер"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Кыска юл ясагыз",
+      "description": "Кәрәзле эш өстәлендә кыска юллар булдыру"
+    },
+    "launcherName": "Ярдәм өчен ашыгыч шалтырату"
+  },
+  "SelectedContackList": {
+    "title": "Ашыгыч ярдәм кешесе"
+  }
+}

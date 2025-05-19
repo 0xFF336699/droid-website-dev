@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Inombolo ofuna ukuthumela umyalezo wombhalo noma yenza ucingo luphume",
+          "label": "inombolo yocingo",
+          "helperText": "Inombolo ofuna ukuthumela umyalezo wombhalo noma yenza ucingo luphume"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Angikhululekile, woza lapha! ! !",
+          "label": "Okuqukethwe kwe-SMS",
+          "helperText": "Okuqukethwe kwe-SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Uhlu lwabamukeli be-SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Inombolo yeselula etholwayo",
+          "label": "Inombolo yeselula etholwayo",
+          "helperText": "Inombolo yeselula etholwayo"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Dala isinqamuleli",
+      "description": "Dala izinqamuleli kwideskithophu yakho yeselula"
+    },
+    "launcherName": "Ucingo oluphuthumayo lokuthola usizo"
+  },
+  "SelectedContackList": {
+    "title": "Umuntu oxhumana naye ophuthumayo"
+  }
+}

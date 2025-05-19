@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Projekti nuk ekziston",
+    "clickToSetProjectName": "Projekte pa emër",
+    "projectTools": {
+      "run": "zbatoj"
+    }
+  }
+}

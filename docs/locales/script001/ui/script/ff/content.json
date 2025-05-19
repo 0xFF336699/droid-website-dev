@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Limre nde njiɗɗaa neldude mesaas binndol walla waɗde noddaango",
+          "label": "nyiɓandu telefoŋ",
+          "helperText": "Limre nde njiɗɗaa neldude mesaas binndol walla waɗde noddaango"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Miin ko mi weltaaki seeɗa, mi ar ɗoo! ! !",
+          "label": "Loowdi SMS",
+          "helperText": "Loowdi SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Doggol keɓoowo SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Limre mobiil keɓoowo",
+          "label": "Limre mobiil keɓoowo",
+          "helperText": "Limre mobiil keɓoowo"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sosde jokkorgal",
+      "description": "Sos seeɗa e desktop maa mobiil"
+    },
+    "launcherName": "Noddaango Urgent ngam ballal"
+  },
+  "SelectedContackList": {
+    "title": "Neɗɗo jokkondirɗo e emergency"
+  }
+}

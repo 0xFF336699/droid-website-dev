@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Umubare ushaka kohereza ubutumwa canke guhamagara .",
+          "label": "inomero ya telefone",
+          "helperText": "Umubare ushaka kohereza ubutumwa canke guhamagara ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ndi umuntu ntameze neza gatoyi, n’aha! ! !",
+          "label": "Ibiri muri SMS",
+          "helperText": "Ibiri muri SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Urutonde rw'abakira SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Inomero ya telefone ngendanwa",
+          "label": "Inomero ya telefone ngendanwa",
+          "helperText": "Inomero ya telefone ngendanwa"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Rema inzira ngufi",
+      "description": "Rema inzira ngufi ku biro vyawe vy'amatelefone"
+    },
+    "launcherName": "Gusaba imfashanyo"
+  },
+  "SelectedContackList": {
+    "title": "Umuntu w'umunyamwete"
+  }
+}

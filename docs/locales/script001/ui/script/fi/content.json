@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numero, jonka haluat lähettää tekstiviestin tai soittaa",
+          "label": "puhelinnumero",
+          "helperText": "Numero, jonka haluat lähettää tekstiviestin tai soittaa"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Olen hieman epämiellyttävä, tule tänne! Vasiksi Vasiksi",
+          "label": "SMS -sisältö",
+          "helperText": "SMS -sisältö"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -vastaanottajaluettelo"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Vastaanottajan matkapuhelinnumero",
+          "label": "Vastaanottajan matkapuhelinnumero",
+          "helperText": "Vastaanottajan matkapuhelinnumero"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Luo pikakuvake",
+      "description": "Luo pikanäppäimiä mobiilipöydälle"
+    },
+    "launcherName": "Kiireellinen avustuspyyntö"
+  },
+  "SelectedContackList": {
+    "title": "Hätäyhteyshenkilö"
+  }
+}

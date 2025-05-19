@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numerį, kurį norite išsiųsti tekstinį pranešimą arba paskambinkite",
+          "label": "Telefono numeris",
+          "helperText": "Numerį, kurį norite išsiųsti tekstinį pranešimą arba paskambinkite"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Man šiek tiek nepatogu, ateik čia! ! !",
+          "label": "SMS turinys",
+          "helperText": "SMS turinys"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS gavėjų sąrašas"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Gavėjo mobiliojo telefono numeris",
+          "label": "Gavėjo mobiliojo telefono numeris",
+          "helperText": "Gavėjo mobiliojo telefono numeris"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sukurkite nuorodą",
+      "description": "Sukurkite nuorodas į savo mobilųjį darbalaukį"
+    },
+    "launcherName": "Skubus pagalbos kvietimas"
+  },
+  "SelectedContackList": {
+    "title": "Avarinis kontaktinis asmuo"
+  }
+}

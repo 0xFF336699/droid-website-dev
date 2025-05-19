@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "naslovnica",
+    "me": "rudnik",
+    "settings": "postaviti",
+    "script": "scenarij",
+    "store": "tržište",
+    "market": "tržište"
+  },
+  "tabbar": {
+    "test": "Dno trake izbornika"
+  }
+}

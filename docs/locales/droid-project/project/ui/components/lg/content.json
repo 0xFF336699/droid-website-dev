@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "okutonda",
+    "delete": "okusiimuula",
+    "confirmDelete": "Okakasa nti oyagala kusazaamu kintu kino?",
+    "cancel": "okuwanika",
+    "title": "okulabula"
+  }
+}

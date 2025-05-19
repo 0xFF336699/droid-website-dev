@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Праект не існуе",
+    "clickToSetProjectName": "Неназваныя праекты",
+    "projectTools": {
+      "run": "выконваць"
+    }
+  }
+}

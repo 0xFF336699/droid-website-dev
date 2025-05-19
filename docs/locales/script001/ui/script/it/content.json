@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Il numero che desideri inviare un messaggio di testo o effettua una chiamata",
+          "label": "Numero di telefono",
+          "helperText": "Il numero che desideri inviare un messaggio di testo o effettua una chiamata"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Sono un po 'a disagio, vieni qui! ! !",
+          "label": "Contenuto SMS",
+          "helperText": "Contenuto SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Elenco dei destinatari SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numero di cellulare destinatario",
+          "label": "Numero di cellulare destinatario",
+          "helperText": "Numero di cellulare destinatario"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Crea un collegamento",
+      "description": "Crea scorciatoie sul tuo desktop mobile"
+    },
+    "launcherName": "Chiamata urgente per chiedere aiuto"
+  },
+  "SelectedContackList": {
+    "title": "Persona di contatto di emergenza"
+  }
+}

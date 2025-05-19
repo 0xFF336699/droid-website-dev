@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "radīt",
+    "delete": "dzēst",
+    "confirmDelete": "Vai esat pārliecināts, ka vēlaties izdzēst šo vienumu?",
+    "cancel": "atteikties",
+    "title": "brīdināt"
+  }
+}

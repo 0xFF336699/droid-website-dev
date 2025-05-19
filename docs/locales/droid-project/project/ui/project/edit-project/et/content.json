@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Projekti pole olemas",
+    "clickToSetProjectName": "Nimetu projektid",
+    "projectTools": {
+      "run": "rakendama"
+    }
+  }
+}

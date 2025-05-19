@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Númerið sem þú vilt senda textaskilaboð eða hringja",
+          "label": "símanúmer",
+          "helperText": "Númerið sem þú vilt senda textaskilaboð eða hringja"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Mér er svolítið óþægilegt, komdu hingað! ! !",
+          "label": "SMS innihald",
+          "helperText": "SMS innihald"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS viðtakandi listi"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Viðtakandi farsímanúmer",
+          "label": "Viðtakandi farsímanúmer",
+          "helperText": "Viðtakandi farsímanúmer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Búðu til flýtileið",
+      "description": "Búðu til flýtileiðir á farsímaskjáborðinu þínu"
+    },
+    "launcherName": "Brýnt ákall um hjálp"
+  },
+  "SelectedContackList": {
+    "title": "Neyðarsamskiptamaður"
+  }
+}

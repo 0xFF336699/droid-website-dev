@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ལས་གཞི་དེ་གནས་མེད།",
+    "clickToSetProjectName": "མིང་མེད་པའི་ལས་གཞི།",
+    "projectTools": {
+      "run": "ཡོ་ཆས"
+    }
+  }
+}

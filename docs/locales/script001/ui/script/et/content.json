@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Number, mida soovite tekstsõnumi saata või helistada",
+          "label": "telefoninumber",
+          "helperText": "Number, mida soovite tekstsõnumi saata või helistada"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Mul on natuke ebamugav, tule siia! ! !",
+          "label": "SMS -sisu",
+          "helperText": "SMS -sisu"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -i saajate nimekiri"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Saaja mobiilinumber",
+          "label": "Saaja mobiilinumber",
+          "helperText": "Saaja mobiilinumber"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Looge otsetee",
+      "description": "Looge otseteed oma mobiili töölauale"
+    },
+    "launcherName": "Kiireloomuline abi"
+  },
+  "SelectedContackList": {
+    "title": "Hädaabikontakt"
+  }
+}

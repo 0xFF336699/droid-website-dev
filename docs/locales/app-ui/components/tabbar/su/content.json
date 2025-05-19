@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "Marar",
+    "me": "ranjau",
+    "settings": "disetél",
+    "script": "naskah",
+    "store": "pasar",
+    "market": "pasar"
+  },
+  "tabbar": {
+    "test": "Bar menu handap"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "skape",
+    "delete": "slett",
+    "confirmDelete": "Er du sikker på at du vil slette dette elementet?",
+    "cancel": "gi opp",
+    "title": "varsle"
+  }
+}

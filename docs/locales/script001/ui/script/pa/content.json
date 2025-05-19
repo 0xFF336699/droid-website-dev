@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "ਉਹ ਨੰਬਰ ਜੋ ਤੁਸੀਂ ਟੈਕਸਟ ਸੁਨੇਹਾ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਕਾਲ ਆਉਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ",
+          "label": "ਫੋਨ ਨੰਬਰ",
+          "helperText": "ਉਹ ਨੰਬਰ ਜੋ ਤੁਸੀਂ ਟੈਕਸਟ ਸੁਨੇਹਾ ਭੇਜਣਾ ਚਾਹੁੰਦੇ ਹੋ ਜਾਂ ਕਾਲ ਆਉਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ਮੈਂ ਥੋੜਾ ਬੇਅਰਾਮੀ ਹਾਂ, ਇੱਥੇ ਆਓ! ! !",
+          "label": "ਐਸਐਮਐਸ ਸਮੱਗਰੀ",
+          "helperText": "ਐਸਐਮਐਸ ਸਮੱਗਰੀ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "ਐਸਐਮਐਸ ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੀ ਸੂਚੀ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਮੋਬਾਈਲ ਨੰਬਰ",
+          "label": "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਮੋਬਾਈਲ ਨੰਬਰ",
+          "helperText": "ਪ੍ਰਾਪਤ ਕਰਨ ਵਾਲੇ ਮੋਬਾਈਲ ਨੰਬਰ"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ਇੱਕ ਸ਼ਾਰਟਕੱਟ ਬਣਾਓ",
+      "description": "ਆਪਣੇ ਮੋਬਾਈਲ ਡੈਸਕਟਾਪ 'ਤੇ ਸ਼ਾਰਟਕੱਟ ਬਣਾਓ"
+    },
+    "launcherName": "ਮਦਦ ਲਈ ਜ਼ਰੂਰੀ ਕਾਲ"
+  },
+  "SelectedContackList": {
+    "title": "ਐਮਰਜੈਂਸੀ ਸੰਪਰਕ ਵਿਅਕਤੀ"
+  }
+}

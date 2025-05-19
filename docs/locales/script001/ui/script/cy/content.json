@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Y rhif rydych chi am anfon neges destun neu wneud galwad allan",
+          "label": "ffôn",
+          "helperText": "Y rhif rydych chi am anfon neges destun neu wneud galwad allan"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Dwi ychydig yn anghyfforddus, dewch yma! ! !",
+          "label": "Cynnwys SMS",
+          "helperText": "Cynnwys SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Rhestr Derbynnydd SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Rhif Symudol y Derbynnydd",
+          "label": "Rhif Symudol y Derbynnydd",
+          "helperText": "Rhif Symudol y Derbynnydd"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Creu llwybr byr",
+      "description": "Creu llwybrau byr ar eich bwrdd gwaith symudol"
+    },
+    "launcherName": "Galwad brys am help"
+  },
+  "SelectedContackList": {
+    "title": "Person cyswllt brys"
+  }
+}

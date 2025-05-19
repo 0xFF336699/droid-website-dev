@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "It nûmer dat jo wolle stjoere in tekstberjocht of in oprop meitsje",
+          "label": "telefoannûmer",
+          "helperText": "It nûmer dat jo wolle stjoere in tekstberjocht of in oprop meitsje"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ik bin in bytsje ûngemaklik, kom hjir! ! !",
+          "label": "SMS-ynhâld",
+          "helperText": "SMS-ynhâld"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS-ûntfangerlist"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Untfanger mobile nûmer",
+          "label": "Untfanger mobile nûmer",
+          "helperText": "Untfanger mobile nûmer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Meitsje in fluchtoets",
+      "description": "Meitsje fluchtoetsen op jo mobyl buroblêd"
+    },
+    "launcherName": "Driuwend petear foar help"
+  },
+  "SelectedContackList": {
+    "title": "Emergency Kontaktpersoan"
+  }
+}

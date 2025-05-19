@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Ennamba gy’oyagala okuweereza obubaka ku ssimu oba okukuba essimu .",
+          "label": "Ennamba y'essimu .",
+          "helperText": "Ennamba gy’oyagala okuweereza obubaka ku ssimu oba okukuba essimu ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Nze sinyuma katono, jangu wano! ! !",
+          "label": "Ebirimu SMS .",
+          "helperText": "Ebirimu SMS ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Olukalala lw'abaweebwa SMS ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Ennamba y'essimu efuna .",
+          "label": "Ennamba y'essimu efuna .",
+          "helperText": "Ennamba y'essimu efuna ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Tonda ekkubo erimufu .",
+      "description": "Tonda shortcuts ku ssimu yo desktop ."
+    },
+    "launcherName": "Okuyita okw'amangu okuyambibwa ."
+  },
+  "SelectedContackList": {
+    "title": "Omuntu akwatagana n'amangu ."
+  }
+}

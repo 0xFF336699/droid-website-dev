@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Porojeke ga e yo",
+    "clickToSetProjectName": "Diporojeke tse di sa Bidiwang",
+    "projectTools": {
+      "run": "tsenyatirisong"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Mä mensaje de texto apayaniñ munasma jan ukajj mä jawsäwi luram .",
+          "label": "Teléfono ukax mä jakhuwiwa.",
+          "helperText": "Mä mensaje de texto apayaniñ munasma jan ukajj mä jawsäwi luram ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Nayax mä juk’a jan waliw jikxatastxa, ¡aka chiqar jutam! ! !",
+          "label": "SMS ukax 1.1.",
+          "helperText": "SMS ukax 1.1."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS ukax mä lista uñt’ayatawa."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Recipiente Móvil uka jakhu .",
+          "label": "Recipiente Móvil uka jakhu .",
+          "helperText": "Recipiente Móvil uka jakhu ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Mä jisk’a khuchhuñ luraña .",
+      "description": "Escritorio móvil ukan jisk’a thakhinak luraña ."
+    },
+    "launcherName": "Yanaptʼañatakejj jankʼakiw jawstʼañama ."
+  },
+  "SelectedContackList": {
+    "title": "Emergencia Contacto Jaqi ."
+  }
+}

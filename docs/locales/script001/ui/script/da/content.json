@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Det nummer, du vil sende en sms eller ringe",
+          "label": "telefonnummer",
+          "helperText": "Det nummer, du vil sende en sms eller ringe"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Jeg er lidt ubehagelig, kom her! ! !",
+          "label": "SMS -indhold",
+          "helperText": "SMS -indhold"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -modtagerliste"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Modtager mobilnummer",
+          "label": "Modtager mobilnummer",
+          "helperText": "Modtager mobilnummer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Opret en genvej",
+      "description": "Opret genveje på dit mobile skrivebord"
+    },
+    "launcherName": "Hastende opfordring til hjælp"
+  },
+  "SelectedContackList": {
+    "title": "Nødkontaktperson"
+  }
+}

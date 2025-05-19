@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "اعدام تأخیر",
+    "content_delay": "تاخیر",
+    "content_milliseconds": "در میلی ثانیه اجرا کنید"
+  }
+}

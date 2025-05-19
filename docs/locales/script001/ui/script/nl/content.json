@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Het nummer dat u een sms wilt verzenden of een oproep wilt doen",
+          "label": "telefoonnummer",
+          "helperText": "Het nummer dat u een sms wilt verzenden of een oproep wilt doen"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ik voel me een beetje ongemakkelijk, kom hier! ! !",
+          "label": "SMS -inhoud",
+          "helperText": "SMS -inhoud"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -ontvangerlijst"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobiel nummer van de ontvanger",
+          "label": "Mobiel nummer van de ontvanger",
+          "helperText": "Mobiel nummer van de ontvanger"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Maak een snelkoppeling",
+      "description": "Maak snelkoppelingen op uw mobiele desktop"
+    },
+    "launcherName": "Dringende oproep om hulp"
+  },
+  "SelectedContackList": {
+    "title": "Noodcontactpersoon"
+  }
+}

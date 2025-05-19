@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Číslo, které chcete odeslat textovou zprávu nebo zavolat",
+          "label": "telefonní číslo",
+          "helperText": "Číslo, které chcete odeslat textovou zprávu nebo zavolat"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Jsem trochu nepříjemný, pojď sem! ! !",
+          "label": "Obsah SMS",
+          "helperText": "Obsah SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Seznam příjemců SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobilní číslo příjemce",
+          "label": "Mobilní číslo příjemce",
+          "helperText": "Mobilní číslo příjemce"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Vytvořte zkratku",
+      "description": "Vytvořte zkratky na mobilní ploše"
+    },
+    "launcherName": "Naléhavá výzva k pomoci"
+  },
+  "SelectedContackList": {
+    "title": "Nouzová kontaktní osoba"
+  }
+}

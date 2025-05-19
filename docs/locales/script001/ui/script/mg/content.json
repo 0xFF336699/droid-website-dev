@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Ny isa tianao halefa hafatra an-tsoratra na antsoy",
+          "label": "nomeraon-telefaona",
+          "helperText": "Ny isa tianao halefa hafatra an-tsoratra na antsoy"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Tsy dia mahasosotra aho, tonga eto! ! !",
+          "label": "SMS votoatiny",
+          "helperText": "SMS votoatiny"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lisitry ny mpampiasa SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Laharana finday mpahazo",
+          "label": "Laharana finday mpahazo",
+          "helperText": "Laharana finday mpahazo"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Mamorona fohy fohy",
+      "description": "Mamorona fohy fohy amin'ny desktop findainao"
+    },
+    "launcherName": "Antso maika ho an'ny fanampiana"
+  },
+  "SelectedContackList": {
+    "title": "Olona fifandraisana vonjy maika"
+  }
+}

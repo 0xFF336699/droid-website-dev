@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Te tau e hiahia ana koe ki te tuku i tetahi panui kuputuhi, ki te karanga ranei",
+          "label": "Tau Waea",
+          "helperText": "Te tau e hiahia ana koe ki te tuku i tetahi panui kuputuhi, ki te karanga ranei"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "He iti noa ahau, haere mai! ! !",
+          "label": "Ihirangi sms",
+          "helperText": "Ihirangi sms"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Raarangi Kaitoha SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Tau waea pūkoro",
+          "label": "Tau waea pūkoro",
+          "helperText": "Tau waea pūkoro"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Waihangahia he pokatata",
+      "description": "Waihangahia nga pokatata i runga i to papamahi pūkoro"
+    },
+    "launcherName": "Karanga tono mo te awhina"
+  },
+  "SelectedContackList": {
+    "title": "Tangata whakapā ohorere"
+  }
+}

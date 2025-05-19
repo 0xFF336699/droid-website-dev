@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "ඔබට කෙටි පණිවිඩයක් යැවීමට හෝ ඇමතුමක් ලබා ගැනීමට අවශ්ය අංකය",
+          "label": "දුරකථන අංකය",
+          "helperText": "ඔබට කෙටි පණිවිඩයක් යැවීමට හෝ ඇමතුමක් ලබා ගැනීමට අවශ්ය අංකය"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "මට ටිකක් අපහසුතාවයක්, මෙහෙට එන්න! ! !",
+          "label": "SMS අන්තර්ගතය",
+          "helperText": "SMS අන්තර්ගතය"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS ලබන්නාගේ ලැයිස්තුව"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "ලබන්නා ජංගම දුරකථන අංකය",
+          "label": "ලබන්නා ජංගම දුරකථන අංකය",
+          "helperText": "ලබන්නා ජංගම දුරකථන අංකය"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "කෙටිමඟක් සාදන්න",
+      "description": "ඔබගේ ජංගම ඩෙස්ක්ටොප් එකේ කෙටිමං සාදන්න"
+    },
+    "launcherName": "උදව් සඳහා හදිසි ඇමතුමක්"
+  },
+  "SelectedContackList": {
+    "title": "හදිසි සම්බන්ධතා පුද්ගලයා"
+  }
+}

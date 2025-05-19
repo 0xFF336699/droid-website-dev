@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "문자 메시지를 보내거나 전화를 걸고 싶은 번호",
+          "label": "전화 번호",
+          "helperText": "문자 메시지를 보내거나 전화를 걸고 싶은 번호"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "나는 조금 불편하다, 여기 오! ! !",
+          "label": "SMS 컨텐츠",
+          "helperText": "SMS 컨텐츠"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS 수신자 목록"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "수신자 휴대 전화 번호",
+          "label": "수신자 휴대 전화 번호",
+          "helperText": "수신자 휴대 전화 번호"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "바로 가기를 만듭니다",
+      "description": "모바일 데스크탑에서 바로 가기를 만듭니다"
+    },
+    "launcherName": "긴급한 도움을 요청합니다"
+  },
+  "SelectedContackList": {
+    "title": "비상 담당자"
+  }
+}

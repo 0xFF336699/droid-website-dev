@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nọmba ịchọrọ izipu ozi ederede ma ọ bụ kpọọ oku",
+          "label": "nọmba ekwentị",
+          "helperText": "Nọmba ịchọrọ izipu ozi ederede ma ọ bụ kpọọ oku"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Enweghị m ike na-adịghị ahụ iru ala, bịa ebe a! ! !",
+          "label": "Afọ SMS",
+          "helperText": "Afọ SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Ndepụta SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nọmba ekwentị nke nnata",
+          "label": "Nọmba ekwentị nke nnata",
+          "helperText": "Nọmba ekwentị nke nnata"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Mepụta ụzọ mkpirisi",
+      "description": "Mepụta ụzọ mkpirisi na desktọpụ gị"
+    },
+    "launcherName": "Oku ngwa ngwa maka enyemaka"
+  },
+  "SelectedContackList": {
+    "title": "Onye na-ahụ maka mberede"
+  }
+}

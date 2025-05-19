@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Lakkoofsa ergaa barreeffamaa erguu ykn bilbiluu barbaaddu .",
+          "label": "Lakkoofsa bilbilaa .",
+          "helperText": "Lakkoofsa ergaa barreeffamaa erguu ykn bilbiluu barbaaddu ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Xiqqoo mijataa miti, as koottu! ! !",
+          "label": "Qabiyyee SMS .",
+          "helperText": "Qabiyyee SMS ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Tarree Fudhataa SMS ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Lakkoofsa moobaayilaa fudhataa .",
+          "label": "Lakkoofsa moobaayilaa fudhataa .",
+          "helperText": "Lakkoofsa moobaayilaa fudhataa ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Karaa gabaabaa uumuu .",
+      "description": "Karaa gabaabaa deeskitooppii moobaayilaa keessan irratti uumuu ."
+    },
+    "launcherName": "Gargaarsa argachuuf bilbila ariifachiisaa ."
+  },
+  "SelectedContackList": {
+    "title": "Nama quunnamtii hatattamaa ."
+  }
+}

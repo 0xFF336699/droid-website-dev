@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "പ്രോജക്റ്റ് നിലവിലില്ല",
+    "clickToSetProjectName": "പേരിടാത്ത പ്രോജക്റ്റുകൾ",
+    "projectTools": {
+      "run": "നടപ്പിലാക്കുക"
+    }
+  }
+}

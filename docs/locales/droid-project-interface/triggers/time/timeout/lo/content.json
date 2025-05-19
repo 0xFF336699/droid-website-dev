@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "ການປະຕິບັດຊັກຊ້າ",
+    "content_delay": "ຊັກຊ້າ",
+    "content_milliseconds": "ປະຕິບັດໃນ milliseconds"
+  }
+}

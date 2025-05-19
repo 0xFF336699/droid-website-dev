@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "I numero ni' malago' hao para un na'hanao un mensåhi pat un na'i i inagang",
+          "label": "tilifon",
+          "helperText": "I numero ni' malago' hao para un na'hanao un mensåhi pat un na'i i inagang"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Estague' un dididi' na incomodo, humalom yu', guini! appak appak",
+          "label": "SMS",
+          "helperText": "SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS na taotao siha"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Resiste",
+          "label": "Resiste",
+          "helperText": "Resiste"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Ha fa'tinas un dikike' na",
+      "description": "Fa'tinas i shortcuts gi desktop gi i tilifon ."
+    },
+    "launcherName": "Utitual na inagang para"
+  },
+  "SelectedContackList": {
+    "title": "I para un tungo'"
+  }
+}

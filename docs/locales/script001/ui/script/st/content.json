@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Palo eo u batlang ho e romella molaetsa oa mongolo kapa ho etsa mohala",
+          "label": "nomoro ea mohala",
+          "helperText": "Palo eo u batlang ho e romella molaetsa oa mongolo kapa ho etsa mohala"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ke sa phutholoha hanyane, tla mona! ! !",
+          "label": "Litaba tsa SMS",
+          "helperText": "Litaba tsa SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lenaneo la Moeli oa SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nomoro ea mohala ea mohala",
+          "label": "Nomoro ea mohala ea mohala",
+          "helperText": "Nomoro ea mohala ea mohala"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Theha sekhukhunyane",
+      "description": "Theha mefutlo e khutšoane ea desktop ea hau ea mobile"
+    },
+    "launcherName": "Mohala o potlakileng oa thuso"
+  },
+  "SelectedContackList": {
+    "title": "Motho ea amanang le maemo a tšohanyetso"
+  }
+}

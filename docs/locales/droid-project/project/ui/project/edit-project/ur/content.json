@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "پروجیکٹ موجود نہیں ہے",
+    "clickToSetProjectName": "نامعلوم منصوبے",
+    "projectTools": {
+      "run": "نافذ کریں"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Pe número remondoséva peteĩ mensáhe térã rehenóiva .",
+          "label": "Teléfono número .",
+          "helperText": "Pe número remondoséva peteĩ mensáhe térã rehenóiva ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Che aime incómodo'imi, ¡eju ko'ápe! ! !",
+          "label": "SMS contenido rehegua .",
+          "helperText": "SMS contenido rehegua ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS lista de recipiente rehegua ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Número Móvil Recipiente rehegua .",
+          "label": "Número Móvil Recipiente rehegua .",
+          "helperText": "Número Móvil Recipiente rehegua ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Ojapo peteĩ tape mbyky .",
+      "description": "Ejapo tape mbyky nde escritorio móvil-pe ."
+    },
+    "launcherName": "Llamada urgente de ayuda rehegua ."
+  },
+  "SelectedContackList": {
+    "title": "Persona de Contacto de Emergencia rehegua ."
+  }
+}

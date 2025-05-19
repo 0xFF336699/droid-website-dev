@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Številka, ki jo želite poslati besedilno sporočilo ali poklicati",
+          "label": "telefonska številka",
+          "helperText": "Številka, ki jo želite poslati besedilno sporočilo ali poklicati"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Malo mi je neprijetno, pridi sem! ! !",
+          "label": "Vsebina SMS",
+          "helperText": "Vsebina SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Seznam prejemnikov SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Prejemna mobilna številka",
+          "label": "Prejemna mobilna številka",
+          "helperText": "Prejemna mobilna številka"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Ustvari bližnjico",
+      "description": "Ustvari bližnjice na mobilnem namizju"
+    },
+    "launcherName": "Nujni klic za pomoč"
+  },
+  "SelectedContackList": {
+    "title": "V sili za stik"
+  }
+}

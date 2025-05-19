@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ལས་གཞི་འདི་མེད།",
+    "clickToSetProjectName": "མིང་མེད་པའི་ལས་གཞི།",
+    "projectTools": {
+      "run": "ལག་ལེན་འཐབ་ནི་"
+    }
+  }
+}

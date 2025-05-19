@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Hilinenud täitmine",
+    "content_delay": "Viivitus",
+    "content_milliseconds": "Teostada millisekundites"
+  }
+}

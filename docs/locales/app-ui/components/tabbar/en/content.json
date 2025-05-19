@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "front page",
+    "me": "mine",
+    "settings": "set up",
+    "script": "script",
+    "store": "market",
+    "market": "market"
+  },
+  "tabbar": {
+    "test": "Bottom Menu Bar"
+  }
+}

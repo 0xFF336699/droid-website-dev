@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nōm̧ba eo kwoj kōņaan jilkinļo̧k juon ennaan in text ak kōm̧m̧ane juon kūr .",
+          "label": "nōmba in taļboon",
+          "helperText": "Nōm̧ba eo kwoj kōņaan jilkinļo̧k juon ennaan in text ak kōm̧m̧ane juon kūr ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ij jidik jab em̧m̧an, itok ijin! ! !",
+          "label": "SMS",
+          "helperText": "SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS eo ej bōk jikin ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nōmba in mobi eo .",
+          "label": "Nōmba in mobi eo .",
+          "helperText": "Nōmba in mobi eo ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kōṃṃan juon ṃōttan .",
+      "description": "Kōm̧m̧ani m̧ōttan ko ilo jikin jerbal eo am̧ ."
+    },
+    "launcherName": "Kūr eo em̧ōkaj ."
+  },
+  "SelectedContackList": {
+    "title": "Eṃṃan ñan armej ."
+  }
+}

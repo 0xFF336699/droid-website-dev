@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "dala",
+    "delete": "cisha",
+    "confirmDelete": "Uqinisekile ukuthi ufuna ukususa le nto?",
+    "cancel": "Yeka",
+    "title": "xwayisa"
+  }
+}

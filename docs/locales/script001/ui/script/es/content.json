@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "El número que desea enviar un mensaje de texto o hacer una llamada",
+          "label": "número de teléfono",
+          "helperText": "El número que desea enviar un mensaje de texto o hacer una llamada"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Estoy un poco incómodo, ¡ven aquí! ! !",
+          "label": "Contenido de SMS",
+          "helperText": "Contenido de SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista de destinatarios de SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Número de teléfono móvil del destinatario",
+          "label": "Número de teléfono móvil del destinatario",
+          "helperText": "Número de teléfono móvil del destinatario"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Crear un atajo",
+      "description": "Crea atajos en tu escritorio móvil"
+    },
+    "launcherName": "Llamado urgente para obtener ayuda"
+  },
+  "SelectedContackList": {
+    "title": "Persona de contacto de emergencia"
+  }
+}

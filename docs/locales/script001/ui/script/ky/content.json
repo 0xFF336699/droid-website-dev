@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Сиз тексттик билдирүү жөнөтүүнү же чалууну каалаган номер",
+          "label": "телефон номери",
+          "helperText": "Сиз тексттик билдирүү жөнөтүүнү же чалууну каалаган номер"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Мен бир аз ыңгайсызмын, бул жерге кел! ! !",
+          "label": "SMS мазмунун",
+          "helperText": "SMS мазмунун"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Алуучу тизмеси"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Алуучунун мобилдик номери",
+          "label": "Алуучунун мобилдик номери",
+          "helperText": "Алуучунун мобилдик номери"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Кыска жол түзүңүз",
+      "description": "Мобилдик иш тактаңызда жарлыктарды түзүңүз"
+    },
+    "launcherName": "Жардам үчүн шашылыш чакыруу"
+  },
+  "SelectedContackList": {
+    "title": "Тез жардам кызматы"
+  }
+}

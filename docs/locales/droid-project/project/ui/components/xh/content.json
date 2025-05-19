@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "dala",
+    "delete": "cima",
+    "confirmDelete": "Uqinisekile ukuba ufuna ukucima le nto?",
+    "cancel": "ncama",
+    "title": "isilumkiso"
+  }
+}

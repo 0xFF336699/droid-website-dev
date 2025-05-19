@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Il-proġett ma jeżistix",
+    "clickToSetProjectName": "Proġetti bla isem",
+    "projectTools": {
+      "run": "Implimentat"
+    }
+  }
+}

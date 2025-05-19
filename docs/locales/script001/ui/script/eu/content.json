@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Testu mezu bat bidali edo dei bat egin nahi duzun zenbakia",
+          "label": "telefono zenbakia",
+          "helperText": "Testu mezu bat bidali edo dei bat egin nahi duzun zenbakia"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Pixka bat deseroso nago, etorri hona! ! !",
+          "label": "SMS Edukia",
+          "helperText": "SMS Edukia"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS hartzaileen zerrenda"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Hartzailearen zenbakia",
+          "label": "Hartzailearen zenbakia",
+          "helperText": "Hartzailearen zenbakia"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sortu lasterbidea",
+      "description": "Sortu lasterbideak zure mugikorreko mahaigainean"
+    },
+    "launcherName": "Laguntza premiazkoa"
+  },
+  "SelectedContackList": {
+    "title": "Larrialdiko harremanetarako pertsona"
+  }
+}

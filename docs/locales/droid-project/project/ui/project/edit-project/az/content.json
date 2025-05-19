@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Layihə yoxdur",
+    "clickToSetProjectName": "Adı açıqlanmayan layihələr",
+    "projectTools": {
+      "run": "həyata keçirmək"
+    }
+  }
+}

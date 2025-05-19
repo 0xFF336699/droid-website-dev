@@ -1,0 +1,7 @@
+{
+  "ui": {
+    "title": "Execucion retardada",
+    "content_delay": "Retard",
+    "content_milliseconds": "Executar en millisegondas ."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Oneskorené vykonanie",
+    "content_delay": "Oneskorenie",
+    "content_milliseconds": "Vykonajte v milisekundách"
+  }
+}

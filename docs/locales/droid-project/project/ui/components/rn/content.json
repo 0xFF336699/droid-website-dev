@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "kurema",
+    "delete": "gusiba",
+    "confirmDelete": "Woba uzi neza ko ushaka gukuraho iki kintu?",
+    "cancel": "guheba",
+    "title": "kuburira"
+  }
+}

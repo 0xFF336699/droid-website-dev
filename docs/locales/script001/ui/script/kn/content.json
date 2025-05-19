@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "ನೀವು ಪಠ್ಯ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಅಥವಾ ಕರೆ ಮಾಡಲು ಬಯಸುವ ಸಂಖ್ಯೆ",
+          "label": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ",
+          "helperText": "ನೀವು ಪಠ್ಯ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಅಥವಾ ಕರೆ ಮಾಡಲು ಬಯಸುವ ಸಂಖ್ಯೆ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ನಾನು ಸ್ವಲ್ಪ ಅನಾನುಕೂಲನಾಗಿದ್ದೇನೆ, ಇಲ್ಲಿಗೆ ಬನ್ನಿ! ! !",
+          "label": "SMS ವಿಷಯ",
+          "helperText": "SMS ವಿಷಯ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "ಎಸ್‌ಎಂಎಸ್ ಸ್ವೀಕರಿಸುವವರ ಪಟ್ಟಿ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "ಸ್ವೀಕರಿಸುವವರ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+          "label": "ಸ್ವೀಕರಿಸುವವರ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ",
+          "helperText": "ಸ್ವೀಕರಿಸುವವರ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ಶಾರ್ಟ್‌ಕಟ್ ರಚಿಸಿ",
+      "description": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಡೆಸ್ಕ್‌ಟಾಪ್‌ನಲ್ಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ರಚಿಸಿ"
+    },
+    "launcherName": "ಸಹಾಯಕ್ಕಾಗಿ ತುರ್ತು ಕರೆ"
+  },
+  "SelectedContackList": {
+    "title": "ತುರ್ತು ಸಂಪರ್ಕ ವ್ಯಕ್ತಿ"
+  }
+}

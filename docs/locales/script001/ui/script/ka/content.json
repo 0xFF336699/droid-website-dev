@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "ნომერი, რომელზეც გსურთ გაგზავნოთ ტექსტური შეტყობინება ან დარეკოთ",
+          "label": "ტელეფონის ნომერი",
+          "helperText": "ნომერი, რომელზეც გსურთ გაგზავნოთ ტექსტური შეტყობინება ან დარეკოთ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ცოტათი არასასიამოვნო ვარ, მოდი აქ! ! !",
+          "label": "SMS შინაარსი",
+          "helperText": "SMS შინაარსი"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS მიმღების სია"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "მიმღების მობილური ნომერი",
+          "label": "მიმღების მობილური ნომერი",
+          "helperText": "მიმღების მობილური ნომერი"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "მალსახმობის შექმნა",
+      "description": "შექმენით მალსახმობები თქვენს მობილურ სამუშაო მაგიდაზე"
+    },
+    "launcherName": "დახმარების გადაუდებელი მოწოდება"
+  },
+  "SelectedContackList": {
+    "title": "საგანგებო კონტაქტის პირი"
+  }
+}

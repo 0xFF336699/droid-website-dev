@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nomboro leyi u lavaka ku rhumela rungula ra hungu kutani u endla call out .",
+          "label": "Nomboro ya riqingho .",
+          "helperText": "Nomboro leyi u lavaka ku rhumela rungula ra hungu kutani u endla call out ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ndzi nga ha ntshunxeki nyana, tana laha! ! !",
+          "label": "Swilo leswi nga endzeni ka SMS .",
+          "helperText": "Swilo leswi nga endzeni ka SMS ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Nxaxamelo wa Muamukeri wa SMS ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nomboro ya movha ya muamukeri .",
+          "label": "Nomboro ya movha ya muamukeri .",
+          "helperText": "Nomboro ya movha ya muamukeri ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Endla ndlela yo koma .",
+      "description": "Endla swipfuxeto eka desktop ya wena ya mobile ."
+    },
+    "launcherName": "Xikombelo xa xihatla xo lava mpfuno ."
+  },
+  "SelectedContackList": {
+    "title": "Munhu wo tihlanganisa na yena wa xihatla ."
+  }
+}

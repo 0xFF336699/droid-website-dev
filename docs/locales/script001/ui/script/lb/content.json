@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "D'Zuel déi Dir wëllt en Textmeldung schécken oder en Uruff maachen",
+          "label": "Telefonsnummer",
+          "helperText": "D'Zuel déi Dir wëllt en Textmeldung schécken oder en Uruff maachen"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ech sinn e bëssen onbequem, komm hei! ! !",
+          "label": "SMS Inhalt",
+          "helperText": "SMS Inhalt"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Empfängerlëscht"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Empfänger Handysnummer",
+          "label": "Empfänger Handysnummer",
+          "helperText": "Empfänger Handysnummer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Erstellt eng Ofkiirzung",
+      "description": "Erstellt Ofkiirzungen op Ärem mobilen Desktop"
+    },
+    "launcherName": "URGENT Uruff fir Hëllef"
+  },
+  "SelectedContackList": {
+    "title": "Noutkontroll Persoun"
+  }
+}

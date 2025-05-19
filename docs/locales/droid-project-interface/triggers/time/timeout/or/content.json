@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "ବିଳମ୍ବିତ ନିଷ୍ପାଦନ",
+    "content_delay": "ବିଳମ୍ବ",
+    "content_milliseconds": "ମିଲିସେକେଣ୍ଡରେ ଏକଜେକ୍ୟୁଟ୍ କରନ୍ତୁ |"
+  }
+}

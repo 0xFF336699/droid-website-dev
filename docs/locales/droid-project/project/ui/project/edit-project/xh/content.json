@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Iprojekthi ayikho",
+    "clickToSetProjectName": "Iiprojekthi ezingachazwanga",
+    "projectTools": {
+      "run": "ukumiliselwa"
+    }
+  }
+}

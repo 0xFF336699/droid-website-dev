@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nimewo a ou vle voye yon mesaj tèks oswa fè yon apèl soti",
+          "label": "Nimewo telefòn",
+          "helperText": "Nimewo a ou vle voye yon mesaj tèks oswa fè yon apèl soti"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Mwen yon ti kras alèz, vin isit la! ! !",
+          "label": "Kontni SMS",
+          "helperText": "Kontni SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lis benefisyè SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Moun k ap resevwa nimewo mobil",
+          "label": "Moun k ap resevwa nimewo mobil",
+          "helperText": "Moun k ap resevwa nimewo mobil"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kreye yon chemen kout",
+      "description": "Kreye rakoursi sou Desktop mobil ou"
+    },
+    "launcherName": "Rele ijan pou èd"
+  },
+  "SelectedContackList": {
+    "title": "Moun kontak ijans"
+  }
+}

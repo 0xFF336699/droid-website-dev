@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Te numera o ta outou e hinaaro e tono i te hoê poro'i aore râ, e niuniu i te hoê parau",
+          "label": "Tāpa'a",
+          "helperText": "Te numera o ta outou e hinaaro e tono i te hoê poro'i aore râ, e niuniu i te hoê parau"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "E mea fifi roa ia'u, a haere mai i ô nei! ! !",
+          "label": "SMS",
+          "helperText": "SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Te tabula SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Te mau numera o te mau rave'a haaparareraa parau",
+          "label": "Te mau numera o te mau rave'a haaparareraa parau",
+          "helperText": "Te mau numera o te mau rave'a haaparareraa parau"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "A hamani i te hoê vahi poto",
+      "description": "A hamani i te mau mea poto i ni'a i ta outou tahua itenati"
+    },
+    "launcherName": "A ani i te tauturu no te ani i te tauturu no te ani i te tauturu"
+  },
+  "SelectedContackList": {
+    "title": "mā'u"
+  }
+}

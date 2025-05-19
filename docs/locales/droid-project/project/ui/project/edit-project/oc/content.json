@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Lo projècte existís pas",
+    "clickToSetProjectName": "Projèctes sens nom",
+    "projectTools": {
+      "run": "metre en plaça"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "شماره ای که می خواهید یک پیام متنی ارسال کنید یا تماس بگیرید",
+          "label": "شماره تلفن",
+          "helperText": "شماره ای که می خواهید یک پیام متنی ارسال کنید یا تماس بگیرید"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "من کمی ناراحت کننده هستم ، بیا اینجا! ! !",
+          "label": "محتوای پیام کوتاه",
+          "helperText": "محتوای پیام کوتاه"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "لیست گیرنده پیام کوتاه"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "شماره تلفن همراه گیرنده",
+          "label": "شماره تلفن همراه گیرنده",
+          "helperText": "شماره تلفن همراه گیرنده"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "میانبر ایجاد کنید",
+      "description": "میانبرهایی را در دسک تاپ تلفن همراه خود ایجاد کنید"
+    },
+    "launcherName": "تماس فوری برای کمک"
+  },
+  "SelectedContackList": {
+    "title": "فرد تماس اضطراری"
+  }
+}

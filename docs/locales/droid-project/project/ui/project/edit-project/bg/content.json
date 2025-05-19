@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Проектът не съществува",
+    "clickToSetProjectName": "Неназовани проекти",
+    "projectTools": {
+      "run": "изпълнение"
+    }
+  }
+}

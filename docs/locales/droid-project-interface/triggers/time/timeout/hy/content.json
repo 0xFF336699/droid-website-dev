@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "Հետաձգված կատարումը",
+    "content_delay": "Ուշանալ",
+    "content_milliseconds": "Կատարել MillIseconds- ում"
+  }
+}

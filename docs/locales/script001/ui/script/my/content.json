@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "စာသားမက်ဆေ့ခ်ျပို့လိုသောသို့မဟုတ်ဖုန်းခေါ်ဆိုလိုသောနံပါတ်",
+          "label": "ဖုန်းနံပါတ်",
+          "helperText": "စာသားမက်ဆေ့ခ်ျပို့လိုသောသို့မဟုတ်ဖုန်းခေါ်ဆိုလိုသောနံပါတ်"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ငါအနည်းငယ်မသက်မသာငါဒီမှာလာ! ! !",
+          "label": "SMS အကြောင်းအရာ",
+          "helperText": "SMS အကြောင်းအရာ"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS လက်ခံသူစာရင်း"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "လက်ခံသူမိုဘိုင်းနံပါတ်",
+          "label": "လက်ခံသူမိုဘိုင်းနံပါတ်",
+          "helperText": "လက်ခံသူမိုဘိုင်းနံပါတ်"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "ဖြတ်လမ်းတစ်ခုဖန်တီးပါ",
+      "description": "သင်၏မိုဘိုင်း desktop ပေါ်တွင်ဖြတ်လမ်းများကိုဖန်တီးပါ"
+    },
+    "launcherName": "အကူအညီအတွက်အရေးပေါ်ခေါ်ဆိုမှု"
+  },
+  "SelectedContackList": {
+    "title": "အရေးပေါ်ဆက်သွယ်ရန်ပုဂ္ဂိုလ်"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Na iwiliwili o via vakauta e dua na itukutuku se cakava e dua na kaci .",
+          "label": "talevoni",
+          "helperText": "Na iwiliwili o via vakauta e dua na itukutuku se cakava e dua na kaci ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Sa dua na ka na noqu sega ni marautaka, lako mai eke! ! !",
+          "label": "E lewena na lewena",
+          "helperText": "E lewena na lewena"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SME cioloji ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Digitaka nagitaki niba .",
+          "label": "Digitaka nagitaki niba .",
+          "helperText": "Digitaka nagitaki niba ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sega ni dua na lekaleka",
+      "description": "Tuvana vakalekaleka ena nomu teveli ni talevoni veikauyaki na nomu katubaleka."
+    },
+    "launcherName": "Na veikacivi ni veivuke ."
+  },
+  "SelectedContackList": {
+    "title": "Na veitaratara ena dua na gauna ni veitaratara ."
+  }
+}

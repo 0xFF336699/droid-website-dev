@@ -1,0 +1,7 @@
+{
+  "ITriggerTimeout": {
+    "title": "மரணதண்டனை தாமதமானது",
+    "content_delay": "தாமதம்",
+    "content_milliseconds": "மில்லி விநாடிகளில் செயல்படுத்தவும்"
+  }
+}

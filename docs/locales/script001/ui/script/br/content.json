@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "An niverenn a fell deoc'h kas ur gemennadenn destenn pe ober ur galv er-maez",
+          "label": "niverenn bellgomz",
+          "helperText": "An niverenn a fell deoc'h kas ur gemennadenn destenn pe ober ur galv er-maez"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Un tamm dic'hoant on, deuit amañ ! ! !",
+          "label": "Danvez SMS",
+          "helperText": "Danvez SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Roll ar resever SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Niverenn pellgomz degemerer",
+          "label": "Niverenn pellgomz degemerer",
+          "helperText": "Niverenn pellgomz degemerer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Krouiñ ur berradenn",
+      "description": "Krouit berradennoù war ho burev pellgomz"
+    },
+    "launcherName": "Galv urzh evit sikour"
+  },
+  "SelectedContackList": {
+    "title": "Perc'henn darempredoù urzh"
+  }
+}

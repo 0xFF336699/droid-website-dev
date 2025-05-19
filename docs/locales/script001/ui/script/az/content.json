@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Mətn mesajı göndərmək və ya zəng etmək istədiyiniz nömrə",
+          "label": "telefon nömrəsi",
+          "helperText": "Mətn mesajı göndərmək və ya zəng etmək istədiyiniz nömrə"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Bir az narahatam, bura gəl! ! !",
+          "label": "SMS məzmunu",
+          "helperText": "SMS məzmunu"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Alıcı siyahısı"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Alıcı mobil nömrəsi",
+          "label": "Alıcı mobil nömrəsi",
+          "helperText": "Alıcı mobil nömrəsi"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Qısayol yaratmaq",
+      "description": "Mobil masaüstünüzdə qısa yollar yaradın"
+    },
+    "launcherName": "Yardım üçün təcili zəng"
+  },
+  "SelectedContackList": {
+    "title": "Təcili əlaqə şəxs"
+  }
+}

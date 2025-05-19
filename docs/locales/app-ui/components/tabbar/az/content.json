@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "ön səhifə",
+    "me": "mina",
+    "settings": "quraşdırmaq",
+    "script": "ssenar",
+    "store": "bazar",
+    "market": "bazar"
+  },
+  "tabbar": {
+    "test": "Alt menyu çubuğu"
+  }
+}

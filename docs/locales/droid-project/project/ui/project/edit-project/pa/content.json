@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ਪ੍ਰੋਜੈਕਟ ਮੌਜੂਦ ਨਹੀਂ ਹੈ",
+    "clickToSetProjectName": "ਅਣਜਾਣ ਪ੍ਰਾਜੈਕਟ",
+    "projectTools": {
+      "run": "ਲਾਗੂ ਕਰੋ"
+    }
+  }
+}

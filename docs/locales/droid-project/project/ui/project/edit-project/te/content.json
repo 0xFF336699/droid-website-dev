@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "ప్రాజెక్ట్ ఉనికిలో లేదు",
+    "clickToSetProjectName": "పేరులేని ప్రాజెక్టులు",
+    "projectTools": {
+      "run": "అమలు"
+    }
+  }
+}

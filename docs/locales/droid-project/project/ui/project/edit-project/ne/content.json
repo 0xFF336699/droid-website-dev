@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "परियोजना अवस्थित छैन",
+    "clickToSetProjectName": "अज्ञात परियोजनाहरू",
+    "projectTools": {
+      "run": "कार्यमा परिणत गर्नु"
+    }
+  }
+}

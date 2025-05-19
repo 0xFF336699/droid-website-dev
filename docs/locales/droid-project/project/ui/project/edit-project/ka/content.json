@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "პროექტი არ არსებობს",
+    "clickToSetProjectName": "უსახელო პროექტები",
+    "projectTools": {
+      "run": "განხორციელება"
+    }
+  }
+}

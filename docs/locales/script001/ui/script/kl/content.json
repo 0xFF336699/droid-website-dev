@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nummeri sms-imik nassiussiumasat imaluunniit sianerfigiumasat",
+          "label": "telefonip normua",
+          "helperText": "Nummeri sms-imik nassiussiumasat imaluunniit sianerfigiumasat"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Assut pissangavunga, maani tikigit! ! !",
+          "label": "SMS-imik imaqartoq",
+          "helperText": "SMS-imik imaqartoq"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS-imik pissarsisoq allattorsimaffik"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobilimik normu",
+          "label": "Mobilimik normu",
+          "helperText": "Mobilimik normu"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Pilersitsigit",
+      "description": "Mobilskrivebordimi shortcut-inik pilersitsigit"
+    },
+    "launcherName": "Urgent ikiorneqarnissamik piumasaqarpoq"
+  },
+  "SelectedContackList": {
+    "title": "Upalungaarsimanermut attaveqartoq"
+  }
+}

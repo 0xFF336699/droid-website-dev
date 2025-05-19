@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Долбоор жок",
+    "clickToSetProjectName": "Аты аталбаган долбоорлор",
+    "projectTools": {
+      "run": "ишке ашыруу"
+    }
+  }
+}

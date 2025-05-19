@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Lamba do watiya zutəye ra’ama au bowotə",
+          "label": "lamba lambabe",
+          "helperText": "Lamba do watiya zutəye ra’ama au bowotə"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Wuye ganalagǝ kǝji ba, na adǝro isǝ! ! !",
+          "label": "SMS ye awo",
+          "helperText": "SMS ye awo"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "List SMS fandobe"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Lamba mobilebe fandoma",
+          "label": "Lamba mobilebe fandoma",
+          "helperText": "Lamba mobilebe fandoma"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Kurnotə",
+      "description": "Zammana kəla desktopnəm mobileben tandəm"
+    },
+    "launcherName": "Bana matəro abadanro bowotə"
+  },
+  "SelectedContackList": {
+    "title": "Kam kəla kəltə zauro ngəla"
+  }
+}

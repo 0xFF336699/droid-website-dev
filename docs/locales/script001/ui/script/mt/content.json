@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "In-numru li trid tibgħat messaġġ jew tagħmel sejħa",
+          "label": "Numru tat-telefon",
+          "helperText": "In-numru li trid tibgħat messaġġ jew tagħmel sejħa"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Jien ftit skomdu, ejja hawn! ! !",
+          "label": "Kontenut SMS",
+          "helperText": "Kontenut SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista tar-riċevituri tal-SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numru tal-mowbajl riċevitur",
+          "label": "Numru tal-mowbajl riċevitur",
+          "helperText": "Numru tal-mowbajl riċevitur"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Oħloq shortcut",
+      "description": "Oħloq shortcuts fuq id-desktop mobbli tiegħek"
+    },
+    "launcherName": "Sejħa urġenti għall-għajnuna"
+  },
+  "SelectedContackList": {
+    "title": "Persuna ta 'kuntatt ta' emerġenza"
+  }
+}

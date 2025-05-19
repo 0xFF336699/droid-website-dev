@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numrin që dëshironi të dërgoni një mesazh me tekst ose të bëni një telefonatë",
+          "label": "numër telefoni",
+          "helperText": "Numrin që dëshironi të dërgoni një mesazh me tekst ose të bëni një telefonatë"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Unë jam pak e pakëndshme, eja këtu! ! !",
+          "label": "Përmbajtja SMS",
+          "helperText": "Përmbajtja SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Lista e marrësve SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Numri celular i marrësit",
+          "label": "Numri celular i marrësit",
+          "helperText": "Numri celular i marrësit"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Krijoni një shkurtore",
+      "description": "Krijoni shkurtore në desktopin tuaj celular"
+    },
+    "launcherName": "Thirrje urgjente për ndihmë"
+  },
+  "SelectedContackList": {
+    "title": "Person kontakti urgjent"
+  }
+}

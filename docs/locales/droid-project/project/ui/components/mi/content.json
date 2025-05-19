@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "hanga",
+    "delete": "muku",
+    "confirmDelete": "Kei te hiahia koe ki te muku i tenei taonga?",
+    "cancel": "whakarere",
+    "title": "whakatūpato"
+  }
+}

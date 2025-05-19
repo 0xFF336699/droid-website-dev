@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Inombolo ofuna ukuthumela umyalezo obhaliweyo okanye wenze umnxeba ngaphandle",
+          "label": "inombolo yomnxeba",
+          "helperText": "Inombolo ofuna ukuthumela umyalezo obhaliweyo okanye wenze umnxeba ngaphandle"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ndingonwabanga kancinane, yiza apha! ! !",
+          "label": "Umxholo weSMS",
+          "helperText": "Umxholo weSMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Uluhlu lwamamkeli lweSMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Inombolo yefowuni yomamkeli",
+          "label": "Inombolo yefowuni yomamkeli",
+          "helperText": "Inombolo yefowuni yomamkeli"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Yenza indlela emfutshane",
+      "description": "Dala iindlela ezimfutshane kwi-desktop yakho yefowuni"
+    },
+    "launcherName": "Umnxeba ongxamisekileyo woncedo"
+  },
+  "SelectedContackList": {
+    "title": "Umntu oQhakamshelana nongxamiseko"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "លេខដែលអ្នកចង់ផ្ញើសារអត្ថបទឬធ្វើការហៅចេញ",
+          "label": "លេខទូរស័ព្ទ",
+          "helperText": "លេខដែលអ្នកចង់ផ្ញើសារអត្ថបទឬធ្វើការហៅចេញ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "ខ្ញុំមិនស្រួលបន្តិចសូមមកទីនេះ! ! !",
+          "label": "មាតិកាសារខ្លី",
+          "helperText": "មាតិកាសារខ្លី"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "បញ្ជីអ្នកទទួលសារ SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "លេខទូរស័ព្ទអ្នកទទួល",
+          "label": "លេខទូរស័ព្ទអ្នកទទួល",
+          "helperText": "លេខទូរស័ព្ទអ្នកទទួល"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "បង្កើតផ្លូវកាត់",
+      "description": "បង្កើតផ្លូវកាត់នៅលើផ្ទៃតុចល័តរបស់អ្នក"
+    },
+    "launcherName": "ការអំពាវនាវជាបន្ទាន់សុំជំនួយ"
+  },
+  "SelectedContackList": {
+    "title": "អ្នកទំនាក់ទំនងបន្ទាន់"
+  }
+}

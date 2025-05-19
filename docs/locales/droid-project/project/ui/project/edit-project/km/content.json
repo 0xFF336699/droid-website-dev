@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "គម្រោងមិនមានទេ",
+    "clickToSetProjectName": "គម្រោងមិនបញ្ចេញឈ្មោះ",
+    "projectTools": {
+      "run": "របតិបត្ដិ"
+    }
+  }
+}

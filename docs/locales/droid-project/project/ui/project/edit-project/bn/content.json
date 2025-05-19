@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "প্রকল্পের অস্তিত্ব নেই",
+    "clickToSetProjectName": "নামবিহীন প্রকল্প",
+    "projectTools": {
+      "run": "বাস্তবায়ন"
+    }
+  }
+}

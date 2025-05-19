@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nimero yina nge ke zola kutinda message to kusala telefone out .",
+          "label": "nimero ya nimero",
+          "helperText": "Nimero yina nge ke zola kutinda message to kusala telefone out ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Mono kele mwa mpasi, kwisa awa! ! !",
+          "label": "Mambu ya SMS",
+          "helperText": "Mambu ya SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Liste ya bantu yina ke bakaka SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nimero ya telefone ya muntu yina ke baka",
+          "label": "Nimero ya telefone ya muntu yina ke baka",
+          "helperText": "Nimero ya telefone ya muntu yina ke baka"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Sala nzila ya nkufi",
+      "description": "Sala ba nzila ya nkufi na ordinatere na nge ya maboko"
+    },
+    "launcherName": "Kubinga yandi nswalu sambu na kulomba lusadisu"
+  },
+  "SelectedContackList": {
+    "title": "Muntu ya ke solulaka na urgence"
+  }
+}

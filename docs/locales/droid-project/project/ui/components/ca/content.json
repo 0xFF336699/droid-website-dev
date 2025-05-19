@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "crear",
+    "delete": "esborrar",
+    "confirmDelete": "Esteu segur que voleu suprimir aquest article?",
+    "cancel": "renunciar",
+    "title": "advertir"
+  }
+}

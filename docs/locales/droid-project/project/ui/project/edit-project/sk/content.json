@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Projekt neexistuje",
+    "clickToSetProjectName": "Nemenované projekty",
+    "projectTools": {
+      "run": "zaviesť"
+    }
+  }
+}

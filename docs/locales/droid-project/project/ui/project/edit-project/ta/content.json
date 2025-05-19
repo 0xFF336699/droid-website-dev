@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "திட்டம் இல்லை",
+    "clickToSetProjectName": "பெயரிடப்படாத திட்டங்கள்",
+    "projectTools": {
+      "run": "செயல்படுத்தவும்"
+    }
+  }
+}

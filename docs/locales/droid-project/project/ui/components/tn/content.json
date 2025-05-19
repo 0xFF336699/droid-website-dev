@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "bopa",
+    "delete": "phimola",
+    "confirmDelete": "A o tlhomamisa gore o batla go phimola ntlha eno?",
+    "cancel": "itlhoboga",
+    "title": "tlhagisa"
+  }
+}

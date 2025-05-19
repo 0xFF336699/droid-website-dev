@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "هغه شمیره چې تاسو یې غواړئ د متن پیغام واستوئ یا زنګ ووهئ",
+          "label": "د تلیفون شمیره",
+          "helperText": "هغه شمیره چې تاسو یې غواړئ د متن پیغام واستوئ یا زنګ ووهئ"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "زه یو څه نا آرامه یم، دلته راشه! ! !",
+          "label": "د ایس ایم ایس مینځپانګه",
+          "helperText": "د ایس ایم ایس مینځپانګه"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "د SMS ترلاسه کونکي لیست"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "د ترلاسه کونکي ګرځنده شمیره",
+          "label": "د ترلاسه کونکي ګرځنده شمیره",
+          "helperText": "د ترلاسه کونکي ګرځنده شمیره"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "لنډلارې جوړه کړئ",
+      "description": "ستاسو په ګرځنده ډیسټاپ کې لنډیز رامینځته کړئ"
+    },
+    "launcherName": "د مرستې لپاره عاجل زنګ"
+  },
+  "SelectedContackList": {
+    "title": "د اضطراري اړیکو شخص"
+  }
+}

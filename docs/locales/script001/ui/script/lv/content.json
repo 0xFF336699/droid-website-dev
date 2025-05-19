@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Numurs, kuru vēlaties nosūtīt īsziņu vai izsaukt zvanu",
+          "label": "tālruņa numurs",
+          "helperText": "Numurs, kuru vēlaties nosūtīt īsziņu vai izsaukt zvanu"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Man ir mazliet neērti, nāc šeit! ! !",
+          "label": "SMS saturs",
+          "helperText": "SMS saturs"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS saņēmēju saraksts"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Saņēmēja mobilā tālruņa numurs",
+          "label": "Saņēmēja mobilā tālruņa numurs",
+          "helperText": "Saņēmēja mobilā tālruņa numurs"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Izveidojiet saīsni",
+      "description": "Izveidojiet īsceļus savā mobilajā darbvirsmā"
+    },
+    "launcherName": "Steidzams aicinājums pēc palīdzības"
+  },
+  "SelectedContackList": {
+    "title": "Ārkārtas kontaktpersona"
+  }
+}

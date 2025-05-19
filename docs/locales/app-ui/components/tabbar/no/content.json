@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "forsiden",
+    "me": "mine",
+    "settings": "Sett opp",
+    "script": "manus",
+    "store": "marked",
+    "market": "marked"
+  },
+  "tabbar": {
+    "test": "Bunn menylinjen"
+  }
+}

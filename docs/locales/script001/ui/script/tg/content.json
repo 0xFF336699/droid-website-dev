@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Рақаме, ки шумо мехоҳед паёми матнӣ фиристед ё занг занед",
+          "label": "рақами мобилӣ",
+          "helperText": "Рақаме, ки шумо мехоҳед паёми матнӣ фиристед ё занг занед"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ман каме нороҳат ҳастам, ба ин ҷо! ! !",
+          "label": "SMS SMS",
+          "helperText": "SMS SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Рӯйхати гиранда"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Мобилии қабулкунанда",
+          "label": "Мобилии қабулкунанда",
+          "helperText": "Мобилии қабулкунанда"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Як миёнабурро созед",
+      "description": "Дар мизи кории мобилии худ миёнабурҳо эҷод кунед"
+    },
+    "launcherName": "Занги фаврӣ барои кӯмак"
+  },
+  "SelectedContackList": {
+    "title": "Шахси тамос бо таъҷилӣ"
+  }
+}

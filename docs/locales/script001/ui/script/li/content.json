@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "‘t Getal dat u ‘n sms wilt stuurde of ‘n oproepe wilt make",
+          "label": "telefoonnummer",
+          "helperText": "‘t Getal dat u ‘n sms wilt stuurde of ‘n oproepe wilt make"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ich bin 'n bietje ongemakkelik, kom hier! ! !",
+          "label": "SMS-inhoud",
+          "helperText": "SMS-inhoud"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS-oontvangerlies"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mobielnummer vaan ‘t oontvanger",
+          "label": "Mobielnummer vaan ‘t oontvanger",
+          "helperText": "Mobielnummer vaan ‘t oontvanger"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Maak ‘n sneltoet",
+      "description": "Maak sneltoets op uw mobiele bureaublaad"
+    },
+    "launcherName": "Urgent oproep um hulp"
+  },
+  "SelectedContackList": {
+    "title": "Noodcontak persoon"
+  }
+}

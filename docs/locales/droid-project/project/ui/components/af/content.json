@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "skep",
+    "delete": "verwyder",
+    "confirmDelete": "Is u seker dat u hierdie item wil uitvee?",
+    "cancel": "opgee",
+    "title": "waarsku"
+  }
+}

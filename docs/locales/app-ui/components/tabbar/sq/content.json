@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "në faqen e parë",
+    "me": "imi",
+    "settings": "vendos",
+    "script": "skenar",
+    "store": "tregti",
+    "market": "tregti"
+  },
+  "tabbar": {
+    "test": "Shiriti i menusë së poshtme"
+  }
+}

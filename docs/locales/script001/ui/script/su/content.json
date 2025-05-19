@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Nomer anu anjeun hoyong ngirim pesen téks atanapi ngadamel telepon",
+          "label": "nomer telepon",
+          "helperText": "Nomer anu anjeun hoyong ngirim pesen téks atanapi ngadamel telepon"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Abdi sakedik teu pikaresepeun, sumping ka dieu! ! !",
+          "label": "Eusi SMS",
+          "helperText": "Eusi SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Daptar panarima SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Nomer Mobile Nomer",
+          "label": "Nomer Mobile Nomer",
+          "helperText": "Nomer Mobile Nomer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Damel potong kompas",
+      "description": "Jieun potong kompas dina desktop sélulér anjeun"
+    },
+    "launcherName": "Tulisan mendesak"
+  },
+  "SelectedContackList": {
+    "title": "Jalma kontak darurat"
+  }
+}

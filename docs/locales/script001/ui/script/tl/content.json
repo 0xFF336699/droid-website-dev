@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Ang numero na nais mong magpadala ng isang text message o tumawag",
+          "label": "numero ng telepono",
+          "helperText": "Ang numero na nais mong magpadala ng isang text message o tumawag"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Medyo hindi ako komportable, halika rito! ! !",
+          "label": "Nilalaman ng SMS",
+          "helperText": "Nilalaman ng SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Listahan ng tatanggap ng SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Tatanggap ng mobile number",
+          "label": "Tatanggap ng mobile number",
+          "helperText": "Tatanggap ng mobile number"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Lumikha ng isang shortcut",
+      "description": "Lumikha ng mga shortcut sa iyong mobile desktop"
+    },
+    "launcherName": "Kagyat na tawag para sa tulong"
+  },
+  "SelectedContackList": {
+    "title": "Emergency contact person"
+  }
+}

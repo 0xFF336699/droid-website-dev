@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "The number you want to send a text message or make a call out",
+          "label": "phone number",
+          "helperText": "The number you want to send a text message or make a call out"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "I'm a little uncomfortable, come here! ! !",
+          "label": "SMS content",
+          "helperText": "SMS content"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS recipient list"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Recipient mobile number",
+          "label": "Recipient mobile number",
+          "helperText": "Recipient mobile number"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Create a shortcut",
+      "description": "Create shortcuts on your mobile desktop"
+    },
+    "launcherName": "Urgent call for help"
+  },
+  "SelectedContackList": {
+    "title": "Emergency contact person"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "content": {
+    "createButton": "vytvořit",
+    "noProjects": "V seznamu projektů zatím nejsou žádné projekty, můžete vytvořit nový projekt",
+    "orFindFromMarket": "Nebo najděte požadované položky z trhu",
+    "projects": "Seznam projektů"
+  }
+}

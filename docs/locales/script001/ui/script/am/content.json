@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "የጽሑፍ መልእክት ለመላክ ወይም ጥሪ ማፍራት የሚፈልጉት ቁጥር",
+          "label": "የስልክ ቁጥር",
+          "helperText": "የጽሑፍ መልእክት ለመላክ ወይም ጥሪ ማፍራት የሚፈልጉት ቁጥር"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "እኔ ትንሽ ምቾት የለኝም, ወደዚህ ይምጡ! ! !",
+          "label": "ኤስኤምኤስ ይዘት",
+          "helperText": "ኤስኤምኤስ ይዘት"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "የኤስኤምኤስ ተቀባዮች ዝርዝር"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "ተቀባዩ የተንቀሳቃሽ ስልክ ቁጥር",
+          "label": "ተቀባዩ የተንቀሳቃሽ ስልክ ቁጥር",
+          "helperText": "ተቀባዩ የተንቀሳቃሽ ስልክ ቁጥር"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "አቋራጭ ይፍጠሩ",
+      "description": "በሞባይል ዴስክቶፕዎ ላይ አቋራጮችን ይፍጠሩ"
+    },
+    "launcherName": "አስቸኳይ ጥሪ"
+  },
+  "SelectedContackList": {
+    "title": "የአደጋ ጊዜ ግንኙነት"
+  }
+}

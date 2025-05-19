@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "An uimhir is mian leat teachtaireacht téacs a sheoladh nó glao a dhéanamh amach",
+          "label": "uimhir ghutháin",
+          "helperText": "An uimhir is mian leat teachtaireacht téacs a sheoladh nó glao a dhéanamh amach"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Tá mé rud beag míchompordach, teacht anseo! ! !",
+          "label": "Ábhar SMS",
+          "helperText": "Ábhar SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Liosta faighteoir SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Uimhir soghluaiste faighteoir",
+          "label": "Uimhir soghluaiste faighteoir",
+          "helperText": "Uimhir soghluaiste faighteoir"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Cruthaigh aicearra",
+      "description": "Cruthaigh aicearraí ar do dheasc soghluaiste"
+    },
+    "launcherName": "Glao práinneach ar chabhair"
+  },
+  "SelectedContackList": {
+    "title": "Duine teagmhála éigeandála"
+  }
+}

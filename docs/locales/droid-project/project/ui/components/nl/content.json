@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "creëren",
+    "delete": "verwijderen",
+    "confirmDelete": "Weet u zeker dat u dit item wilt verwijderen?",
+    "cancel": "opgeven",
+    "title": "waarschuwen"
+  }
+}

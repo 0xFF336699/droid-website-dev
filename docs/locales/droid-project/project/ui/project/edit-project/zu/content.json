@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Iphrojekthi ayikho",
+    "clickToSetProjectName": "Amaphrojekthi angabingelwanga",
+    "projectTools": {
+      "run": "gcwalisa"
+    }
+  }
+}

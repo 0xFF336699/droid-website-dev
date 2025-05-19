@@ -1,0 +1,9 @@
+{
+  "content": {
+    "projectNotExist": "Amul benn projet",
+    "clickToSetProjectName": "Projet yi amul tur",
+    "projectTools": {
+      "run": "taxawal"
+    }
+  }
+}

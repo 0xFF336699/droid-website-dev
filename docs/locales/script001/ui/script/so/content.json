@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Lambarka aad rabto inaad soo dirto farriin qoraal ah ama wac wicitaan",
+          "label": "Lambarka taleefanka",
+          "helperText": "Lambarka aad rabto inaad soo dirto farriin qoraal ah ama wac wicitaan"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Wax yar baan ku faraxsanahay, halkan kaalay! ! !",
+          "label": "SMS nuxurka",
+          "helperText": "SMS nuxurka"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Liiska Qaadashada SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Lambarka mobilada qaata",
+          "label": "Lambarka mobilada qaata",
+          "helperText": "Lambarka mobilada qaata"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Abuuro gaagaaban",
+      "description": "Abuur gaagaaban oo gaagaaban oo ku saabsan desktop-kaaga mobilada"
+    },
+    "launcherName": "Wicitaan deg deg ah caawimaad"
+  },
+  "SelectedContackList": {
+    "title": "Qofka lala xiriirayo deg-degga ah"
+  }
+}

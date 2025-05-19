@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "kuganga",
+    "delete": "kuvwansa",
+    "confirmDelete": "Keti nge ke ndima nde nge ke zola kufwa kima yai?",
+    "cancel": "kuyambula",
+    "title": "kukebisa"
+  }
+}

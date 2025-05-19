@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Lambar da kake son aika saƙon rubutu ko yin kira",
+          "label": "lambar tarho",
+          "helperText": "Lambar da kake son aika saƙon rubutu ko yin kira"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ni dan kadan ba shi da daɗi, zo nan! ! !",
+          "label": "SMS abun ciki",
+          "helperText": "SMS abun ciki"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Jerin mai karban SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Mai karɓar lambar ƙasa",
+          "label": "Mai karɓar lambar ƙasa",
+          "helperText": "Mai karɓar lambar ƙasa"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Ƙirƙiri gajeriyar hanya",
+      "description": "Createirƙiri gajerun hanyoyi a kan teburinku na hannu"
+    },
+    "launcherName": "Kiran gaggawa don taimako"
+  },
+  "SelectedContackList": {
+    "title": "Mutumin gaggawa"
+  }
+}

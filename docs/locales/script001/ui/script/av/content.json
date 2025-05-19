@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Множественное сообщение отправить смс или позвоните",
+          "label": "телефон",
+          "helperText": "Множественное сообщение отправить смс или позвоните"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Дун дагьаб санагӀалъи гьечӀев, гьаниве вачӀа! ! !",
+          "label": "смс содержание",
+          "helperText": "смс содержание"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "СМСалъул сияхӀ"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Реципиент мобильнияб номер",
+          "label": "Реципиент мобильнияб номер",
+          "helperText": "Реципиент мобильнияб номер"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "гIуцIи гIуцIи",
+      "description": "Дурго мобильнияб стационарияб столалда ругел ярлыкал гӀуцӀи"
+    },
+    "launcherName": "ахIине кумек гьабе"
+  },
+  "SelectedContackList": {
+    "title": "Аварийный контактный человек"
+  }
+}

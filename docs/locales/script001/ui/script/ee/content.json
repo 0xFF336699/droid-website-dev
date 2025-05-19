@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Xexlẽdzesi si nèdi be yeaɖo nyatakaka aɖe ɖa alo aƒo ka na .",
+          "label": "Telefon xexlẽdzesi .",
+          "helperText": "Xexlẽdzesi si nèdi be yeaɖo nyatakaka aɖe ɖa alo aƒo ka na ."
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Nyemevo o vie, va afisia! ! !",
+          "label": "SMS ƒe nyatakakawo .",
+          "helperText": "SMS ƒe nyatakakawo ."
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS Xɔla ƒe Ŋkɔwo ."
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Ame si xɔ asitelefon ƒe xexlẽdzesi .",
+          "label": "Ame si xɔ asitelefon ƒe xexlẽdzesi .",
+          "helperText": "Ame si xɔ asitelefon ƒe xexlẽdzesi ."
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Wɔ mɔ kpui aɖe .",
+      "description": "Wɔ mɔ kpuiwo le wò asitelefon dzi kplɔ̃ dzi ."
+    },
+    "launcherName": "Kpekpeɖeŋunana kpata be woakpe ɖe ame ŋu ."
+  },
+  "SelectedContackList": {
+    "title": "Ame si woate ŋu aƒo ka na kpata ."
+  }
+}

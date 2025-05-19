@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "esileleht",
+    "me": "kaevandus",
+    "settings": "püstitama",
+    "script": "skript",
+    "store": "turg",
+    "market": "turg"
+  },
+  "tabbar": {
+    "test": "Alumine menüüriba"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "content": {
+    "home": "halaman depan",
+    "me": "milikku",
+    "settings": "mendirikan",
+    "script": "naskah",
+    "store": "pasar",
+    "market": "pasar"
+  },
+  "tabbar": {
+    "test": "Bilah menu bawah"
+  }
+}

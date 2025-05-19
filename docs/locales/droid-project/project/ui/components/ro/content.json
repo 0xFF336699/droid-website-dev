@@ -1,0 +1,9 @@
+{
+  "content": {
+    "create": "crea",
+    "delete": "şterge",
+    "confirmDelete": "Ești sigur că vrei să ștergi acest articol?",
+    "cancel": "renunța",
+    "title": "avertiza"
+  }
+}

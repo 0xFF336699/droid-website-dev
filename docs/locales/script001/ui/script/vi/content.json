@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Số bạn muốn gửi tin nhắn văn bản hoặc gọi điện",
+          "label": "Số điện thoại",
+          "helperText": "Số bạn muốn gửi tin nhắn văn bản hoặc gọi điện"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Tôi hơi khó chịu, đến đây! !! !!",
+          "label": "Nội dung SMS",
+          "helperText": "Nội dung SMS"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "Danh sách người nhận SMS"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Số người nhận số điện thoại di động",
+          "label": "Số người nhận số điện thoại di động",
+          "helperText": "Số người nhận số điện thoại di động"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Tạo một phím tắt",
+      "description": "Tạo các phím tắt trên máy tính để bàn di động của bạn"
+    },
+    "launcherName": "Cuộc gọi khẩn cấp để được giúp đỡ"
+  },
+  "SelectedContackList": {
+    "title": "Người liên hệ khẩn cấp"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "content": {
+    "intf": {
+      "mobileSenderNumberList": {
+        "number": {
+          "placeholder": "Die nommer wat u wil stuur 'n SMS of 'n oproep maak",
+          "label": "telefoonnommer",
+          "helperText": "Die nommer wat u wil stuur 'n SMS of 'n oproep maak"
+        }
+      },
+      "sms": {
+        "content": {
+          "placeholder": "Ek is 'n bietjie ongemaklik, kom hier! ! !",
+          "label": "SMS -inhoud",
+          "helperText": "SMS -inhoud"
+        }
+      },
+      "smsReceiverList": {
+        "title": {
+          "label": "SMS -ontvangerlys"
+        }
+      },
+      "smsReceiver": {
+        "number": {
+          "placeholder": "Ontvanger -selfoonnommer",
+          "label": "Ontvanger -selfoonnommer",
+          "helperText": "Ontvanger -selfoonnommer"
+        }
+      }
+    }
+  },
+  "CreateShortcut": {
+    "button": {
+      "name": "Skep 'n kortpad",
+      "description": "Skep kortpaaie op u mobiele tafelblad"
+    },
+    "launcherName": "Dringende oproep om hulp"
+  },
+  "SelectedContackList": {
+    "title": "Noodkontakpersoon"
+  }
+}
