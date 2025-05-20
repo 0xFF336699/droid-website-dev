@@ -5,7 +5,8 @@
     "settings": "Mete kanpe",
     "script": "ekriti",
     "store": "mache",
-    "market": "mache"
+    "market": "mache",
+    "create": "kreye"
   },
   "tabbar": {
     "test": "Anba meni ba"

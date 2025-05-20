@@ -5,7 +5,8 @@
     "settings": "tlhophiso",
     "script": "Script",
     "store": "mmaraka",
-    "market": "mmaraka"
+    "market": "mmaraka",
+    "create": "theha"
   },
   "tabbar": {
     "test": "Libaka tse ka tlase tsa menu"

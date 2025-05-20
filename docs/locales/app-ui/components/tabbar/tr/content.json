@@ -5,7 +5,8 @@
     "settings": "kurmak",
     "script": "senaryo",
     "store": "pazar",
-    "market": "pazar"
+    "market": "pazar",
+    "create": "yaratmak"
   },
   "tabbar": {
     "test": "Alt menü çubuğu"

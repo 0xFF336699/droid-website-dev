@@ -5,7 +5,8 @@
     "settings": "opsæt",
     "script": "manuskript",
     "store": "marked",
-    "market": "marked"
+    "market": "marked",
+    "create": "skabe"
   },
   "tabbar": {
     "test": "Nederste menulinje"

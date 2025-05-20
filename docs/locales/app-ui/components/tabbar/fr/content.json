@@ -5,7 +5,8 @@
     "settings": "installation",
     "script": "scénario",
     "store": "marché",
-    "market": "marché"
+    "market": "marché",
+    "create": "créer"
   },
   "tabbar": {
     "test": "Barre de menu inférieure"

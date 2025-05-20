@@ -5,7 +5,8 @@
     "settings": "okutandika",
     "script": "ekiwandiiko",
     "store": "akatale",
-    "market": "akatale"
+    "market": "akatale",
+    "create": "okutonda"
   },
   "tabbar": {
     "test": "Ebbaala ya menu eya wansi ."

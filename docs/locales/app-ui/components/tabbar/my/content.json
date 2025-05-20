@@ -5,7 +5,8 @@
     "settings": "တည်ဆောက်သည်",
     "script": "လက်ရေး",
     "store": "စေျးကြီး",
-    "market": "စေျးကြီး"
+    "market": "စေျးကြီး",
+    "create": "ဖန်တီး"
   },
   "tabbar": {
     "test": "အောက်ခြေ menu bar"

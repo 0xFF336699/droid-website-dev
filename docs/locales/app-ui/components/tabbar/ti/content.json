@@ -5,7 +5,8 @@
     "settings": "ምድላው",
     "script": "ፅሑፍ",
     "store": "ዕዳጋ",
-    "market": "ዕዳጋ"
+    "market": "ዕዳጋ",
+    "create": "ፍጠር"
   },
   "tabbar": {
     "test": "ናይ ታሕቲ ናይ ምግቢ ምልክት ባር"

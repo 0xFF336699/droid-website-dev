@@ -5,7 +5,8 @@
     "settings": "cài đặt",
     "script": "kịch bản",
     "store": "chợ",
-    "market": "chợ"
+    "market": "chợ",
+    "create": "tạo nên"
   },
   "tabbar": {
     "test": "Thanh menu dưới cùng"

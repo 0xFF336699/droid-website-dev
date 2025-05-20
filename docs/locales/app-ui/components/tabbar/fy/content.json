@@ -5,7 +5,8 @@
     "settings": "opsette",
     "script": "skrift",
     "store": "merk",
-    "market": "merk"
+    "market": "merk",
+    "create": "meitsje"
   },
   "tabbar": {
     "test": "BOTTER MENU BAR"

@@ -5,7 +5,8 @@
     "settings": "felállít",
     "script": "forgatókönyv",
     "store": "piac",
-    "market": "piac"
+    "market": "piac",
+    "create": "teremt"
   },
   "tabbar": {
     "test": "Alsó menüsor"

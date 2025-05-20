@@ -5,7 +5,8 @@
     "settings": "Sett opp",
     "script": "manus",
     "store": "marked",
-    "market": "marked"
+    "market": "marked",
+    "create": "skape"
   },
   "tabbar": {
     "test": "Bunn menylinjen"

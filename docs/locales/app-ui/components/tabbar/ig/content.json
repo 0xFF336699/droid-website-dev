@@ -5,7 +5,8 @@
     "settings": "melite",
     "script": "edemede",
     "store": "ahia",
-    "market": "ahia"
+    "market": "ahia",
+    "create": "ike"
   },
   "tabbar": {
     "test": "Ogwe menu"

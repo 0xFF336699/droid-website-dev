@@ -5,7 +5,8 @@
     "settings": "configuración",
     "script": "guion",
     "store": "mercado",
-    "market": "mercado"
+    "market": "mercado",
+    "create": "crear"
   },
   "tabbar": {
     "test": "Barra de menú inferior"

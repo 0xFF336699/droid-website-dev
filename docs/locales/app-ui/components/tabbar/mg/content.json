@@ -5,7 +5,8 @@
     "settings": "hametraka",
     "script": "teny",
     "store": "tsena",
-    "market": "tsena"
+    "market": "tsena",
+    "create": "MANANGANA"
   },
   "tabbar": {
     "test": "Borimpony ambany"

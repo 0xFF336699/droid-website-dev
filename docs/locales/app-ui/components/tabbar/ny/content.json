@@ -5,7 +5,8 @@
     "settings": "khazikitsa",
     "script": "zolembedwa",
     "store": "msika",
-    "market": "msika"
+    "market": "msika",
+    "create": "lenga"
   },
   "tabbar": {
     "test": "Pansi pa menyu"

@@ -5,7 +5,8 @@
     "settings": "Nustatykite",
     "script": "scenarijus",
     "store": "rinka",
-    "market": "rinka"
+    "market": "rinka",
+    "create": "sukurti"
   },
   "tabbar": {
     "test": "Apatinė meniu juosta"

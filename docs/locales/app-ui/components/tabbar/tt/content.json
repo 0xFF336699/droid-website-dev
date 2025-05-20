@@ -5,7 +5,8 @@
     "settings": "көйләү",
     "script": "сценарий",
     "store": "базар",
-    "market": "базар"
+    "market": "базар",
+    "create": "булдыру"
   },
   "tabbar": {
     "test": "Түбән меню бар"

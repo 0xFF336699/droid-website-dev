@@ -5,7 +5,8 @@
     "settings": "uzstādīt",
     "script": "scenārijs",
     "store": "tirgoties",
-    "market": "tirgoties"
+    "market": "tirgoties",
+    "create": "radīt"
   },
   "tabbar": {
     "test": "Apakšējā izvēlnes josla"

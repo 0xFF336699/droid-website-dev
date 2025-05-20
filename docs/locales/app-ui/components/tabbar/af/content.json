@@ -5,7 +5,8 @@
     "settings": "opgestel",
     "script": "draaiboek",
     "store": "mark",
-    "market": "mark"
+    "market": "mark",
+    "create": "skep"
   },
   "tabbar": {
     "test": "Onderste menubalk"

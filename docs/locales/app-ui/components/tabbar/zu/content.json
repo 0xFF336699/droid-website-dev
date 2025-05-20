@@ -5,7 +5,8 @@
     "settings": "Setha",
     "script": "okulotshiwe",
     "store": "ukudayisa",
-    "market": "ukudayisa"
+    "market": "ukudayisa",
+    "create": "dala"
   },
   "tabbar": {
     "test": "Ibha yemenyu engezansi"

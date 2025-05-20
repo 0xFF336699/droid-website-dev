@@ -5,7 +5,8 @@
     "settings": "ta'uru",
     "script": "tāuru",
     "store": "Mahana",
-    "market": "Mahana"
+    "market": "Mahana",
+    "create": "fa'ahono"
   },
   "tabbar": {
     "test": "E melo ti'a"

@@ -5,7 +5,8 @@
     "settings": "nastavite",
     "script": "scenarij",
     "store": "trg",
-    "market": "trg"
+    "market": "trg",
+    "create": "Ustvari"
   },
   "tabbar": {
     "test": "Spodnja vrstica"

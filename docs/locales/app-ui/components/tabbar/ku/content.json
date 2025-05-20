@@ -5,7 +5,8 @@
     "settings": "damezirandin",
     "script": "nivîs",
     "store": "bazar",
-    "market": "bazar"
+    "market": "bazar",
+    "create": "xûliqandin"
   },
   "tabbar": {
     "test": "Bareya Bottom Bottom"

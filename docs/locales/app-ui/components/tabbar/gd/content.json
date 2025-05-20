@@ -5,7 +5,8 @@
     "settings": "Suidhich",
     "script": "sgriobt",
     "store": "margaidh",
-    "market": "margaidh"
+    "market": "margaidh",
+    "create": "cruthaich"
   },
   "tabbar": {
     "test": "Bàr-clàr ìosal"

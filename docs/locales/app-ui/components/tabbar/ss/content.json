@@ -5,7 +5,8 @@
     "settings": "misa",
     "script": "simo sokuloba",
     "store": "imakethe",
-    "market": "imakethe"
+    "market": "imakethe",
+    "create": "sungula"
   },
   "tabbar": {
     "test": "Imenyu Lengephansi"

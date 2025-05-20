@@ -5,7 +5,8 @@
     "settings": "disetél",
     "script": "naskah",
     "store": "pasar",
-    "market": "pasar"
+    "market": "pasar",
+    "create": "nyiptakeun"
   },
   "tabbar": {
     "test": "Bar menu handap"

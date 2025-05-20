@@ -5,7 +5,8 @@
     "settings": "bicsiyya",
     "script": "ransa",
     "store": "asta",
-    "market": "asta"
+    "market": "asta",
+    "create": "gin"
   },
   "tabbar": {
     "test": "Gubi Menu Bar"

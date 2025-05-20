@@ -5,7 +5,8 @@
     "settings": "sefydlu",
     "script": "sgriptiwyd",
     "store": "farchnad",
-    "market": "farchnad"
+    "market": "farchnad",
+    "create": "creiff"
   },
   "tabbar": {
     "test": "Bar Dewislen Gwaelod"

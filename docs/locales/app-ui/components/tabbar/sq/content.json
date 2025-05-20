@@ -5,7 +5,8 @@
     "settings": "vendos",
     "script": "skenar",
     "store": "tregti",
-    "market": "tregti"
+    "market": "tregti",
+    "create": "krijoj"
   },
   "tabbar": {
     "test": "Shiriti i menusë së poshtme"

@@ -5,7 +5,8 @@
     "settings": "ku lulamisa",
     "script": "xitsalwana",
     "store": "makete",
-    "market": "makete"
+    "market": "makete",
+    "create": "vumba"
   },
   "tabbar": {
     "test": "Bar ya le hansi ya menu ."

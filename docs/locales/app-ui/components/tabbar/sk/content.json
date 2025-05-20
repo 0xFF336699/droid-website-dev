@@ -5,7 +5,8 @@
     "settings": "nastaviť",
     "script": "skript",
     "store": "trh",
-    "market": "trh"
+    "market": "trh",
+    "create": "vytvárať"
   },
   "tabbar": {
     "test": "Spodná ponuka"

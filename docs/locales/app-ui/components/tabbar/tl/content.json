@@ -5,7 +5,8 @@
     "settings": "I -set up",
     "script": "script",
     "store": "Pamilihan",
-    "market": "Pamilihan"
+    "market": "Pamilihan",
+    "create": "Lumikha"
   },
   "tabbar": {
     "test": "Bottom menu bar"

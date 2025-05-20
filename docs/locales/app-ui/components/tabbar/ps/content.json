@@ -5,7 +5,8 @@
     "settings": "چمتو کول",
     "script": "سکریپټ",
     "store": "بازار",
-    "market": "بازار"
+    "market": "بازار",
+    "create": "جوړول"
   },
   "tabbar": {
     "test": "د"

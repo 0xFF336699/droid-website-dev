@@ -5,7 +5,8 @@
     "settings": "configurar",
     "script": "manuscrit",
     "store": "mercat",
-    "market": "mercat"
+    "market": "mercat",
+    "create": "crear"
   },
   "tabbar": {
     "test": "Barra de menús inferior"

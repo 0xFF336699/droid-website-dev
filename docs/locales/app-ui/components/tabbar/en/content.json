@@ -5,7 +5,8 @@
     "settings": "set up",
     "script": "script",
     "store": "market",
-    "market": "market"
+    "market": "market",
+    "create": "create"
   },
   "tabbar": {
     "test": "Bottom Menu Bar"

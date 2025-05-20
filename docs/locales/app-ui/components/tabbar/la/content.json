@@ -5,7 +5,8 @@
     "settings": "profectus",
     "script": "sero",
     "store": "foro",
-    "market": "foro"
+    "market": "foro",
+    "create": "creo"
   },
   "tabbar": {
     "test": "Solum Menu Bar"

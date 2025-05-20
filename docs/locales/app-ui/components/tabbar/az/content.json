@@ -5,7 +5,8 @@
     "settings": "quraşdırmaq",
     "script": "ssenar",
     "store": "bazar",
-    "market": "bazar"
+    "market": "bazar",
+    "create": "yaratmaq"
   },
   "tabbar": {
     "test": "Alt menyu çubuğu"

@@ -5,7 +5,8 @@
     "settings": "Imwaqqaf",
     "script": "skript",
     "store": "suq",
-    "market": "suq"
+    "market": "suq",
+    "create": "Oħloq"
   },
   "tabbar": {
     "test": "Bar tal-qiegħ tal-menu"

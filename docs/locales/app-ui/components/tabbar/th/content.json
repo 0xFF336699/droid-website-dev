@@ -5,7 +5,8 @@
     "settings": "ตั้งค่า",
     "script": "สคริปต์",
     "store": "ตลาด",
-    "market": "ตลาด"
+    "market": "ตลาด",
+    "create": "สร้าง"
   },
   "tabbar": {
     "test": "แถบเมนูด้านล่าง"

@@ -5,7 +5,8 @@
     "settings": "gushinga",
     "script": "inyandiko",
     "store": "isoko",
-    "market": "isoko"
+    "market": "isoko",
+    "create": "kurema"
   },
   "tabbar": {
     "test": "Ibara ry'umubiri"

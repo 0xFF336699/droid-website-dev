@@ -5,7 +5,8 @@
     "settings": "gushiraho",
     "script": "Inyandiko",
     "store": "isoko",
-    "market": "isoko"
+    "market": "isoko",
+    "create": "Kurema"
   },
   "tabbar": {
     "test": "Menu yo hasi"

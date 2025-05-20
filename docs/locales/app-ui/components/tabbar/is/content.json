@@ -5,7 +5,8 @@
     "settings": "Setja upp",
     "script": "Handrit",
     "store": "Markaður",
-    "market": "Markaður"
+    "market": "Markaður",
+    "create": "Búa til"
   },
   "tabbar": {
     "test": "Neðri valmyndarstikan"

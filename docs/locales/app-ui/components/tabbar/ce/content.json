@@ -5,7 +5,8 @@
     "settings": "хӀотто",
     "script": "скрипт",
     "store": "базар",
-    "market": "базар"
+    "market": "базар",
+    "create": "кхоллар"
   },
   "tabbar": {
     "test": "Лахахь Меню-бар"

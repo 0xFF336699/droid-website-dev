@@ -5,7 +5,8 @@
     "settings": "Sediakan",
     "script": "Skrip",
     "store": "pasaran",
-    "market": "pasaran"
+    "market": "pasaran",
+    "create": "Buat"
   },
   "tabbar": {
     "test": "Bar menu bawah"

@@ -5,7 +5,8 @@
     "settings": "kobongisa",
     "script": "maloba",
     "store": "zando",
-    "market": "zando"
+    "market": "zando",
+    "create": "kosala"
   },
   "tabbar": {
     "test": "Barre ya menu ya nse ."

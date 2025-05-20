@@ -5,7 +5,8 @@
     "settings": "inrätta",
     "script": "manus",
     "store": "marknadsföra",
-    "market": "marknadsföra"
+    "market": "marknadsföra",
+    "create": "skapa"
   },
   "tabbar": {
     "test": "Nedre menyfält"

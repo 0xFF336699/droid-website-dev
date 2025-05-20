@@ -5,7 +5,8 @@
     "settings": "gurmak",
     "script": "skript",
     "store": "bazary",
-    "market": "bazary"
+    "market": "bazary",
+    "create": "Dörediň"
   },
   "tabbar": {
     "test": "Aşak menýent"

@@ -5,7 +5,8 @@
     "settings": "skipna",
     "script": "handrit",
     "store": "marknaður",
-    "market": "marknaður"
+    "market": "marknaður",
+    "create": "skapa"
   },
   "tabbar": {
     "test": "Niðurstøðan er menu Barr"

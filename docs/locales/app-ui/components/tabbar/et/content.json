@@ -5,7 +5,8 @@
     "settings": "püstitama",
     "script": "skript",
     "store": "turg",
-    "market": "turg"
+    "market": "turg",
+    "create": "looma"
   },
   "tabbar": {
     "test": "Alumine menüüriba"

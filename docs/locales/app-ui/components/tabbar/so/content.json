@@ -5,7 +5,8 @@
     "settings": "Deji",
     "script": "qoraal",
     "store": "suuq",
-    "market": "suuq"
+    "market": "suuq",
+    "create": "abuurid"
   },
   "tabbar": {
     "test": "Qaybta hoose ee barta"

@@ -5,7 +5,8 @@
     "settings": "설정",
     "script": "스크립트",
     "store": "시장",
-    "market": "시장"
+    "market": "시장",
+    "create": "만들다"
   },
   "tabbar": {
     "test": "하단 메뉴 바"

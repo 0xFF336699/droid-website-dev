@@ -5,7 +5,8 @@
     "settings": "metre en plaça",
     "script": "scenari",
     "store": "mercat",
-    "market": "mercat"
+    "market": "mercat",
+    "create": "crear"
   },
   "tabbar": {
     "test": "Menú de fons Bar"

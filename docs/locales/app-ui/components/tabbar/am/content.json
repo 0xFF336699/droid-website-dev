@@ -5,7 +5,8 @@
     "settings": "ማዋቀር",
     "script": "ስክሪፕት",
     "store": "ገበያ",
-    "market": "ገበያ"
+    "market": "ገበያ",
+    "create": "ፍጠር"
   },
   "tabbar": {
     "test": "የታችኛው ምናሌ አሞሌ"

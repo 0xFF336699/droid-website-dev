@@ -5,7 +5,8 @@
     "settings": "mendirikan",
     "script": "naskah",
     "store": "pasar",
-    "market": "pasar"
+    "market": "pasar",
+    "create": "membuat"
   },
   "tabbar": {
     "test": "Bilah menu bawah"

@@ -5,7 +5,8 @@
     "settings": "Agordu",
     "script": "Skripto",
     "store": "Merkato",
-    "market": "Merkato"
+    "market": "Merkato",
+    "create": "krei"
   },
   "tabbar": {
     "test": "Funda menuobreto"

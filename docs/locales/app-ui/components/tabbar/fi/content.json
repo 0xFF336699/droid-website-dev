@@ -5,7 +5,8 @@
     "settings": "asentaa",
     "script": "käsikirjoitus",
     "store": "markkinoida",
-    "market": "markkinoida"
+    "market": "markkinoida",
+    "create": "luoda"
   },
   "tabbar": {
     "test": "Pohjavalikkopalkki"

@@ -5,7 +5,8 @@
     "settings": "يثبت",
     "script": "السيناريو",
     "store": "سوق",
-    "market": "سوق"
+    "market": "سوق",
+    "create": "يخلق"
   },
   "tabbar": {
     "test": "شريط القائمة السفلي"

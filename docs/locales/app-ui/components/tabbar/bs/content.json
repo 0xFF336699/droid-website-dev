@@ -5,7 +5,8 @@
     "settings": "postaviti",
     "script": "scenarij",
     "store": "tržište",
-    "market": "tržište"
+    "market": "tržište",
+    "create": "stvoriti"
   },
   "tabbar": {
     "test": "Donja traka izbornika"

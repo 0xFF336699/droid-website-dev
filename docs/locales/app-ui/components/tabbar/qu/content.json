@@ -5,7 +5,8 @@
     "settings": "tupachiy",
     "script": "qillqa",
     "store": "qatu",
-    "market": "qatu"
+    "market": "qatu",
+    "create": "paqarichiy"
   },
   "tabbar": {
     "test": "Ura menú barra ."

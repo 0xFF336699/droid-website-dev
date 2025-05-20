@@ -1,0 +1,11 @@
+{
+  "SignUpIn": {
+    "signUpIn": "Уваход/рэгістрацыю",
+    "signOut": "Выходзіць",
+    "confirmContent": "Вы ўпэўнены, што хочаце выйсці?",
+    "confirmTitle": "намёк",
+    "confirm": "Упэўнены",
+    "cancel": "Ануляваць",
+    "signoutOk": "Выходзіць"
+  }
+}
