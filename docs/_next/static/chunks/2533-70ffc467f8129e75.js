@@ -352,7 +352,7 @@ var List = __webpack_require__(48592);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/@mui+material@6.2.0_@emotion+react@11.14.0_@types+react@19.1.3_react@19.0.0__@emotion+styled@_ivln2to5msvytlrndx7sh5sram/node_modules/@mui/material/ListItem/ListItem.js + 6 modules
 var ListItem = __webpack_require__(59234);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/@mui+material@6.2.0_@emotion+react@11.14.0_@types+react@19.1.3_react@19.0.0__@emotion+styled@_ivln2to5msvytlrndx7sh5sram/node_modules/@mui/material/Box/Box.js + 2 modules
-var Box = __webpack_require__(46925);
+var Box_Box = __webpack_require__(46925);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/react@19.0.0/node_modules/react/index.js
 var react = __webpack_require__(91844);
 // EXTERNAL MODULE: __barrel_optimize__?names=useTranslation!=!../../node_modules/.pnpm/react-i18next@15.1.4_i18next@24.1.0_typescript@5.8.2__react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/react-i18next/dist/es/index.js
@@ -419,7 +419,7 @@ function DeleteProjectButton() {
     const handleDelete = ()=>{
         storage/* projectStore */.D.deleteProject(projectId);
     };
-    const content = /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box/* default */.A, {
+    const content = /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
         style: {
             textAlign: 'center'
         },
@@ -505,7 +505,7 @@ function ProjectUI(param) {
     let { project } = param;
     return /*#__PURE__*/ (0,jsx_runtime.jsx)(project_contexts/* ProjectContext */.vz.Provider, {
         value: project,
-        children: /*#__PURE__*/ (0,jsx_runtime.jsx)(Box/* default */.A, {
+        children: /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
             sx: {
                 width: "100%",
                 backgroundColor: "#f0f0f0",
@@ -568,11 +568,11 @@ function Projects() {
             unsub();
         };
     }, []);
-    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box/* default */.A, {
+    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
         children: [
             /*#__PURE__*/ (0,jsx_runtime.jsx)(CreateProjectButton, {}),
-            projects.length == 0 && /*#__PURE__*/ (0,jsx_runtime.jsx)(Box/* default */.A, {
-                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box/* default */.A, {
+            projects.length == 0 && /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
                     children: [
                         /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                             children: t('content.noProjects')
@@ -590,7 +590,7 @@ function Projects() {
     });
 }
 function ProjectsUI() {
-    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box/* default */.A, {
+    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
         children: [
             /*#__PURE__*/ (0,jsx_runtime.jsx)(ProjectsTitle, {}),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(Projects, {})
@@ -603,9 +603,9 @@ var src = __webpack_require__(15463);
 // EXTERNAL MODULE: ../../libs/fanfanlo/dist/src/nextjs/env/env.js
 var env = __webpack_require__(91839);
 // EXTERNAL MODULE: ../../libs/fanfanlo/dist/src/iframe/IFrameReactContainer.js + 1 modules
-var IFrameReactContainer = __webpack_require__(5828);
+var iframe_IFrameReactContainer = __webpack_require__(5828);
 // EXTERNAL MODULE: ../../node_modules/.pnpm/@mui+material@6.2.0_@emotion+react@11.14.0_@types+react@19.0.1_react@19.0.0__@emotion+styled@_kpkjigxuopup3qauiigb2zavni/node_modules/@mui/material/Box/Box.js + 2 modules
-var Box_Box = __webpack_require__(20532);
+var material_Box_Box = __webpack_require__(20532);
 // EXTERNAL MODULE: ../../libs/droid/android/dist/src/android/AutoWebViewJs.js + 1 modules
 var AutoWebViewJs = __webpack_require__(17696);
 // EXTERNAL MODULE: ../../libs/droid/android/dist/src/android/androidDispatchers.js
@@ -679,7 +679,7 @@ var Modal = __webpack_require__(5391);
 
 
 
-function AndroidSettingsInfo() {
+function AndroidSettingsInfo_AndroidSettingsInfo() {
     const [permissions, setPermissions] = (0,react.useState)([]);
     const [open, setOpen] = (0,react.useState)(false);
     const onSettingClick = ()=>{
@@ -698,8 +698,8 @@ function AndroidSettingsInfo() {
     }, []);
     return /*#__PURE__*/ (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
         children: [
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
-                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
+                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                     children: [
                         /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                             children: "授权"
@@ -718,13 +718,13 @@ function AndroidSettingsInfo() {
             /*#__PURE__*/ (0,jsx_runtime.jsx)(Modal/* default */.A, {
                 open: open,
                 onClose: handleClose,
-                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                     sx: {
                         bgcolor: "background.paper",
                         p: 2
                     },
                     children: [
-                        /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                        /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                             children: [
                                 /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                     children: "已授权的权限"
@@ -885,7 +885,7 @@ function MarketsDevSettingsOpenLinkButton() {
 }
 function MarketsDevSettingsLineOpenLinkButton() {
     return /*#__PURE__*/ (0,jsx_runtime.jsx)(jsx_runtime.Fragment, {
-        children: /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+        children: /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
             sx: {
                 mt: 2,
                 mb: 2
@@ -1019,12 +1019,12 @@ function SendSms() {
         const script = runSendSmsScript(msg, targetNumber, senderNumber);
     // ...
     }
-    return /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+    return /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
         children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Stack/* default */.A, {
             direction: "column",
             spacing: 2,
             children: [
-                /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                     className: "abcedfg",
                     children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(FormControl/* default */.A, {
                         sx: {
@@ -1379,7 +1379,7 @@ function SmsScriptItemComponent() {
         await testSendSms();
     }
     return /*#__PURE__*/ (0,jsx_runtime.jsx)(jsx_runtime.Fragment, {
-        children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+        children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
             children: [
                 /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                     children: "转发短信"
@@ -1412,7 +1412,7 @@ function SmsScriptItemComponent() {
                         direction: "column",
                         spacing: 2,
                         children: [
-                            /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                            /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                                 children: [
                                     /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                         children: "设置"
@@ -1435,7 +1435,7 @@ function SmsScriptItemComponent() {
                                 },
                                 direction: "column",
                                 spacing: 1,
-                                children: /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                children: /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                     children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                         style: {
                                             color: "red"
@@ -1453,17 +1453,17 @@ function SmsScriptItemComponent() {
                                 direction: "column",
                                 spacing: 1,
                                 children: [
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)("b", {
                                             children: "邮箱地址"
                                         })
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                             children: "不填写将不会发送邮件"
                                         })
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)(TextField/* default */.A, {
                                             error: !!email && !testEmail(email),
                                             id: "editable-text",
@@ -1489,29 +1489,29 @@ function SmsScriptItemComponent() {
                                 direction: "column",
                                 spacing: 1,
                                 children: [
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)("b", {
                                             children: "读取短信的路径"
                                         })
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                                         children: [
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                                     children: "不填写将不会把短信内容发送到远程服务器。"
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                                     children: "该字符串可以起到轻微加密的作用，长度您可以设置在100个字符以内，建议30个字符以上。"
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                                     children: "我们提供的默认存储并没有访问限制，任何人知道、猜到、枚举到路径都可以获取到您的短信内容，强烈建议您替换为您的安全方式接收和存储短信，以免被恶意获取到。"
                                                 })
                                             }),
-                                            sendSmsUrl && mobilePathKey && sendSmsUrl == defSendSmsUrl && /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                                            sendSmsUrl && mobilePathKey && sendSmsUrl == defSendSmsUrl && /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                                                 children: [
                                                     /*#__PURE__*/ (0,jsx_runtime.jsx)("a", {
                                                         target: "_blank",
@@ -1526,7 +1526,7 @@ function SmsScriptItemComponent() {
                                             })
                                         ]
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)(TextField/* default */.A, {
                                             id: "editable-text",
                                             "aria-label": "editable-text",
@@ -1541,12 +1541,12 @@ function SmsScriptItemComponent() {
                                     })
                                 ]
                             }),
-                            /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                            /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                                 children: [
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: "因为没时间开发，所以默认发送信息和邮件是我们申请的免费资源用来测试的，额度不多，大家都用的话，很快就会用完，用完后就所有人都发不出去了，如果出现这种情况，您可以自己申请或建设您自己的转发渠道。"
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: "如果该功能受欢迎，我们也会很快自己开发提供无限量免费使用资源。"
                                     })
                                 ]
@@ -1560,12 +1560,12 @@ function SmsScriptItemComponent() {
                                 direction: "column",
                                 spacing: 1,
                                 children: [
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)("b", {
                                             children: "邮件转发"
                                         })
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsxs)("span", {
                                             children: [
                                                 "我们默认是用",
@@ -1579,7 +1579,7 @@ function SmsScriptItemComponent() {
                                             ]
                                         })
                                     }),
-                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                         children: /*#__PURE__*/ (0,jsx_runtime.jsx)(TextField/* default */.A, {
                                             error: !testResendAuth(resendAuth),
                                             id: "editable-text",
@@ -1604,14 +1604,14 @@ function SmsScriptItemComponent() {
                                 direction: "column",
                                 spacing: 1,
                                 children: [
-                                    /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+                                    /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
                                         children: [
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)("b", {
                                                     children: "短信转发地址"
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsxs)("span", {
                                                     children: [
                                                         "默认为：",
@@ -1619,7 +1619,7 @@ function SmsScriptItemComponent() {
                                                     ]
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsxs)("span", {
                                                     children: [
                                                         "如果您是自己使用，可以在",
@@ -1633,7 +1633,7 @@ function SmsScriptItemComponent() {
                                                     ]
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsxs)("span", {
                                                     children: [
                                                         "您还可以做一个代理层，在",
@@ -1647,7 +1647,7 @@ function SmsScriptItemComponent() {
                                                     ]
                                                 })
                                             }),
-                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+                                            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                                                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                                                     children: "您也可以自建服务器或者使用钉钉、server酱等接收消息推送的api。"
                                                 })
@@ -1844,8 +1844,8 @@ function AccessibilityInfo() {
     function onDangerPageButtonClick() {
         router.push('/a11y-danger');
     }
-    return /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
-        children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+    return /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
+        children: /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
             children: [
                 /*#__PURE__*/ (0,jsx_runtime.jsx)("span", {
                     children: t('AccessibilityInfo.name')
@@ -2076,8 +2076,8 @@ function FloatingInfo() {
 
 
 
-function HomePagePermissions() {
-    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+function HomePagePermissions_HomePagePermissions() {
+    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
         children: [
             /*#__PURE__*/ (0,jsx_runtime.jsx)(AccessibilityInfo, {}),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(FloatingInfo, {})
@@ -2098,7 +2098,7 @@ var navigation = __webpack_require__(50627);
 
 
 
-function IMOpenPageLink() {
+function PageLinks_IMOpenPageLink() {
     const router = (0,navigation.useRouter)();
     function onClick() {
         router.push('/im');
@@ -2140,20 +2140,20 @@ function Home() {
                 ns: "homepage/pages/home/content",
                 key: "home.title"
             },
-            children: env/* isDev */.Cu ? /*#__PURE__*/ (0,jsx_runtime.jsx)(Content, {}) : /*#__PURE__*/ (0,jsx_runtime.jsx)(ProdContent, {})
+            children: /*#__PURE__*/ (0,jsx_runtime.jsx)(Content, {})
         })
     });
 }
 function ProdContent() {
-    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+    return /*#__PURE__*/ _jsxs(Box, {
         children: [
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(IMOpenPageLink, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(AndroidSettingsInfo, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(HomePagePermissions, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(IFrameReactContainer/* IFrameReactContainer */.T, {
+            /*#__PURE__*/ _jsx(IMOpenPageLink, {}),
+            /*#__PURE__*/ _jsx(AndroidSettingsInfo, {}),
+            /*#__PURE__*/ _jsx(HomePagePermissions, {}),
+            /*#__PURE__*/ _jsx(IFrameReactContainer, {
                 url: "/scripts/fanfanlo/scripts/emergency-alarm/index.js",
                 urlAsContent: true,
-                htmlBuilder: market_html_utils/* marketHtmlUtils */.P.createHtml
+                htmlBuilder: marketHtmlUtils.createHtml
             })
         ]
     });
@@ -2208,30 +2208,30 @@ function Content() {
         marketsScriptManager.init();
     }, []);
     console.log('isDev=', env/* isDev */.Cu);
-    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(Box_Box/* default */.A, {
+    return /*#__PURE__*/ (0,jsx_runtime.jsxs)(material_Box_Box/* default */.A, {
         children: [
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(IMOpenPageLink, {}),
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(PageLinks_IMOpenPageLink, {}),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(SendSms, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(AndroidSettingsInfo, {}),
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(AndroidSettingsInfo_AndroidSettingsInfo, {}),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(SmsScriptItemComponent, {}),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(AddExternalMarketButton, {}),
             ui,
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(HomePagePermissions, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(IFrameReactContainer/* IFrameReactContainer */.T, {
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(HomePagePermissions_HomePagePermissions, {}),
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(iframe_IFrameReactContainer/* IFrameReactContainer */.T, {
                 url: "/scripts/fanfanlo/scripts/emergency-alarm/index.js",
                 urlAsContent: true,
                 htmlBuilder: market_html_utils/* marketHtmlUtils */.P.createHtml
             }),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(IFrameReactContainer/* IFrameReactContainer */.T, {
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(iframe_IFrameReactContainer/* IFrameReactContainer */.T, {
                 url: "/scripts/fanfanlo/scripts/emergency-alarm/index.js",
                 urlAsContent: true,
                 htmlBuilder: market_html_utils/* marketHtmlUtils */.P.createHtml
             }),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)(OpenA11yNodeButton, {})
             }),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(test_script.TestScript, {}),
-            /*#__PURE__*/ (0,jsx_runtime.jsx)(Box_Box/* default */.A, {
+            /*#__PURE__*/ (0,jsx_runtime.jsx)(material_Box_Box/* default */.A, {
                 children: /*#__PURE__*/ (0,jsx_runtime.jsx)(KillSelf, {})
             }),
             /*#__PURE__*/ (0,jsx_runtime.jsx)(MarketsDevSettingsLineOpenLinkButton, {}),
@@ -2712,4 +2712,4 @@ module.exports = {"permissionComponentsSpanPadding":"components_permissionCompon
 /***/ })
 
 }]);
-//# sourceMappingURL=2533-995c1b7ce9ceff65.js.map
+//# sourceMappingURL=2533-70ffc467f8129e75.js.map
