@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Зурвас оруулна уу ..."
+  },
+  "MessageList": {
+    "noMessages": "Хараахан мессеж байхгүй байна, яриаг эхлүүлэхийн тулд эхний мессежийг илгээнэ үү!",
+    "loading": "Ачаалах ...",
+    "error": {
+      "loadFailed": "Зурвасыг ачаалж чадсангүй",
+      "retry": "Дахин оролд"
+    }
+  },
+  "RoomContent": {
+    "title": "Өрөө"
+  },
+  "RoomHeader": {
+    "title": "Өрөө",
+    "unnamedRoom": "Дүрэмгүй",
+    "members": "гишүүн",
+    "settings": "тохируулах",
+    "leaveRoom": "Өрөө орхих",
+    "joinRoom": "Өртэйд"
+  },
+  "RoomMembers": {
+    "title": "Абар байрны гишүүд",
+    "online": "Он Онцлог",
+    "offline": "Etft-Намрын шугам",
+    "join": "нэгдэх",
+    "invite": "урих",
+    "leave": "явах",
+    "ban": "Хориглосон",
+    "noMembers": "Гишүүн хараахан гараагүй байна",
+    "loading": "Ачаалах ..."
+  }
+}

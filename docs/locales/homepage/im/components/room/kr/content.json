@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Kawuli laa yike..."
+  },
+  "MessageList": {
+    "noMessages": "Kuwa yayi kawuli bawo, kawuli buroyedə zuzə zandedə baditəro!",
+    "loading": "loading...",
+    "error": {
+      "loadFailed": "Kawulidəga load diwo nankaro terəna",
+      "retry": "dəye waltə jarabne"
+    }
+  },
+  "RoomContent": {
+    "title": "Njim"
+  },
+  "RoomHeader": {
+    "title": "Njim",
+    "unnamedRoom": "Njimma su baa",
+    "members": "memba",
+    "settings": "dawarta",
+    "leaveRoom": "Njimdǝ kollǝm",
+    "joinRoom": "Njimdǝro kǝlne"
+  },
+  "RoomMembers": {
+    "title": "Jami njimbe",
+    "online": "Wonlain",
+    "offline": "buwo",
+    "join": "rowaro waljiya itaro gone saa itanə rotəktəyen kara.",
+    "invite": "dotə",
+    "leave": "kolle",
+    "ban": "banne",
+    "noMembers": "Kuwamiyayi memba ba",
+    "loading": "loading..."
+  }
+}

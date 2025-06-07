@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Lowetsani uthenga ..."
+  },
+  "MessageList": {
+    "noMessages": "Palibe uthenga pano, tumizani uthenga woyamba kuyambitsa zokambirana!",
+    "loading": "Kutsegula ...",
+    "error": {
+      "loadFailed": "Talephera kutsegula uthengawo",
+      "retry": "Yesaninso"
+    }
+  },
+  "RoomContent": {
+    "title": "Malo"
+  },
+  "RoomHeader": {
+    "title": "Malo",
+    "unnamedRoom": "Chipinda chosatchulidwa",
+    "members": "membala",
+    "settings": "khazikitsa",
+    "leaveRoom": "Siyani chipindacho",
+    "joinRoom": "Lowani m'chipindacho"
+  },
+  "RoomMembers": {
+    "title": "Mamembala achipinda",
+    "online": "Pa intaneti",
+    "offline": "Kwakuma",
+    "join": "Lowani",
+    "invite": "itana",
+    "leave": "siya",
+    "ban": "Oletsedwa",
+    "noMembers": "Palibe membala",
+    "loading": "Kutsegula ..."
+  }
+}

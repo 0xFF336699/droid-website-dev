@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Skriva boð..."
+  },
+  "MessageList": {
+    "noMessages": "Enn eru eingi boð enn, send fyrstu boðini til at byrja samrøðuna!",
+    "loading": "lasting...",
+    "error": {
+      "loadFailed": "Mistist ikki at heinta boðini",
+      "retry": "Royn aftur"
+    }
+  },
+  "RoomContent": {
+    "title": "Rúm"
+  },
+  "RoomHeader": {
+    "title": "Rúm",
+    "unnamedRoom": "Ónavngivin kamar",
+    "members": "limir",
+    "settings": "skipna",
+    "leaveRoom": "Lat kamarið vera",
+    "joinRoom": "Ver við í kamarinum"
+  },
+  "RoomMembers": {
+    "title": "Stovulimir",
+    "online": "Álinju",
+    "offline": "Offline",
+    "join": "vera við",
+    "invite": "bjóða",
+    "leave": "fara",
+    "ban": "Bannað",
+    "noMembers": "Eingin limur enn",
+    "loading": "lasting..."
+  }
+}

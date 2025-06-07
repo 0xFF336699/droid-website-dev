@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "ایک پیغام درج کریں ..."
+  },
+  "MessageList": {
+    "noMessages": "ابھی کوئی پیغام نہیں ہے ، گفتگو شروع کرنے کے لئے پہلا پیغام بھیجیں!",
+    "loading": "لوڈنگ ...",
+    "error": {
+      "loadFailed": "پیغام کو لوڈ کرنے میں ناکام",
+      "retry": "دوبارہ کوشش کریں"
+    }
+  },
+  "RoomContent": {
+    "title": "کمرہ"
+  },
+  "RoomHeader": {
+    "title": "کمرہ",
+    "unnamedRoom": "نامعلوم کمرہ",
+    "members": "ممبر",
+    "settings": "سیٹ اپ",
+    "leaveRoom": "کمرے چھوڑ دو",
+    "joinRoom": "کمرے میں شامل ہوں"
+  },
+  "RoomMembers": {
+    "title": "کمرے کے ممبر",
+    "online": "آن لائن",
+    "offline": "آف لائن",
+    "join": "اس میں شامل ہوں",
+    "invite": "دعوت دیں",
+    "leave": "چھوڑ دو",
+    "ban": "پابندی عائد",
+    "noMembers": "ابھی تک کوئی ممبر نہیں ہے",
+    "loading": "لوڈنگ ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Masukkan pesan ..."
+  },
+  "MessageList": {
+    "noMessages": "Belum ada pesan, kirim pesan pertama untuk memulai percakapan!",
+    "loading": "memuat...",
+    "error": {
+      "loadFailed": "Gagal memuat pesan",
+      "retry": "Coba lagi"
+    }
+  },
+  "RoomContent": {
+    "title": "Ruang"
+  },
+  "RoomHeader": {
+    "title": "Ruang",
+    "unnamedRoom": "Kamar yang tidak disebutkan namanya",
+    "members": "anggota",
+    "settings": "mendirikan",
+    "leaveRoom": "Tinggalkan kamar",
+    "joinRoom": "Bergabunglah dengan kamar"
+  },
+  "RoomMembers": {
+    "title": "Anggota kamar",
+    "online": "On line",
+    "offline": "Offline",
+    "join": "bergabunglah",
+    "invite": "mengundang",
+    "leave": "meninggalkan",
+    "ban": "Dilarang",
+    "noMembers": "Belum ada anggota",
+    "loading": "memuat..."
+  }
+}

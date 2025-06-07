@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Felhasználói információk",
+    "id": {
+      "name": "Személyazonosság",
+      "copy": "másolat"
+    },
+    "name": "név",
+    "avatar": "avatár"
+  }
+}

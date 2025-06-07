@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Whakauruhia he panui ..."
+  },
+  "MessageList": {
+    "noMessages": "Kaore ano he karere, tukuna atu te panui tuatahi hei timata i te korerorero!",
+    "loading": "Hoko ...",
+    "error": {
+      "loadFailed": "I rahua te uta i te panui",
+      "retry": "Whakamātauria ano"
+    }
+  },
+  "RoomContent": {
+    "title": "Rūma"
+  },
+  "RoomHeader": {
+    "title": "Rūma",
+    "unnamedRoom": "Rūma kore ingoa",
+    "members": "mema",
+    "settings": "whakarite",
+    "leaveRoom": "Waiho te ruma",
+    "joinRoom": "Whakauru atu ki te ruma"
+  },
+  "RoomMembers": {
+    "title": "Nga mema o te rūma",
+    "online": "Ipurangi",
+    "offline": "Taipitopito",
+    "join": "Hono ki",
+    "invite": "pōhiri",
+    "leave": "haere",
+    "ban": "Aukati",
+    "noMembers": "Kaore ano he mema",
+    "loading": "Hoko ..."
+  }
+}

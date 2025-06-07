@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informazzjoni dwar l-utent",
+    "id": {
+      "name": "ID",
+      "copy": "kopja"
+    },
+    "name": "isem",
+    "avatar": "Avatar"
+  }
+}

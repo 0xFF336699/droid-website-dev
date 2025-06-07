@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ŋlɔ gbedasi aɖe ɖe eme..."
+  },
+  "MessageList": {
+    "noMessages": "Gbedasi aɖeke meli haɖe o, ɖo gbedasi gbãtɔ ɖa be nàdze dzeɖoɖoa gɔme!",
+    "loading": "Agbatsɔtsɔ...",
+    "error": {
+      "loadFailed": "Do kpo gbedasi la tsɔtsɔ de eme .",
+      "retry": "Gate kpɔ ake ."
+    }
+  },
+  "RoomContent": {
+    "title": "Xɔ"
+  },
+  "RoomHeader": {
+    "title": "Xɔ",
+    "unnamedRoom": "Xɔ si ŋkɔ womeyɔ o .",
+    "members": "Hamea me tɔ .",
+    "settings": "ɖo anyi",
+    "leaveRoom": "Do le xɔa me .",
+    "joinRoom": "Wɔ ɖeka kple xɔa ."
+  },
+  "RoomMembers": {
+    "title": "Xɔa me tɔwo .",
+    "online": "Le kadzi",
+    "offline": "Offline .",
+    "join": "Wɔ ɖeka kple .",
+    "invite": "kpe",
+    "leave": "aŋgba",
+    "ban": "Woxe mɔ ɖe enu .",
+    "noMembers": "Hamevi aɖeke mele eme haɖe o .",
+    "loading": "Agbatsɔtsɔ..."
+  }
+}

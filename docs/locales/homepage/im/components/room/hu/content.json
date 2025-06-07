@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Írjon be egy üzenetet ..."
+  },
+  "MessageList": {
+    "noMessages": "Még nincs üzenet, küldje el az első üzenetet a beszélgetés megkezdéséhez!",
+    "loading": "terhelés...",
+    "error": {
+      "loadFailed": "Nem sikerült betölteni az üzenetet",
+      "retry": "Próbálkozzon újra"
+    }
+  },
+  "RoomContent": {
+    "title": "Szoba"
+  },
+  "RoomHeader": {
+    "title": "Szoba",
+    "unnamedRoom": "Névtelen szoba",
+    "members": "tag",
+    "settings": "felállít",
+    "leaveRoom": "Elhagyja a szobát",
+    "joinRoom": "Csatlakozzon a szobához"
+  },
+  "RoomMembers": {
+    "title": "Szobatagok",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "csatlakozik",
+    "invite": "meghív",
+    "leave": "szabadság",
+    "ban": "Tiltott",
+    "noMembers": "Még nincs tag",
+    "loading": "terhelés..."
+  }
+}

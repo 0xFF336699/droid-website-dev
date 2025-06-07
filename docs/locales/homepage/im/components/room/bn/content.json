@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "একটি বার্তা লিখুন ..."
+  },
+  "MessageList": {
+    "noMessages": "এখনও কোনও বার্তা নেই, কথোপকথনটি শুরু করার জন্য প্রথম বার্তাটি প্রেরণ করুন!",
+    "loading": "লোড হচ্ছে ...",
+    "error": {
+      "loadFailed": "বার্তাটি লোড করতে ব্যর্থ",
+      "retry": "আবার চেষ্টা করুন"
+    }
+  },
+  "RoomContent": {
+    "title": "ঘর"
+  },
+  "RoomHeader": {
+    "title": "ঘর",
+    "unnamedRoom": "নামবিহীন ঘর",
+    "members": "সদস্য",
+    "settings": "সেট আপ",
+    "leaveRoom": "ঘর ছেড়ে দিন",
+    "joinRoom": "ঘরে যোগদান করুন"
+  },
+  "RoomMembers": {
+    "title": "রুম সদস্য",
+    "online": "অনলাইন",
+    "offline": "অফলাইন",
+    "join": "যোগদান করুন",
+    "invite": "আমন্ত্রণ",
+    "leave": "ছেড়ে দিন",
+    "ban": "নিষিদ্ধ",
+    "noMembers": "এখনও কোন সদস্য নেই",
+    "loading": "লোড হচ্ছে ..."
+  }
+}

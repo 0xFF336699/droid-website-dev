@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Bindal ab bataaxal..."
+  },
+  "MessageList": {
+    "noMessages": "Ba leegi mesaas amul, yónnee mesaas bi njëkk ngir tàmbali waxtaan wi!",
+    "loading": "yab...",
+    "error": {
+      "loadFailed": "Ñu ngi ko tëj ngir yab mesaas bi",
+      "retry": "Jéemaat"
+    }
+  },
+  "RoomContent": {
+    "title": "Néeg"
+  },
+  "RoomHeader": {
+    "title": "Néeg",
+    "unnamedRoom": "Néeg bi amul tur",
+    "members": "Ndaw",
+    "settings": "defar",
+    "leaveRoom": "Bayil néeg bi",
+    "joinRoom": "Doole ci néeg bi"
+  },
+  "RoomMembers": {
+    "title": "néeg",
+    "online": "Enseñëër",
+    "offline": "Ofline",
+    "join": "dugg ci",
+    "invite": "nganale",
+    "leave": "dem",
+    "ban": "Banned",
+    "noMembers": "Amul benn ci",
+    "loading": "yab..."
+  }
+}

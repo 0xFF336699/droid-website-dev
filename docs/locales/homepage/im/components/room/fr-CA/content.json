@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Entrez un message ..."
+  },
+  "MessageList": {
+    "noMessages": "Il n'y a pas encore de message, envoyez le premier message pour démarrer la conversation!",
+    "loading": "chargement...",
+    "error": {
+      "loadFailed": "Échec du chargement du message",
+      "retry": "Essayer à nouveau"
+    }
+  },
+  "RoomContent": {
+    "title": "Chambre"
+  },
+  "RoomHeader": {
+    "title": "Chambre",
+    "unnamedRoom": "Chambre sans nom",
+    "members": "membre",
+    "settings": "installation",
+    "leaveRoom": "Quitter la pièce",
+    "joinRoom": "Rejoindre la salle"
+  },
+  "RoomMembers": {
+    "title": "Membres de la salle",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "join": "se joindre à",
+    "invite": "inviter",
+    "leave": "partir",
+    "ban": "Interdit",
+    "noMembers": "Aucun membre encore",
+    "loading": "chargement..."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "ব্যৱহাৰকাৰীৰ তথ্য",
+    "id": {
+      "name": "ID",
+      "copy": "কপি কৰক"
+    },
+    "name": "নাম",
+    "avatar": "Avatar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Tsenya molaetsa..."
+  },
+  "MessageList": {
+    "noMessages": "Ga go ise go nne le molaetsa, romela molaetsa wa ntlha go simolola motlotlo!",
+    "loading": "go laisa...",
+    "error": {
+      "loadFailed": "Go palelwa ke go laisa molaetsa",
+      "retry": "Leka gape"
+    }
+  },
+  "RoomContent": {
+    "title": "Phaposi"
+  },
+  "RoomHeader": {
+    "title": "Phaposi",
+    "unnamedRoom": "Phaposi e e sa umakiwang ka leina",
+    "members": "leloko",
+    "settings": "siamisa",
+    "leaveRoom": "Tlogela phaposi",
+    "joinRoom": "Tsena mo phaposing"
+  },
+  "RoomMembers": {
+    "title": "Maloko a phaposi",
+    "online": "Mo inthaneteng",
+    "offline": "Ntle le inthanete",
+    "join": "kopanela mo",
+    "invite": "laletsa",
+    "leave": "tloga",
+    "ban": "thibetswe",
+    "noMembers": "Ga go na leloko",
+    "loading": "go laisa..."
+  }
+}

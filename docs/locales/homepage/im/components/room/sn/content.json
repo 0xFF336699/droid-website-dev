@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Isa meseji ..."
+  },
+  "MessageList": {
+    "noMessages": "Iko hakuna meseji ikozvino, tumira meseji yekutanga kutanga hurukuro!",
+    "loading": "Kuisa ...",
+    "error": {
+      "loadFailed": "Kukundikana kuReta Mharidzo",
+      "retry": "Edza zvakare"
+    }
+  },
+  "RoomContent": {
+    "title": "Kamuri"
+  },
+  "RoomHeader": {
+    "title": "Kamuri",
+    "unnamedRoom": "Imba isina kutaurwa",
+    "members": "nhengo",
+    "settings": "gadzirira",
+    "leaveRoom": "Siya mukamuri",
+    "joinRoom": "Joinha mukamuri"
+  },
+  "RoomMembers": {
+    "title": "Nhengo dzemuviri",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Joinha",
+    "invite": "Koka",
+    "leave": "zivisa",
+    "ban": "Kurambidzwa",
+    "noMembers": "Hapana nhengo ichiripo",
+    "loading": "Kuisa ..."
+  }
+}

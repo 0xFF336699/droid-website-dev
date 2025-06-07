@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informacija apie vartotoją",
+    "id": {
+      "name": "Id",
+      "copy": "kopijuoti"
+    },
+    "name": "vardas",
+    "avatar": "Avataras"
+  }
+}

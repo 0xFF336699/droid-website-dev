@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informations sur l'utilisateur",
+    "id": {
+      "name": "IDENTIFIANT",
+      "copy": "copie"
+    },
+    "name": "nom",
+    "avatar": "avatar"
+  }
+}

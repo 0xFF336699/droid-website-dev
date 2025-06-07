@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informații despre utilizator",
+    "id": {
+      "name": "Id",
+      "copy": "copie"
+    },
+    "name": "nume",
+    "avatar": "Avatar"
+  }
+}

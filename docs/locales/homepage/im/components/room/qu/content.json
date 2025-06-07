@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Huk willakuyta qillqay..."
+  },
+  "MessageList": {
+    "noMessages": "Manaraqmi willakuy kanchu, ñawpaq willakuyta apachiy rimayta qallarinanpaq!",
+    "loading": "Cargando...",
+    "error": {
+      "loadFailed": "Willayta kargayta mana atirqanchu.",
+      "retry": "Hukmanta kallpachakuy ."
+    }
+  },
+  "RoomContent": {
+    "title": "Habitacion"
+  },
+  "RoomHeader": {
+    "title": "Habitacion",
+    "unnamedRoom": "Mana sutiyuq cuarto .",
+    "members": "Miembro .",
+    "settings": "tupachiy",
+    "leaveRoom": "Saqiy cuartomanta .",
+    "joinRoom": "Habitación nisqaman hukllaway ."
+  },
+  "RoomMembers": {
+    "title": "Habitación nisqapi kaq runakuna .",
+    "online": "Tinkisqa",
+    "offline": "Mana internetpi kaq .",
+    "join": "hukllanakuy .",
+    "invite": "minkay",
+    "leave": "saqiy",
+    "ban": "hark'asqa .",
+    "noMembers": "Manaraqmi miembrupas .",
+    "loading": "Cargando..."
+  }
+}

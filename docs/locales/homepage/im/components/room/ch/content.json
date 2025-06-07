@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Sige un mensahe?"
+  },
+  "MessageList": {
+    "noMessages": "Ti guaha mensahe pa`gu, na`e i primet mensahe para u tutuhon i konbetsasion!",
+    "loading": "loman",
+    "error": {
+      "loadFailed": "Siente hao para un karga",
+      "retry": "da"
+    }
+  },
+  "RoomContent": {
+    "title": "Apusentu"
+  },
+  "RoomHeader": {
+    "title": "Apusentu",
+    "unnamedRoom": "ti ma",
+    "members": "membro",
+    "settings": "pripara",
+    "leaveRoom": "Na'lo ya",
+    "joinRoom": "Esperante hao"
+  },
+  "RoomMembers": {
+    "title": "Romes",
+    "online": "Na'lalibre",
+    "offline": "Off",
+    "join": "a'atanyi",
+    "invite": "kombida",
+    "leave": "hanao",
+    "ban": "Si Banland si Bann",
+    "noMembers": "Ni uno gi membro",
+    "loading": "loman"
+  }
+}

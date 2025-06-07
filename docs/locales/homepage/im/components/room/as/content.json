@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "এটা বার্তা সরান..."
+  },
+  "MessageList": {
+    "noMessages": "এতিয়াও কোনো বাৰ্তা নাই, কথা-বতৰা আৰম্ভ কৰিবলৈ প্ৰথম বাৰ্তা প্ৰেৰণ কৰক!",
+    "loading": "লোডিং...",
+    "error": {
+      "loadFailed": "বাৰ্তা লোড কৰাত ব্যৰ্থ",
+      "retry": "আকৌ চেষ্টা কৰক"
+    }
+  },
+  "RoomContent": {
+    "title": "কোঠা"
+  },
+  "RoomHeader": {
+    "title": "কোঠা",
+    "unnamedRoom": "নামহীন কোঠা",
+    "members": "সদস্য",
+    "settings": "স্থাপন কৰা",
+    "leaveRoom": "কোঠাটো এৰি দিয়ক ৷",
+    "joinRoom": "ৰুমত যোগদান কৰক"
+  },
+  "RoomMembers": {
+    "title": "ৰুমৰ সদস্য",
+    "online": "অনলাইন",
+    "offline": "অফলাইন",
+    "join": "যোগদান কৰক",
+    "invite": "আমন্ত্ৰণ",
+    "leave": "যোৱা",
+    "ban": "নিষিদ্ধ কৰা হৈছে",
+    "noMembers": "এতিয়াও কোনো সদস্য নাই",
+    "loading": "লোডিং..."
+  }
+}

@@ -6,6 +6,7 @@
     "confirmTitle": "تَلمِيح",
     "confirm": "بالتأكيد",
     "cancel": "يلغي",
-    "signoutOk": "تسجيل الخروج"
+    "signoutOk": "تسجيل الخروج",
+    "loadingData": "تحميل بيانات المستخدم"
   }
 }

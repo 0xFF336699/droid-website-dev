@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Gebruuksinformasie",
+    "id": {
+      "name": "ID",
+      "copy": "kopieer"
+    },
+    "name": "naam",
+    "avatar": "apotaar"
+  }
+}

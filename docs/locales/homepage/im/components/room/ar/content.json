@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "أدخل رسالة ..."
+  },
+  "MessageList": {
+    "noMessages": "لا توجد رسالة حتى الآن ، أرسل الرسالة الأولى لبدء المحادثة!",
+    "loading": "تحميل...",
+    "error": {
+      "loadFailed": "فشل في تحميل الرسالة",
+      "retry": "حاول ثانية"
+    }
+  },
+  "RoomContent": {
+    "title": "غرفة"
+  },
+  "RoomHeader": {
+    "title": "غرفة",
+    "unnamedRoom": "غرفة لم تسمها",
+    "members": "عضو",
+    "settings": "يثبت",
+    "leaveRoom": "اترك الغرفة",
+    "joinRoom": "انضم إلى الغرفة"
+  },
+  "RoomMembers": {
+    "title": "أعضاء الغرفة",
+    "online": "متصل",
+    "offline": "دون اتصال",
+    "join": "انضم",
+    "invite": "يدعو",
+    "leave": "يترك",
+    "ban": "محظور",
+    "noMembers": "لا عضو بعد",
+    "loading": "تحميل..."
+  }
+}

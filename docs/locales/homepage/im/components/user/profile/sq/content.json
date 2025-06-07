@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informacioni i Përdoruesit",
+    "id": {
+      "name": "Edhull",
+      "copy": "kopjoj"
+    },
+    "name": "emër",
+    "avatar": "avatar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Geben Sie eine Nachricht ein ..."
+  },
+  "MessageList": {
+    "noMessages": "Es gibt noch keine Nachricht. Senden Sie die erste Nachricht, um das Gespräch zu starten!",
+    "loading": "Laden...",
+    "error": {
+      "loadFailed": "Die Nachricht nicht laden",
+      "retry": "Versuchen Sie es erneut"
+    }
+  },
+  "RoomContent": {
+    "title": "Zimmer"
+  },
+  "RoomHeader": {
+    "title": "Zimmer",
+    "unnamedRoom": "Unbenanntes Zimmer",
+    "members": "Mitglied",
+    "settings": "aufstellen",
+    "leaveRoom": "Verlasse den Raum",
+    "joinRoom": "Schließen Sie sich dem Raum an"
+  },
+  "RoomMembers": {
+    "title": "Zimmermitglieder",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "dazu kommen",
+    "invite": "einladen",
+    "leave": "verlassen",
+    "ban": "Verboten",
+    "noMembers": "Noch kein Mitglied",
+    "loading": "Laden..."
+  }
+}

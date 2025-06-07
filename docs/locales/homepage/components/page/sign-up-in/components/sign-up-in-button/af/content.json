@@ -6,6 +6,7 @@
     "confirmTitle": "skimp",
     "confirm": "Seker",
     "cancel": "Kanselleer",
-    "signoutOk": "Log uit"
+    "signoutOk": "Log uit",
+    "loadingData": "Laai gebruikersdata"
   }
 }

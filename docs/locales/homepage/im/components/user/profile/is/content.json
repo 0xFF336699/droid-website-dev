@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Upplýsingar um notendur",
+    "id": {
+      "name": "ID",
+      "copy": "Afritaðu"
+    },
+    "name": "Nafn",
+    "avatar": "Avatar"
+  }
+}

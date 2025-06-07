@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Xabarni kiriting ..."
+  },
+  "MessageList": {
+    "noMessages": "Birda xabar yo'q, suhbatni boshlash uchun birinchi xabarni yuboring!",
+    "loading": "yuklash ...",
+    "error": {
+      "loadFailed": "Xabarni yuklab bo'lmadi",
+      "retry": "Qayta urinib ko'ring"
+    }
+  },
+  "RoomContent": {
+    "title": "Xona"
+  },
+  "RoomHeader": {
+    "title": "Xona",
+    "unnamedRoom": "Noma'lum xona",
+    "members": "a'zo",
+    "settings": "sozlash; o'rnatish",
+    "leaveRoom": "Xonani tark eting",
+    "joinRoom": "Xonaga qo'shiling"
+  },
+  "RoomMembers": {
+    "title": "Xona a'zolari",
+    "online": "Onlayn",
+    "offline": "Oflayn",
+    "join": "qo'shiling",
+    "invite": "taklif qilmoq",
+    "leave": "qoldirmoq",
+    "ban": "Taqiqlangan",
+    "noMembers": "Hali a'zo yo'q",
+    "loading": "yuklash ..."
+  }
+}

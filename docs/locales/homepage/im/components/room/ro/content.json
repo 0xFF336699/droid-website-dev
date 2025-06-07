@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Introduceți un mesaj ..."
+  },
+  "MessageList": {
+    "noMessages": "Încă nu există niciun mesaj, trimiteți primul mesaj pentru a începe conversația!",
+    "loading": "încărcare...",
+    "error": {
+      "loadFailed": "Nu a reușit să încarce mesajul",
+      "retry": "Încearcă din nou"
+    }
+  },
+  "RoomContent": {
+    "title": "Cameră"
+  },
+  "RoomHeader": {
+    "title": "Cameră",
+    "unnamedRoom": "Cameră fără nume",
+    "members": "membru",
+    "settings": "înființat",
+    "leaveRoom": "Părăsiți camera",
+    "joinRoom": "Alătură -te camerei"
+  },
+  "RoomMembers": {
+    "title": "Membrii camerei",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Alătură -te",
+    "invite": "invita",
+    "leave": "pleacă",
+    "ban": "Interzis",
+    "noMembers": "Niciun membru încă",
+    "loading": "încărcare..."
+  }
+}

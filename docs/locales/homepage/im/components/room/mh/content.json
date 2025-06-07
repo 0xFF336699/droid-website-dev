@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Kwōn deļo̧n̄e juon ennaan..."
+  },
+  "MessageList": {
+    "noMessages": "Ejjeļo̧k ennaan kiiō, jilkinļo̧k ennaan eo m̧oktata n̄an jino bwebwenato eo!",
+    "loading": "loon...",
+    "error": {
+      "loadFailed": "Ear jab bōk ennaan eo .",
+      "retry": "Kajjioñ bar juon alen"
+    }
+  },
+  "RoomContent": {
+    "title": "Ruum"
+  },
+  "RoomHeader": {
+    "title": "Ruum",
+    "unnamedRoom": "Ejjeļo̧k etan",
+    "members": "membōr",
+    "settings": "kōmmane",
+    "leaveRoom": "Kwōn likūt ruum̧ eo .",
+    "joinRoom": "Kobatok ilo ruum eo ."
+  },
+  "RoomMembers": {
+    "title": "Ruum",
+    "online": "Aunlain",
+    "offline": "ippa",
+    "join": "kobalok ilo",
+    "invite": "kūr",
+    "leave": "ien kakkije",
+    "ban": "Ear bakin",
+    "noMembers": "Ejjeḷọk membōr kiiō",
+    "loading": "loon..."
+  }
+}

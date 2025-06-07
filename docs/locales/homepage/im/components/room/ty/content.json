@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "A papa'i i te hoê poro'i..."
+  },
+  "MessageList": {
+    "noMessages": "Aita â e poroi, a tono i te poroi matamua no te haamata i te aparauraa!",
+    "loading": "te otia..",
+    "error": {
+      "loadFailed": "Ua faaorehia te poro'i",
+      "retry": "Tō'o'a 'oe"
+    }
+  },
+  "RoomContent": {
+    "title": "Fare"
+  },
+  "RoomHeader": {
+    "title": "Fare",
+    "unnamedRoom": "Te piha",
+    "members": "tā'atira'a",
+    "settings": "ta'uru",
+    "leaveRoom": "A vaiiho i te piha",
+    "joinRoom": "A tuu i roto i te piha"
+  },
+  "RoomMembers": {
+    "title": "Te mau melo o te piha haapiiraa",
+    "online": "Ā'au rahi",
+    "offline": "Ua fa'ahou",
+    "join": "tā'u",
+    "invite": "tāpō'i",
+    "leave": "rau'ere",
+    "ban": "ha'api'ira'a",
+    "noMembers": "Aita e melo",
+    "loading": "te otia.."
+  }
+}

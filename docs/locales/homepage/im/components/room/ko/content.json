@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "메시지를 입력하십시오 ..."
+  },
+  "MessageList": {
+    "noMessages": "아직 메시지가 없습니다. 첫 번째 메시지를 보내 대화를 시작하십시오!",
+    "loading": "로딩 ...",
+    "error": {
+      "loadFailed": "메시지를로드하지 못했습니다",
+      "retry": "다시 시도하십시오"
+    }
+  },
+  "RoomContent": {
+    "title": "방"
+  },
+  "RoomHeader": {
+    "title": "방",
+    "unnamedRoom": "이름없는 방",
+    "members": "회원",
+    "settings": "설정",
+    "leaveRoom": "방을 떠나십시오",
+    "joinRoom": "방에 가입하십시오"
+  },
+  "RoomMembers": {
+    "title": "객실 회원",
+    "online": "온라인",
+    "offline": "오프라인",
+    "join": "가입하십시오",
+    "invite": "초대하다",
+    "leave": "떠나다",
+    "ban": "금지",
+    "noMembers": "아직 회원이 없습니다",
+    "loading": "로딩 ..."
+  }
+}

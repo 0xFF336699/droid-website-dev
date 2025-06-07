@@ -6,6 +6,7 @@
     "confirmTitle": "намек",
     "confirm": "Сигурно",
     "cancel": "Отказ",
-    "signoutOk": "Излезте"
+    "signoutOk": "Излезте",
+    "loadingData": "Зареждане на потребителски данни"
   }
 }

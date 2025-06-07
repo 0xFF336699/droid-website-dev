@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Enigu mesaĝon ..."
+  },
+  "MessageList": {
+    "noMessages": "Ankoraŭ ne estas mesaĝo, sendu la unuan mesaĝon por komenci la konversacion!",
+    "loading": "Ŝarĝante ...",
+    "error": {
+      "loadFailed": "Malsukcesis ŝarĝi la mesaĝon",
+      "retry": "Provu denove"
+    }
+  },
+  "RoomContent": {
+    "title": "Ĉambro"
+  },
+  "RoomHeader": {
+    "title": "Ĉambro",
+    "unnamedRoom": "Nenomita ĉambro",
+    "members": "membro",
+    "settings": "Agordu",
+    "leaveRoom": "Forlasu la ĉambron",
+    "joinRoom": "Aliĝu al la ĉambro"
+  },
+  "RoomMembers": {
+    "title": "Ĉambranoj",
+    "online": "Interrete",
+    "offline": "Eksterrete",
+    "join": "Aliĝu",
+    "invite": "invitu",
+    "leave": "foriru",
+    "ban": "Malpermesita",
+    "noMembers": "Neniu Membro Ankoraŭ",
+    "loading": "Ŝarĝante ..."
+  }
+}

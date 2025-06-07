@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Introduïu un missatge ..."
+  },
+  "MessageList": {
+    "noMessages": "Encara no hi ha cap missatge, envieu el primer missatge per iniciar la conversa.",
+    "loading": "Carregant ...",
+    "error": {
+      "loadFailed": "No s'ha pogut carregar el missatge",
+      "retry": "Torneu -ho a provar"
+    }
+  },
+  "RoomContent": {
+    "title": "Espai"
+  },
+  "RoomHeader": {
+    "title": "Espai",
+    "unnamedRoom": "Habitació sense nom",
+    "members": "membre",
+    "settings": "configurar",
+    "leaveRoom": "Deixa l’habitació",
+    "joinRoom": "Uniu -vos a l’habitació"
+  },
+  "RoomMembers": {
+    "title": "Membres de l'habitació",
+    "online": "En línia",
+    "offline": "Fora de línia",
+    "join": "Uniu -vos a",
+    "invite": "convidar",
+    "leave": "deixar",
+    "ban": "Prohibit",
+    "noMembers": "Encara no hi ha membre",
+    "loading": "Carregant ..."
+  }
+}

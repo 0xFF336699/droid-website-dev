@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ergaa galchaa..."
+  },
+  "MessageList": {
+    "noMessages": "Ammatti ergaan hin jiru, haasawa jalqabuuf ergaa jalqabaa ergi!",
+    "loading": "Fe'aa...",
+    "error": {
+      "loadFailed": "Ergaa fe'uu hin dandeenye .",
+      "retry": "Ammas yaali ."
+    }
+  },
+  "RoomContent": {
+    "title": "Kutaa"
+  },
+  "RoomHeader": {
+    "title": "Kutaa",
+    "unnamedRoom": "Kutaa maqaan isaa hin ibsamne .",
+    "members": "Miseensa .",
+    "settings": "qixeessuu",
+    "leaveRoom": "Kutaa keessaa ba'aa .",
+    "joinRoom": "Kutaa keessatti makamaa ."
+  },
+  "RoomMembers": {
+    "title": "Miseensoota Kutaa .",
+    "online": "Toora intarneetiirraan",
+    "offline": "Sarara ala .",
+    "join": "join godhaa .",
+    "invite": "afeeruu",
+    "leave": "gad dhiisi",
+    "ban": "Uggurame .",
+    "noMembers": "Ammatti miseensa hin qabu .",
+    "loading": "Fe'aa..."
+  }
+}

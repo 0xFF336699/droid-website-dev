@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Mataka e dua na itukutuku..."
+  },
+  "MessageList": {
+    "noMessages": "E se bera ni dua na itukutuku, vakauta na imatai ni itukutuku me tekivu kina na veivosaki!",
+    "loading": "kakana",
+    "error": {
+      "loadFailed": "Vakaitamera me vakavodoka na itukutuku .",
+      "retry": "Tovolea mada tale."
+    }
+  },
+  "RoomContent": {
+    "title": "Rumu"
+  },
+  "RoomHeader": {
+    "title": "Rumu",
+    "unnamedRoom": "Ena rumu ni rumu ena rumu ni rumu.",
+    "members": "lewenilotu",
+    "settings": "tauyavutaki",
+    "leaveRoom": "Biuta mai na rumu ni rumu.",
+    "joinRoom": "isele"
+  },
+  "RoomMembers": {
+    "title": "Toso na",
+    "online": "Ena internet",
+    "offline": "iyalayala",
+    "join": "duavata",
+    "invite": "sureti ira",
+    "leave": "biubiu",
+    "ban": "Me",
+    "noMembers": "Sega ni tiko na lewenilotu",
+    "loading": "kakana"
+  }
+}

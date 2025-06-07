@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Хәбәр кертегез ..."
+  },
+  "MessageList": {
+    "noMessages": "Әле хәбәр юк, сөйләшүне башлау өчен беренче хәбәрне җибәрегез!",
+    "loading": "Йөкләү ...",
+    "error": {
+      "loadFailed": "Хәбәрне йөкли алмады",
+      "retry": "Кабатлап карагыз"
+    }
+  },
+  "RoomContent": {
+    "title": "Бүлмә"
+  },
+  "RoomHeader": {
+    "title": "Бүлмә",
+    "unnamedRoom": "Исемсез бүлмә",
+    "members": "әгъза",
+    "settings": "көйләү",
+    "leaveRoom": "Бүлмәдән чык",
+    "joinRoom": "Бүлмәгә кушылыгыз"
+  },
+  "RoomMembers": {
+    "title": "Бүлмә әгъзалары",
+    "online": "Онлайн",
+    "offline": "Оффлайн",
+    "join": "кушылыгыз",
+    "invite": "чакыру",
+    "leave": "китү",
+    "ban": "Тыелган",
+    "noMembers": "Әле бер әгъза да юк",
+    "loading": "Йөкләү ..."
+  }
+}

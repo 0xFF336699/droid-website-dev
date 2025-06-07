@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Wprowadź wiadomość ..."
+  },
+  "MessageList": {
+    "noMessages": "Nie ma jeszcze wiadomości, wyślij pierwszą wiadomość, aby rozpocząć rozmowę!",
+    "loading": "załadunek...",
+    "error": {
+      "loadFailed": "Nie udało się załadować wiadomości",
+      "retry": "Spróbuj ponownie"
+    }
+  },
+  "RoomContent": {
+    "title": "Pokój"
+  },
+  "RoomHeader": {
+    "title": "Pokój",
+    "unnamedRoom": "Bezimienny pokój",
+    "members": "członek",
+    "settings": "organizować coś",
+    "leaveRoom": "Opuść pokój",
+    "joinRoom": "Dołącz do pokoju"
+  },
+  "RoomMembers": {
+    "title": "Członkowie pokoju",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "dołączyć",
+    "invite": "zapraszać",
+    "leave": "Zostawić",
+    "ban": "Zakazany",
+    "noMembers": "Nie ma jeszcze członka",
+    "loading": "załadunek..."
+  }
+}

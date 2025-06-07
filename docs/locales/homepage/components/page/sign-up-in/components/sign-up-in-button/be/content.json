@@ -6,6 +6,7 @@
     "confirmTitle": "намёк",
     "confirm": "Упэўнены",
     "cancel": "Ануляваць",
-    "signoutOk": "Выходзіць"
+    "signoutOk": "Выходзіць",
+    "loadingData": "Загрузка дадзеных карыстальніка"
   }
 }

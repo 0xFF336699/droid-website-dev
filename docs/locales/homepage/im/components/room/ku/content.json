@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Peyamek binivîse ..."
+  },
+  "MessageList": {
+    "noMessages": "Heya niha peyamek tune, peyama yekem bişînin da ku hûn danûstandinê dest pê bikin!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "Mesaj nehat barkirin",
+      "retry": "Dubare bixebitin"
+    }
+  },
+  "RoomContent": {
+    "title": "Jûre"
+  },
+  "RoomHeader": {
+    "title": "Jûre",
+    "unnamedRoom": "Odeya Nekirî",
+    "members": "endam",
+    "settings": "damezirandin",
+    "leaveRoom": "Ji odeyê derkevin",
+    "joinRoom": "Tevlî odê bibin"
+  },
+  "RoomMembers": {
+    "title": "Endamên odeyê",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "beşdar bibe",
+    "invite": "ezimanden",
+    "leave": "terikandin",
+    "ban": "Qedexe kirin",
+    "noMembers": "Bê endam hîna jî",
+    "loading": "Loading ..."
+  }
+}

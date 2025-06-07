@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Daħħal messaġġ ..."
+  },
+  "MessageList": {
+    "noMessages": "Għad m'hemm l-ebda messaġġ, ibgħat l-ewwel messaġġ biex tibda l-konversazzjoni!",
+    "loading": "Tagħbija ...",
+    "error": {
+      "loadFailed": "Naqas milli jgħabbi l-messaġġ",
+      "retry": "Erġa 'pprova"
+    }
+  },
+  "RoomContent": {
+    "title": "Kamra"
+  },
+  "RoomHeader": {
+    "title": "Kamra",
+    "unnamedRoom": "Kamra bla isem",
+    "members": "membru",
+    "settings": "Imwaqqaf",
+    "leaveRoom": "Ħalli l-kamra",
+    "joinRoom": "Ingħaqad mal-kamra"
+  },
+  "RoomMembers": {
+    "title": "Membri tal-kamra",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Ingħaqad",
+    "invite": "tistieden",
+    "leave": "titlaq",
+    "ban": "Projbiti",
+    "noMembers": "L-ebda membru għadu",
+    "loading": "Tagħbija ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Lebetkeun pesen ..."
+  },
+  "MessageList": {
+    "noMessages": "Teu aya pesen acan, kirimkeun pesen anu munggaran pikeun ngamimitian paguneman!",
+    "loading": "loading ...",
+    "error": {
+      "loadFailed": "Gagal pikeun muka pesen",
+      "retry": "Cobian deui"
+    }
+  },
+  "RoomContent": {
+    "title": "Kamar"
+  },
+  "RoomHeader": {
+    "title": "Kamar",
+    "unnamedRoom": "Kamar anu unnamed",
+    "members": "anggota",
+    "settings": "disetél",
+    "leaveRoom": "Ngantunkeun kamar",
+    "joinRoom": "Ngiringan kamar"
+  },
+  "RoomMembers": {
+    "title": "Anggota kamar",
+    "online": "Omonder",
+    "offline": "Legarkline",
+    "join": "ngijikeun",
+    "invite": "ngajak",
+    "leave": "ngantunkeun",
+    "ban": "Dilarang",
+    "noMembers": "Teu aya anggota",
+    "loading": "loading ..."
+  }
+}

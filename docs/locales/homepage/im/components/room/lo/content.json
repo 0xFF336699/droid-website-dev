@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "ໃສ່ຂໍ້ຄວາມ ..."
+  },
+  "MessageList": {
+    "noMessages": "ບໍ່ມີຂໍ້ຄວາມເທື່ອ, ສົ່ງຂໍ້ຄວາມທໍາອິດເພື່ອເລີ່ມຕົ້ນການສົນທະນາ!",
+    "loading": "ກໍາລັງໂຫລດ ...",
+    "error": {
+      "loadFailed": "ລົ້ມເຫລວໃນການໂຫລດຂໍ້ຄວາມ",
+      "retry": "ລອງອີກເທື່ອນຶ່ງ"
+    }
+  },
+  "RoomContent": {
+    "title": "ຫ້ອງ"
+  },
+  "RoomHeader": {
+    "title": "ຫ້ອງ",
+    "unnamedRoom": "ຫ້ອງທີ່ບໍ່ມີຊື່",
+    "members": "ສະມາຊິກ",
+    "settings": "ຕັ້ງຂຶ້ນ",
+    "leaveRoom": "ອອກຈາກຫ້ອງ",
+    "joinRoom": "ເຂົ້າຮ່ວມໃນຫ້ອງ"
+  },
+  "RoomMembers": {
+    "title": "ສະມາຊິກຫ້ອງ",
+    "online": "ອອນລາຍ",
+    "offline": "ອອບໄລ",
+    "join": "ເຂົ້າລົງ",
+    "invite": "ເຊີນ",
+    "leave": "ປະຖິ້ມ",
+    "ban": "ຫ້າມ",
+    "noMembers": "ຍັງບໍ່ທັນມີສະມາຊິກເທື່ອ",
+    "loading": "ກໍາລັງໂຫລດ ..."
+  }
+}

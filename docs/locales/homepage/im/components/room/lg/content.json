@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Yingiza obubaka..."
+  },
+  "MessageList": {
+    "noMessages": "Tewali bubaka, weereza obubaka obusooka okutandika emboozi!",
+    "loading": "Okutikka...",
+    "error": {
+      "loadFailed": "Kiremeddwa okutikka obubaka .",
+      "retry": "Ddamu ogezeeko ."
+    }
+  },
+  "RoomContent": {
+    "title": "Ekisenge"
+  },
+  "RoomHeader": {
+    "title": "Ekisenge",
+    "unnamedRoom": "Ekisenge ekitategeerekese mannya .",
+    "members": "mmemba .",
+    "settings": "okutandika",
+    "leaveRoom": "Muve mu kisenge .",
+    "joinRoom": "Weegatte ku kisenge ."
+  },
+  "RoomMembers": {
+    "title": "Bammemba b'ekisenge .",
+    "online": "Ku mukutu",
+    "offline": "Offline .",
+    "join": "Weegatte ku",
+    "invite": "okwaaniriza",
+    "leave": "genda",
+    "ban": "ewereddwa .",
+    "noMembers": "Tewali mmemba .",
+    "loading": "Okutikka..."
+  }
+}

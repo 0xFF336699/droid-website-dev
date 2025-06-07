@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Sonika nsangu..."
+  },
+  "MessageList": {
+    "noMessages": "Ke vena nsangu ko, fila nsangu zantete muna yantika e moko!",
+    "loading": "kutula...",
+    "error": {
+      "loadFailed": "Kukonda kutula nsangu na nsangu",
+      "retry": "Meka diaka"
+    }
+  },
+  "RoomContent": {
+    "title": "Shambre"
+  },
+  "RoomHeader": {
+    "title": "Shambre",
+    "unnamedRoom": "suku yina bo me pesa ve zina",
+    "members": "muntu",
+    "settings": "kusala",
+    "leaveRoom": "Bika suku",
+    "joinRoom": "Kota na suku"
+  },
+  "RoomMembers": {
+    "title": "Bantu ya suku",
+    "online": "Na internet",
+    "offline": "na nganda",
+    "join": "kuvukana na",
+    "invite": "kubingisa",
+    "leave": "kuyambula",
+    "ban": "Bo me buyisa",
+    "noMembers": "Ata muntu mosi ve tii bubu yai",
+    "loading": "kutula..."
+  }
+}

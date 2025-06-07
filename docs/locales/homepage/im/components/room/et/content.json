@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Sisestage teade ..."
+  },
+  "MessageList": {
+    "noMessages": "Veel pole sõnumit, saatke vestluse alustamiseks esimene sõnum!",
+    "loading": "laadimine ...",
+    "error": {
+      "loadFailed": "Sõnumi laadimine ebaõnnestus",
+      "retry": "Proovige uuesti"
+    }
+  },
+  "RoomContent": {
+    "title": "Ruum"
+  },
+  "RoomHeader": {
+    "title": "Ruum",
+    "unnamedRoom": "Nimetu tuba",
+    "members": "liige",
+    "settings": "püstitama",
+    "leaveRoom": "Lahkuge toast",
+    "joinRoom": "Liitu toaga"
+  },
+  "RoomMembers": {
+    "title": "Toaliikmed",
+    "online": "Veebis",
+    "offline": "Võrguühenduseta",
+    "join": "ühinema",
+    "invite": "kutsuma",
+    "leave": "lahkuma",
+    "ban": "Keelatud",
+    "noMembers": "Pole veel liiget",
+    "loading": "laadimine ..."
+  }
+}

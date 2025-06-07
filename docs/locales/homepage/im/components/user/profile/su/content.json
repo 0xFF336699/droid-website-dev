@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Inpormasi pangguna",
+    "id": {
+      "name": "I id",
+      "copy": "nyalin"
+    },
+    "name": "nami",
+    "avatar": "avatar"
+  }
+}

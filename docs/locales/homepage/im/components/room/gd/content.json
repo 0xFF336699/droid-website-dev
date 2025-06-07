@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Cuir a-steach teachdaireachd ..."
+  },
+  "MessageList": {
+    "noMessages": "Chan eil teachdaireachd ann fhathast, cuir a 'chiad teachdaireachd gus tòiseachadh air a' chòmhradh!",
+    "loading": "A 'luchdachadh ...",
+    "error": {
+      "loadFailed": "Dh'fhàillig an teachdaireachd a luchdachadh",
+      "retry": "Feuch a-rithist"
+    }
+  },
+  "RoomContent": {
+    "title": "Rùm"
+  },
+  "RoomHeader": {
+    "title": "Rùm",
+    "unnamedRoom": "Seòmar gun ainm",
+    "members": "Ball",
+    "settings": "Suidhich",
+    "leaveRoom": "Fàg an seòmar",
+    "joinRoom": "Thig còmhla ris an t-seòmar"
+  },
+  "RoomMembers": {
+    "title": "Buill seòmar",
+    "online": "Air-loidhne",
+    "offline": "Offline",
+    "join": "gabh a-steach",
+    "invite": "Thoir cuireadh",
+    "leave": "fàg",
+    "ban": "Air a thoirmeasg",
+    "noMembers": "Gun bhall fhathast",
+    "loading": "A 'luchdachadh ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Allaaserisaq allaguk..."
+  },
+  "MessageList": {
+    "noMessages": "Suli nalunaaruteqartoqanngilaq, oqaloqatigiinnermik aallartitsisussaq siulleq nassiuk!",
+    "loading": "loading...",
+    "error": {
+      "loadFailed": "Oqaaseqaatip ilanngunneqarnissaanut kukkuneq",
+      "retry": "Misilittakkit"
+    }
+  },
+  "RoomContent": {
+    "title": "Ini"
+  },
+  "RoomHeader": {
+    "title": "Ini",
+    "unnamedRoom": "Inissaq aqqinik ateqanngitsoq",
+    "members": "ilaasortaq",
+    "settings": "aaqqissuussineq",
+    "leaveRoom": "Init qimakkit",
+    "joinRoom": "Inissaq ilaaffigiuk"
+  },
+  "RoomMembers": {
+    "title": "Inissaq ilaasortat",
+    "online": "Onlinekkut isersimavoq",
+    "offline": "Offline",
+    "join": "ilaasortanngorneq",
+    "invite": "qaaqqusissut",
+    "leave": "ingerlavoq",
+    "ban": "Innaallagiaqarsimavoq",
+    "noMembers": "Suli ilaasortaanngilaq",
+    "loading": "loading..."
+  }
+}

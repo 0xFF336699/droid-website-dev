@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "መልእኽቲ ኣእቱ..."
+  },
+  "MessageList": {
+    "noMessages": "ክሳብ ሕጂ መልእኽቲ የለን፣ ዕላል ንምጅማር ናይ መጀመርታ መልእኽቲ ስደድ!",
+    "loading": "ይጽዕን ኣሎ...",
+    "error": {
+      "loadFailed": "ነቲ መልእኽቲ ምጽዓን ኣይከኣለን .",
+      "retry": "እንደገና ፈትኑ"
+    }
+  },
+  "RoomContent": {
+    "title": "ክፍሊ"
+  },
+  "RoomHeader": {
+    "title": "ክፍሊ",
+    "unnamedRoom": "ስም ዘይብሉ ክፍሊ",
+    "members": "ኣባል",
+    "settings": "ምድላው",
+    "leaveRoom": "ካብቲ ክፍሊ ወጹ",
+    "joinRoom": "ኣብቲ ክፍሊ ተጸንበሩ"
+  },
+  "RoomMembers": {
+    "title": "ኣባላት ክፍሊ",
+    "online": "ኦንላይን",
+    "offline": "ካብ መስመር ወጻኢ",
+    "join": "ኣብ 2019 ተጸንበሩ",
+    "invite": "ምዕዳም",
+    "leave": "ውፃእ",
+    "ban": "ተኣጊዱ",
+    "noMembers": "ገና ኣባል የለን",
+    "loading": "ይጽዕን ኣሎ..."
+  }
+}

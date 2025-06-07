@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "אַרייַן אַ אָנזאָג ..."
+  },
+  "MessageList": {
+    "noMessages": "עס איז נאָך קיין אָנזאָג, שיקן דעם ערשטער אָנזאָג צו אָנהייבן דעם שמועס!",
+    "loading": "לאָודינג ...",
+    "error": {
+      "loadFailed": "ניט געקענט צו מאַסע די אָנזאָג",
+      "retry": "פּרובירן ווידער"
+    }
+  },
+  "RoomContent": {
+    "title": "צימער"
+  },
+  "RoomHeader": {
+    "title": "צימער",
+    "unnamedRoom": "אַנניימד רום",
+    "members": "מיטגליד",
+    "settings": "שטעלן זיך",
+    "leaveRoom": "לאָזן די פּלאַץ",
+    "joinRoom": "באַהעפטן דעם פּלאַץ"
+  },
+  "RoomMembers": {
+    "title": "צימער מיטגלידער",
+    "online": "אָנליין",
+    "offline": "אָפפלינע",
+    "join": "פאַרבינדן",
+    "invite": "ייַנלאַדן",
+    "leave": "לאָזן",
+    "ban": "באַנד",
+    "noMembers": "קיין מיטגליד נאָך",
+    "loading": "לאָודינג ..."
+  }
+}

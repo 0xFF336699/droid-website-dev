@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Tẹ ifiranṣẹ kan ..."
+  },
+  "MessageList": {
+    "noMessages": "Ko si ifiranṣẹ sibẹsibẹ, fi ifiranṣẹ akọkọ ranṣẹ lati bẹrẹ ibaraẹnisọrọ naa!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "Kuna lati fifuye ifiranṣẹ naa",
+      "retry": "Gbiyanju lẹẹkansi"
+    }
+  },
+  "RoomContent": {
+    "title": "Iyẹwu"
+  },
+  "RoomHeader": {
+    "title": "Iyẹwu",
+    "unnamedRoom": "Ti a ko darukọ yara",
+    "members": "ọmọ ẹgbẹ",
+    "settings": "ṣeto",
+    "leaveRoom": "Fi yara naa silẹ",
+    "joinRoom": "Darapọ mọ yara naa"
+  },
+  "RoomMembers": {
+    "title": "Awọn ọmọ ẹgbẹ iyẹwu",
+    "online": "Lori ayelujara",
+    "offline": "Odi",
+    "join": "Darapọ mọ",
+    "invite": "fiwepe",
+    "leave": "fi ibikan silẹ",
+    "ban": "Gbesele",
+    "noMembers": "Ko si ọmọ ẹgbẹ sibẹsibẹ",
+    "loading": "Loading ..."
+  }
+}

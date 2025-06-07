@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ingiza ujumbe ..."
+  },
+  "MessageList": {
+    "noMessages": "Hakuna ujumbe bado, tuma ujumbe wa kwanza kuanza mazungumzo!",
+    "loading": "Inapakia ...",
+    "error": {
+      "loadFailed": "Imeshindwa kupakia ujumbe",
+      "retry": "Jaribu tena"
+    }
+  },
+  "RoomContent": {
+    "title": "Chumba"
+  },
+  "RoomHeader": {
+    "title": "Chumba",
+    "unnamedRoom": "Chumba kisichotajwa",
+    "members": "Mwanachama",
+    "settings": "Sanidi",
+    "leaveRoom": "Acha chumba",
+    "joinRoom": "Jiunge na chumba"
+  },
+  "RoomMembers": {
+    "title": "Washiriki wa chumba",
+    "online": "Mkondoni",
+    "offline": "Nje ya mtandao",
+    "join": "Jiunge",
+    "invite": "Alika",
+    "leave": "Acha",
+    "ban": "Marufuku",
+    "noMembers": "Hakuna mwanachama bado",
+    "loading": "Inapakia ..."
+  }
+}

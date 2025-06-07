@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Lakait ur gemennadenn..."
+  },
+  "MessageList": {
+    "noMessages": "N'eus kemennadenn ebet c'hoazh, kasit ar gemennadenn gentañ evit kregiñ gant ar gaozeadenn !",
+    "loading": "kargañ...",
+    "error": {
+      "loadFailed": "C'hwitet eo kargañ ar gemennadenn",
+      "retry": "Klaskit adarre"
+    }
+  },
+  "RoomContent": {
+    "title": "Kambr"
+  },
+  "RoomHeader": {
+    "title": "Kambr",
+    "unnamedRoom": "Sal dizanv",
+    "members": "ezel",
+    "settings": "staliañ",
+    "leaveRoom": "Kuitaat ar sal",
+    "joinRoom": "Kemerit perzh er sal"
+  },
+  "RoomMembers": {
+    "title": "Izili ar sal",
+    "online": "Enlinenn",
+    "offline": "Estrañjour",
+    "join": "mont e-barzh",
+    "invite": "pediñ",
+    "leave": "mont kuit",
+    "ban": "Difennet",
+    "noMembers": "Ezel ebet c'hoazh",
+    "loading": "kargañ..."
+  }
+}

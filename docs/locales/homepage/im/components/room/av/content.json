@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Хъвазе лъугьа..."
+  },
+  "MessageList": {
+    "noMessages": "Жеги гьечӀо хабар, битӀе тӀоцебесеб хабар гара-чӀвари байбихьизе!",
+    "loading": "нагрузка...",
+    "error": {
+      "loadFailed": "Неудалось загрузить сообщение",
+      "retry": "цоги нухалъ хӀалбихье"
+    }
+  },
+  "RoomContent": {
+    "title": "Комната"
+  },
+  "RoomHeader": {
+    "title": "Комната",
+    "unnamedRoom": "цIар гьечIеб рукъ",
+    "members": "член",
+    "settings": "гӀуцӀизе",
+    "leaveRoom": "комнат",
+    "joinRoom": "жубай"
+  },
+  "RoomMembers": {
+    "title": "комнат",
+    "online": "В сети",
+    "offline": "офлайн",
+    "join": "гъорлъе лъугьине",
+    "invite": "ахӀизе",
+    "leave": "ана",
+    "ban": "гьетIизабизе",
+    "noMembers": "чиновник",
+    "loading": "нагрузка..."
+  }
+}

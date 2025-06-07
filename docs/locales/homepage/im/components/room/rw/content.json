@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Injira ubutumwa ..."
+  },
+  "MessageList": {
+    "noMessages": "Nta butumwa buhari, ohereza ubutumwa bwa mbere kugirango utangire ikiganiro!",
+    "loading": "gupakira ...",
+    "error": {
+      "loadFailed": "Kunanirwa kwikorera ubutumwa",
+      "retry": "Ongera ugerageze"
+    }
+  },
+  "RoomContent": {
+    "title": "Icyumba"
+  },
+  "RoomHeader": {
+    "title": "Icyumba",
+    "unnamedRoom": "Icyumba kitavuzwe izina",
+    "members": "umunyamuryango",
+    "settings": "gushiraho",
+    "leaveRoom": "Kureka icyumba",
+    "joinRoom": "Injira mucyumba"
+  },
+  "RoomMembers": {
+    "title": "Abagize Icyumba",
+    "online": "Kumurongo",
+    "offline": "Kumurongo",
+    "join": "Injira",
+    "invite": "gutumira",
+    "leave": "genda",
+    "ban": "Babujijwe",
+    "noMembers": "Nta munyamuryango",
+    "loading": "gupakira ..."
+  }
+}

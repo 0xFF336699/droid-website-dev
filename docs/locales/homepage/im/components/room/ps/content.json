@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "پیغام دننه کړئ ..."
+  },
+  "MessageList": {
+    "noMessages": "دلته هیڅ پیغام نشته، لومړی پیغام د خبرو اترو لپاره واستوئ!",
+    "loading": "بارول ...",
+    "error": {
+      "loadFailed": "د پیغام په پورته کولو کې پاتې راغلي",
+      "retry": "بیا هڅه وکړه"
+    }
+  },
+  "RoomContent": {
+    "title": "کوټه"
+  },
+  "RoomHeader": {
+    "title": "کوټه",
+    "unnamedRoom": "بې نومه خونه",
+    "members": "غړی",
+    "settings": "چمتو کول",
+    "leaveRoom": "خونه پرېږده",
+    "joinRoom": "په خونه کې ګډون وکړئ"
+  },
+  "RoomMembers": {
+    "title": "د خونې غړي",
+    "online": "آنلاین",
+    "offline": "نالیکی",
+    "join": "دننه ګډون وکړئ",
+    "invite": "بلنه",
+    "leave": "پرېږده",
+    "ban": "منع شوی",
+    "noMembers": "تراوسه هیڅ غړی نشته",
+    "loading": "بارول ..."
+  }
+}

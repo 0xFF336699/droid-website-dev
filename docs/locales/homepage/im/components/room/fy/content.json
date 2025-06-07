@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Fier in berjocht yn ..."
+  },
+  "MessageList": {
+    "noMessages": "D'r is noch gjin berjocht, stjoer it earste berjocht om it petear te begjinnen!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "It berjocht is net laden",
+      "retry": "Besykje opnij"
+    }
+  },
+  "RoomContent": {
+    "title": "Keamer"
+  },
+  "RoomHeader": {
+    "title": "Keamer",
+    "unnamedRoom": "Unname Keamer",
+    "members": "lid",
+    "settings": "opsette",
+    "leaveRoom": "Ferlit de keamer",
+    "joinRoom": "Meidwaan oan 'e keamer"
+  },
+  "RoomMembers": {
+    "title": "Keamer leden",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "meidwaan oan",
+    "invite": "noegje",
+    "leave": "ferlitte",
+    "ban": "Ferbean",
+    "noMembers": "Noch gjin lid noch",
+    "loading": "Loading ..."
+  }
+}

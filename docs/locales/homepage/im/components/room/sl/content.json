@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Vnesite sporočilo ..."
+  },
+  "MessageList": {
+    "noMessages": "Ni sporočila, pošljite prvo sporočilo, da začnete pogovor!",
+    "loading": "nalaganje ...",
+    "error": {
+      "loadFailed": "Ni uspelo naložiti sporočila",
+      "retry": "Poskusite znova"
+    }
+  },
+  "RoomContent": {
+    "title": "Soba"
+  },
+  "RoomHeader": {
+    "title": "Soba",
+    "unnamedRoom": "Neimenovana soba",
+    "members": "član",
+    "settings": "nastavite",
+    "leaveRoom": "Zapusti sobo",
+    "joinRoom": "Pridružite se sobi"
+  },
+  "RoomMembers": {
+    "title": "Člani sobe",
+    "online": "Na spletu",
+    "offline": "Brez povezave",
+    "join": "pridružite se",
+    "invite": "povabilo",
+    "leave": "dopust",
+    "ban": "Prepovedano",
+    "noMembers": "Še nobenega člana",
+    "loading": "nalaganje ..."
+  }
+}

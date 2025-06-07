@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "ユーザー情報",
+    "id": {
+      "name": "id",
+      "copy": "コピー"
+    },
+    "name": "名前",
+    "avatar": "アバター"
+  }
+}

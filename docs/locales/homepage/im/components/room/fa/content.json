@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "یک پیام وارد کنید ..."
+  },
+  "MessageList": {
+    "noMessages": "هنوز هیچ پیامی وجود ندارد ، اولین پیام را برای شروع مکالمه ارسال کنید!",
+    "loading": "بارگیری ...",
+    "error": {
+      "loadFailed": "بارگیری پیام انجام نشد",
+      "retry": "دوباره امتحان کنید"
+    }
+  },
+  "RoomContent": {
+    "title": "اتاق"
+  },
+  "RoomHeader": {
+    "title": "اتاق",
+    "unnamedRoom": "اتاق بی نام",
+    "members": "عضو",
+    "settings": "تنظیم کردن",
+    "leaveRoom": "اتاق را ترک کنید",
+    "joinRoom": "به اتاق بپیوندید"
+  },
+  "RoomMembers": {
+    "title": "اعضای اتاق",
+    "online": "بصورت آنلاین",
+    "offline": "زیر",
+    "join": "پیوستن",
+    "invite": "دعوت کردن",
+    "leave": "ترک",
+    "ban": "ممنوع",
+    "noMembers": "هنوز عضو نیست",
+    "loading": "بارگیری ..."
+  }
+}

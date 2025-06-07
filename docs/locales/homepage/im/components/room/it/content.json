@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Inserisci un messaggio ..."
+  },
+  "MessageList": {
+    "noMessages": "Non c'è ancora messaggio, invia il primo messaggio per iniziare la conversazione!",
+    "loading": "caricamento...",
+    "error": {
+      "loadFailed": "Impossibile caricare il messaggio",
+      "retry": "Riprova"
+    }
+  },
+  "RoomContent": {
+    "title": "Camera"
+  },
+  "RoomHeader": {
+    "title": "Camera",
+    "unnamedRoom": "Stanza senza nome",
+    "members": "membro",
+    "settings": "impostare",
+    "leaveRoom": "Lasciare la stanza",
+    "joinRoom": "Unisciti alla stanza"
+  },
+  "RoomMembers": {
+    "title": "Membri della stanza",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Unisciti a",
+    "invite": "invitare",
+    "leave": "Partire",
+    "ban": "Vietato",
+    "noMembers": "Nessun membro ancora",
+    "loading": "caricamento..."
+  }
+}

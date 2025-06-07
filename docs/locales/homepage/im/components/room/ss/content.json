@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ngena umlayeto..."
+  },
+  "MessageList": {
+    "noMessages": "Kute umlayeto lokhona, tfumela umlayeto wekucala kute ucale lencociswano!",
+    "loading": "kulayisha...",
+    "error": {
+      "loadFailed": "Kwehlulekile kulayisha umlayeto .",
+      "retry": "Phiqwe futsi"
+    }
+  },
+  "RoomContent": {
+    "title": "Likamelo"
+  },
+  "RoomHeader": {
+    "title": "Likamelo",
+    "unnamedRoom": "Igumbi lelingakabizwa ngeligama",
+    "members": "lilunga",
+    "settings": "misa",
+    "leaveRoom": "Shiya leligumbi",
+    "joinRoom": "Ngenani leligumbi"
+  },
+  "RoomMembers": {
+    "title": "Emalunga eligumbi",
+    "online": "Ku inthanethi",
+    "offline": "Outline",
+    "join": "joyina",
+    "invite": "mema",
+    "leave": "kushiya",
+    "ban": "Kuvinjelwe",
+    "noMembers": "Kute lilunga",
+    "loading": "kulayisha..."
+  }
+}

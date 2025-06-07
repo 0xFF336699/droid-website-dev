@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ievadiet ziņojumu ..."
+  },
+  "MessageList": {
+    "noMessages": "Pagaidām nav ziņojuma, nosūtiet pirmo ziņojumu, lai sāktu sarunu!",
+    "loading": "iekraušana ...",
+    "error": {
+      "loadFailed": "Neizdevās ielādēt ziņojumu",
+      "retry": "Mēģiniet vēlreiz"
+    }
+  },
+  "RoomContent": {
+    "title": "Telpa"
+  },
+  "RoomHeader": {
+    "title": "Telpa",
+    "unnamedRoom": "Nenosaukta istaba",
+    "members": "loceklis",
+    "settings": "uzstādīt",
+    "leaveRoom": "Atstājiet istabu",
+    "joinRoom": "Pievienojieties istabai"
+  },
+  "RoomMembers": {
+    "title": "Istabas locekļi",
+    "online": "Tiešsaistē",
+    "offline": "Bezsaistē",
+    "join": "pievienoties",
+    "invite": "uzaicināt",
+    "leave": "atstāšana",
+    "ban": "Aizliegts",
+    "noMembers": "Vēl nav locekļa",
+    "loading": "iekraušana ..."
+  }
+}

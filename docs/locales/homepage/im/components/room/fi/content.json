@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Kirjoita viesti ..."
+  },
+  "MessageList": {
+    "noMessages": "Viestiä ei ole vielä, lähetä ensimmäinen viesti aloittaaksesi keskustelun!",
+    "loading": "lataaminen ...",
+    "error": {
+      "loadFailed": "Viestin lataaminen epäonnistui",
+      "retry": "Yrittää uudelleen"
+    }
+  },
+  "RoomContent": {
+    "title": "Huone"
+  },
+  "RoomHeader": {
+    "title": "Huone",
+    "unnamedRoom": "Nimeämätön huone",
+    "members": "jäsen",
+    "settings": "asentaa",
+    "leaveRoom": "Poistua huoneesta",
+    "joinRoom": "Liittyä huoneeseen"
+  },
+  "RoomMembers": {
+    "title": "Huoneen jäsenet",
+    "online": "Verkossa",
+    "offline": "Offline -tilassa",
+    "join": "liittyä jhk",
+    "invite": "kutsua",
+    "leave": "jättää",
+    "ban": "Kielletty",
+    "noMembers": "Ei vielä jäsen",
+    "loading": "lataaminen ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Iontráil teachtaireacht ..."
+  },
+  "MessageList": {
+    "noMessages": "Níl aon teachtaireacht fós ann, seol an chéad teachtaireacht chun an comhrá a thosú!",
+    "loading": "ag luchtú ...",
+    "error": {
+      "loadFailed": "Theip ar an teachtaireacht a luchtú",
+      "retry": "Bain triail eile as"
+    }
+  },
+  "RoomContent": {
+    "title": "Seomra codlata"
+  },
+  "RoomHeader": {
+    "title": "Seomra codlata",
+    "unnamedRoom": "Seomra gan ainm",
+    "members": "comhalta",
+    "settings": "Bunaithe",
+    "leaveRoom": "Fág an seomra",
+    "joinRoom": "Bí ar an seomra"
+  },
+  "RoomMembers": {
+    "title": "Baill sheomra",
+    "online": "Ar fud",
+    "offline": "As líne",
+    "join": "bí páirteach i",
+    "invite": "gríosaigh",
+    "leave": "ná bac le",
+    "ban": "Toirmeaste",
+    "noMembers": "Gan aon bhall fós",
+    "loading": "ag luchtú ..."
+  }
+}

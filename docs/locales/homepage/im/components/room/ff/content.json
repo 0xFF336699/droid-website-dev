@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Naat e mesaas..."
+  },
+  "MessageList": {
+    "noMessages": "Alaa fof mesaas tawo, neldu mesaas gadano ngam fuɗɗaade yeewtere ndee!",
+    "loading": "loading...",
+    "error": {
+      "loadFailed": "Waɗii loowde mesaas oo",
+      "retry": "Enndu kadi"
+    }
+  },
+  "RoomContent": {
+    "title": "Suudu"
+  },
+  "RoomHeader": {
+    "title": "Suudu",
+    "unnamedRoom": "Suudu ndu innde mum alaa",
+    "members": "tergal",
+    "settings": "taskugo",
+    "leaveRoom": "Accu suudu ndu",
+    "joinRoom": "Jokku suudu nduu"
+  },
+  "RoomMembers": {
+    "title": "Terɗe suudu",
+    "online": "Do ordo",
+    "offline": "Offline",
+    "join": "naatde heen",
+    "invite": "ewnugo",
+    "leave": "eggugo",
+    "ban": "Haɗi",
+    "noMembers": "Alaa tergal tawo",
+    "loading": "loading..."
+  }
+}

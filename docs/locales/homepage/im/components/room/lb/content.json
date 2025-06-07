@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Gitt e Message un ..."
+  },
+  "MessageList": {
+    "noMessages": "Et gëtt kee Message nach, schéckt den éischte Message un fir d'Gespréich ze starten!",
+    "loading": "Lueden ...",
+    "error": {
+      "loadFailed": "De Message konnt net lueden",
+      "retry": "Versich et nach eng Kéier"
+    }
+  },
+  "RoomContent": {
+    "title": "Zëmmer"
+  },
+  "RoomHeader": {
+    "title": "Zëmmer",
+    "unnamedRoom": "Onbenannt Raum",
+    "members": "Member",
+    "settings": "ageriicht",
+    "leaveRoom": "De Raum verloossen",
+    "joinRoom": "Maacht mat bei de Raum"
+  },
+  "RoomMembers": {
+    "title": "Raum Memberen",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Manner An",
+    "invite": "invitéiere",
+    "leave": "verloossen",
+    "ban": "Verbueden",
+    "noMembers": "Keen Member",
+    "loading": "Lueden ..."
+  }
+}

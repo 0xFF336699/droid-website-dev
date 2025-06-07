@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ampidiro hafatra ..."
+  },
+  "MessageList": {
+    "noMessages": "Tsy misy hafatra na izany aza, alefaso ny hafatra voalohany hanombohana ny resaka!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "Tsy nahavita nampiditra ny hafatra",
+      "retry": "Andramo indray mandeha"
+    }
+  },
+  "RoomContent": {
+    "title": "efitra"
+  },
+  "RoomHeader": {
+    "title": "efitra",
+    "unnamedRoom": "Efitra tsy fantatra",
+    "members": "FIANGONANA",
+    "settings": "hametraka",
+    "leaveRoom": "Avelao ny efitrano",
+    "joinRoom": "Midira ao amin'ny efitrano"
+  },
+  "RoomMembers": {
+    "title": "Mpikambana ao amin'ny efitrano",
+    "online": "-tserasera",
+    "offline": "ivelan'ny aterineto",
+    "join": "Midira ao",
+    "invite": "Asao",
+    "leave": "fialan-tsasatra",
+    "ban": "voarara",
+    "noMembers": "Tsy misy mpikambana",
+    "loading": "Loading ..."
+  }
+}

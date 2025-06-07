@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Enter a message..."
+  },
+  "MessageList": {
+    "noMessages": "There is no message yet, send the first message to start the conversation!",
+    "loading": "loading...",
+    "error": {
+      "loadFailed": "Failed to load the message",
+      "retry": "Try again"
+    }
+  },
+  "RoomContent": {
+    "title": "Room"
+  },
+  "RoomHeader": {
+    "title": "Room",
+    "unnamedRoom": "Unnamed room",
+    "members": "member",
+    "settings": "set up",
+    "leaveRoom": "Leave the room",
+    "joinRoom": "Join the room"
+  },
+  "RoomMembers": {
+    "title": "Room members",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "join in",
+    "invite": "invite",
+    "leave": "leave",
+    "ban": "Banned",
+    "noMembers": "No member yet",
+    "loading": "loading..."
+  }
+}

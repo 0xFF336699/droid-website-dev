@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Idatzi mezu bat ..."
+  },
+  "MessageList": {
+    "noMessages": "Oraindik ez dago mezurik, bidali lehen mezua elkarrizketa hasteko!",
+    "loading": "Kargatzen ...",
+    "error": {
+      "loadFailed": "Huts egin du mezua kargatzean",
+      "retry": "Saiatu berriro"
+    }
+  },
+  "RoomContent": {
+    "title": "Toki"
+  },
+  "RoomHeader": {
+    "title": "Toki",
+    "unnamedRoom": "Izenik gabeko gela",
+    "members": "bazkide",
+    "settings": "konfiguratu",
+    "leaveRoom": "Gelatik irten",
+    "joinRoom": "Sartu gelan"
+  },
+  "RoomMembers": {
+    "title": "Gela-kideak",
+    "online": "Konektatuta",
+    "offline": "Lurrin",
+    "join": "Sartu",
+    "invite": "gonbidatu",
+    "leave": "baimen",
+    "ban": "Debekatu",
+    "noMembers": "Oraindik kide ez",
+    "loading": "Kargatzen ..."
+  }
+}

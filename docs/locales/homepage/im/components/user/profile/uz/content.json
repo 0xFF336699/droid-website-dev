@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Foydalanuvchi haqida ma'lumot",
+    "id": {
+      "name": "Id",
+      "copy": "nusxa ko'chirmoq"
+    },
+    "name": "ism",
+    "avatar": "avatar"
+  }
+}

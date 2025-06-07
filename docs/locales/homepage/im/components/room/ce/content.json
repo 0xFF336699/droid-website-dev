@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Хаам чулоцу..."
+  },
+  "MessageList": {
+    "noMessages": "Цкъачунна цхьа а хаам бац, къамел дӀадоло хьалхара хаам дӀабахьийта!",
+    "loading": "дӀаюьзна...",
+    "error": {
+      "loadFailed": "Хаам чубаккха аьтто ца баьлла",
+      "retry": "Юха а хьажа"
+    }
+  },
+  "RoomContent": {
+    "title": "Чоь"
+  },
+  "RoomHeader": {
+    "title": "Чоь",
+    "unnamedRoom": "ЦӀе йоцу чоь",
+    "members": "декъашхо",
+    "settings": "хӀотто",
+    "leaveRoom": "Чоь дӀа йита .",
+    "joinRoom": "Цу чоьнах дӀакхета ."
+  },
+  "RoomMembers": {
+    "title": "Чоьнан декъашхой",
+    "online": "Онлайн",
+    "offline": "Оффлайн",
+    "join": "дӀакхетар",
+    "invite": "кхайкхар",
+    "leave": "дита",
+    "ban": "Дега",
+    "noMembers": "Цкъачунна цхьа а декъашхо вац",
+    "loading": "дӀаюьзна..."
+  }
+}

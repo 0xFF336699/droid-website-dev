@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Informasi pengguna",
+    "id": {
+      "name": "PENGENAL",
+      "copy": "menyalin"
+    },
+    "name": "nama",
+    "avatar": "Avatar"
+  }
+}

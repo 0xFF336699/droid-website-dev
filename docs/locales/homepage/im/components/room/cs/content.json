@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Zadejte zprávu ..."
+  },
+  "MessageList": {
+    "noMessages": "Zatím neexistuje žádná zpráva, pošlete první zprávu a zahájí konverzaci!",
+    "loading": "Načítání ...",
+    "error": {
+      "loadFailed": "Nepodařilo se načíst zprávu",
+      "retry": "Zkuste to znovu"
+    }
+  },
+  "RoomContent": {
+    "title": "Pokoj"
+  },
+  "RoomHeader": {
+    "title": "Pokoj",
+    "unnamedRoom": "Nejmenovaný pokoj",
+    "members": "člen",
+    "settings": "nastavit",
+    "leaveRoom": "Opustit místnost",
+    "joinRoom": "Připojte se do místnosti"
+  },
+  "RoomMembers": {
+    "title": "Členové pokoje",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Připojte se",
+    "invite": "pozvat",
+    "leave": "dovolená",
+    "ban": "Zakázáno",
+    "noMembers": "Zatím žádný člen",
+    "loading": "Načítání ..."
+  }
+}

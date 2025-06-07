@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Voer een bericht in ..."
+  },
+  "MessageList": {
+    "noMessages": "Er is nog geen bericht, stuur het eerste bericht om het gesprek te starten!",
+    "loading": "Laden ...",
+    "error": {
+      "loadFailed": "Kan het bericht niet laden",
+      "retry": "Probeer het opnieuw"
+    }
+  },
+  "RoomContent": {
+    "title": "Kamer"
+  },
+  "RoomHeader": {
+    "title": "Kamer",
+    "unnamedRoom": "Naamloze kamer",
+    "members": "lid",
+    "settings": "instellen",
+    "leaveRoom": "Verlaat de kamer",
+    "joinRoom": "Doe mee met de kamer"
+  },
+  "RoomMembers": {
+    "title": "Kamerleden",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "meedoen",
+    "invite": "uitnodiging",
+    "leave": "vertrekken",
+    "ban": "Verboden",
+    "noMembers": "Nog geen lid",
+    "loading": "Laden ..."
+  }
+}

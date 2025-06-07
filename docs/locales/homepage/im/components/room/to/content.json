@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Fakahu ha fekau..."
+  },
+  "MessageList": {
+    "noMessages": "ʻOku teʻeki ke ʻi ai ha pōpoaki, ʻave ʻa e ʻuluaki pōpoakí ke kamata ʻa e fetalanoaʻakí!",
+    "loading": "uta...",
+    "error": {
+      "loadFailed": "Ta'elava ke uta 'a e fekau .",
+      "retry": "toe feinga"
+    }
+  },
+  "RoomContent": {
+    "title": "Loki"
+  },
+  "RoomHeader": {
+    "title": "Loki",
+    "unnamedRoom": "loki ta'e-fakahingoa",
+    "members": "mēmipa",
+    "settings": "fokotu'utu'u",
+    "leaveRoom": "Tuku ʻa e lokí",
+    "joinRoom": "Kau atu ki he lokí"
+  },
+  "RoomMembers": {
+    "title": "kau mēmipa loki",
+    "online": "Initaneti",
+    "offline": "Tu'uaki",
+    "join": "kau mai ki",
+    "invite": "fakaafe",
+    "leave": "livi",
+    "ban": "Banned",
+    "noMembers": "ʻOku teʻeki ke ʻi ai ha mēmipa",
+    "loading": "uta..."
+  }
+}

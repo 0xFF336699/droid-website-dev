@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Ngenisa umyalezo ..."
+  },
+  "MessageList": {
+    "noMessages": "Akukho myalezo okwangoku, thumela umyalezo wokuqala ukuqala incoko!",
+    "loading": "Ukulayisha ...",
+    "error": {
+      "loadFailed": "Ayiphumelelanga ukulayisha umyalezo",
+      "retry": "Zama kwakhona"
+    }
+  },
+  "RoomContent": {
+    "title": "Igumbi"
+  },
+  "RoomHeader": {
+    "title": "Igumbi",
+    "unnamedRoom": "Igumbi elingachazwanga",
+    "members": "ilungu",
+    "settings": "Misela",
+    "leaveRoom": "Shiya igumbi",
+    "joinRoom": "Joyina igumbi"
+  },
+  "RoomMembers": {
+    "title": "Amalungu egumbi",
+    "online": "Kwi-intanethi",
+    "offline": "Ngaphandle kweintanethi",
+    "join": "Ngena kwi",
+    "invite": "mema",
+    "leave": "shiya",
+    "ban": "Ivaliwe",
+    "noMembers": "Akukho lungu okwangoku",
+    "loading": "Ukulayisha ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Aw ye cikan dɔ don..."
+  },
+  "MessageList": {
+    "noMessages": "Cikan ma sɔrɔ fɔlɔ, cikan fɔlɔ ci ka baro daminɛ!",
+    "loading": "Loading...",
+    "error": {
+      "loadFailed": "A ma se ka cikan doni .",
+      "retry": "Aw bɛ segin ka a lajɛ ."
+    }
+  },
+  "RoomContent": {
+    "title": "Soden"
+  },
+  "RoomHeader": {
+    "title": "Soden",
+    "unnamedRoom": "So tɔgɔ tɛ min na .",
+    "members": "Mɔgɔ .",
+    "settings": "ka bila sen kan",
+    "leaveRoom": "Aw bɛ bɔ so kɔnɔ .",
+    "joinRoom": "Aw ka fara so kan ."
+  },
+  "RoomMembers": {
+    "title": "So kɔnɔmɔgɔw .",
+    "online": "Bɔlɔlɔ san fɛ",
+    "offline": "Offline .",
+    "join": "Aw ye fara ɲɔgɔn kan .",
+    "invite": "ka wele",
+    "leave": "ka taa",
+    "ban": "a dagalen don .",
+    "noMembers": "Mɔgɔ si ma sɔrɔ fɔlɔ .",
+    "loading": "Loading..."
+  }
+}

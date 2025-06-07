@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Пыртӧй юӧр..."
+  },
+  "MessageList": {
+    "noMessages": "Некутшӧм юӧр абу на, ысты медводдза юӧр, медым заводитны сёрни!",
+    "loading": "нагрузка...",
+    "error": {
+      "loadFailed": "Невермас лэдзны юӧр .",
+      "retry": "Бара зіля"
+    }
+  },
+  "RoomContent": {
+    "title": "Жыр"
+  },
+  "RoomHeader": {
+    "title": "Жыр",
+    "unnamedRoom": "Нимтӧм комната .",
+    "members": "член",
+    "settings": "лӧсьӧдны",
+    "leaveRoom": "Лэдзӧй комната .",
+    "joinRoom": "Ӧтувтчӧй комнатаӧ ."
+  },
+  "RoomMembers": {
+    "title": "Комнатаӧ пырысьяс",
+    "online": "Онлайн",
+    "offline": "Офлай",
+    "join": "пырӧдчыны",
+    "invite": "корны",
+    "leave": "шойччӧм",
+    "ban": "Запрет",
+    "noMembers": "Некутшӧм член абу на .",
+    "loading": "нагрузка..."
+  }
+}

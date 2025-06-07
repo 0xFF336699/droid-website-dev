@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "メッセージを入力してください..."
+  },
+  "MessageList": {
+    "noMessages": "メッセージはまだありません。最初のメッセージを送信して会話を開始してください！",
+    "loading": "読み込み...",
+    "error": {
+      "loadFailed": "メッセージのロードに失敗しました",
+      "retry": "もう一度やり直してください"
+    }
+  },
+  "RoomContent": {
+    "title": "部屋"
+  },
+  "RoomHeader": {
+    "title": "部屋",
+    "unnamedRoom": "名前のない部屋",
+    "members": "メンバー",
+    "settings": "設定",
+    "leaveRoom": "部屋を出ます",
+    "joinRoom": "部屋に参加してください"
+  },
+  "RoomMembers": {
+    "title": "部屋のメンバー",
+    "online": "オンライン",
+    "offline": "オフライン",
+    "join": "参加してください",
+    "invite": "招待する",
+    "leave": "離れる",
+    "ban": "禁止",
+    "noMembers": "メンバーはまだいません",
+    "loading": "読み込み..."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Uzantaj Informoj",
+    "id": {
+      "name": "ID",
+      "copy": "Kopio"
+    },
+    "name": "Nomo",
+    "avatar": "Avataro"
+  }
+}

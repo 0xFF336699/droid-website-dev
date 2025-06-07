@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Nhập tin nhắn ..."
+  },
+  "MessageList": {
+    "noMessages": "Vẫn chưa có tin nhắn, hãy gửi tin nhắn đầu tiên để bắt đầu cuộc trò chuyện!",
+    "loading": "đang tải...",
+    "error": {
+      "loadFailed": "Không tải được tin nhắn",
+      "retry": "Hãy thử lại"
+    }
+  },
+  "RoomContent": {
+    "title": "Phòng"
+  },
+  "RoomHeader": {
+    "title": "Phòng",
+    "unnamedRoom": "Phòng không tên",
+    "members": "thành viên",
+    "settings": "cài đặt",
+    "leaveRoom": "Rời khỏi phòng",
+    "joinRoom": "Tham gia phòng"
+  },
+  "RoomMembers": {
+    "title": "Thành viên phòng",
+    "online": "Trực tuyến",
+    "offline": "Ngoại tuyến",
+    "join": "Tham gia",
+    "invite": "mời",
+    "leave": "rời khỏi",
+    "ban": "Bị cấm",
+    "noMembers": "Chưa có thành viên",
+    "loading": "đang tải..."
+  }
+}

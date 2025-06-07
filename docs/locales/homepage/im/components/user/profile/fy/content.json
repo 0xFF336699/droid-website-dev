@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Meidoggerynformaasje",
+    "id": {
+      "name": "ID",
+      "copy": "kopy"
+    },
+    "name": "namme",
+    "avatar": "Avatar"
+  }
+}

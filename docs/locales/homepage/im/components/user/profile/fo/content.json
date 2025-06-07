@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Brúkaraupplýsingar",
+    "id": {
+      "name": "IDD",
+      "copy": "eintak"
+    },
+    "name": "navn",
+    "avatar": "avatar"
+  }
+}

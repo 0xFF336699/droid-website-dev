@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Habari ya Mtumiaji",
+    "id": {
+      "name": "Id",
+      "copy": "Nakala"
+    },
+    "name": "Jina",
+    "avatar": "avatar"
+  }
+}

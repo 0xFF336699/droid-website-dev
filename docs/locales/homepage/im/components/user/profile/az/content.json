@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "İstifadəçi haqqında məlumat",
+    "id": {
+      "name": "İd",
+      "copy": "surətini çıxarmaq"
+    },
+    "name": "ad",
+    "avatar": "avatar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Mete yon mesaj ..."
+  },
+  "MessageList": {
+    "noMessages": "Pa gen okenn mesaj ankò, voye premye mesaj la yo kòmanse konvèsasyon an!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "Echwe pou pou chaje mesaj la",
+      "retry": "Eseye ankò"
+    }
+  },
+  "RoomContent": {
+    "title": "Plas"
+  },
+  "RoomHeader": {
+    "title": "Plas",
+    "unnamedRoom": "Chanm anonim",
+    "members": "manb",
+    "settings": "Mete kanpe",
+    "leaveRoom": "Kite sal la",
+    "joinRoom": "Antre nan sal la"
+  },
+  "RoomMembers": {
+    "title": "Manm chanm",
+    "online": "Sou",
+    "offline": "Offline",
+    "join": "Join nan",
+    "invite": "envite",
+    "leave": "kite",
+    "ban": "Pwouve",
+    "noMembers": "Pa gen manm ankò",
+    "loading": "Loading ..."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Inserite un missaghju ..."
+  },
+  "MessageList": {
+    "noMessages": "Ùn ci hè mancu messagiu, mandate u primu messagiu per inizià a cunversazione!",
+    "loading": "Caricendu ...",
+    "error": {
+      "loadFailed": "Fiascatu à carricà u messagiu",
+      "retry": "Prova dinò"
+    }
+  },
+  "RoomContent": {
+    "title": "Sala"
+  },
+  "RoomHeader": {
+    "title": "Sala",
+    "unnamedRoom": "Stanza senza nome",
+    "members": "Membru",
+    "settings": "istituisci",
+    "leaveRoom": "Lasciate a stanza",
+    "joinRoom": "Unisci a stanza"
+  },
+  "RoomMembers": {
+    "title": "Membri di stanza",
+    "online": "In ligna",
+    "offline": "Offline",
+    "join": "uniti in",
+    "invite": "invità",
+    "leave": "FAZZA",
+    "ban": "Pruibitu",
+    "noMembers": "Nisun membru ancora",
+    "loading": "Caricendu ..."
+  }
+}

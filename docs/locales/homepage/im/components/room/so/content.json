@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Gali farriin ..."
+  },
+  "MessageList": {
+    "noMessages": "Farriin maleh weli, u dir farriinta ugu horreysa si aad u bilowdo wada hadalka!",
+    "loading": "Loading ...",
+    "error": {
+      "loadFailed": "Ku guuldareystay inuu xamuul farriinta",
+      "retry": "Mar labaad isku day"
+    }
+  },
+  "RoomContent": {
+    "title": "Boos"
+  },
+  "RoomHeader": {
+    "title": "Boos",
+    "unnamedRoom": "Qolka aan la magacaabin",
+    "members": "xubin",
+    "settings": "Deji",
+    "leaveRoom": "Qolka ka bax",
+    "joinRoom": "Ku soo biir qolka"
+  },
+  "RoomMembers": {
+    "title": "Xubnaha qolka",
+    "online": "Qabadka",
+    "offline": "Bixilin celis",
+    "join": "Ku soo biir gudaha",
+    "invite": "casuumid",
+    "leave": "tegid",
+    "ban": "Mamnuuc",
+    "noMembers": "Qofna wali xubin maleh",
+    "loading": "Loading ..."
+  }
+}

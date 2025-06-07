@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Cur stiagh teacht..."
+  },
+  "MessageList": {
+    "noMessages": "Cha nel teacht erbee foast, cur y chiad teacht dy thoshiaght y cho-chowrey!",
+    "loading": "load...",
+    "error": {
+      "loadFailed": "Cha nel eh ry-gheddyn dy load y teacht",
+      "retry": "Feaysaghey reesht"
+    }
+  },
+  "RoomContent": {
+    "title": "Reamys"
+  },
+  "RoomHeader": {
+    "title": "Reamys",
+    "unnamedRoom": "Dooinney gyn ennym",
+    "members": "oltey",
+    "settings": "cur ayns clou",
+    "leaveRoom": "Faag y room",
+    "joinRoom": "Cur-my-ner yn room"
+  },
+  "RoomMembers": {
+    "title": "Moltey",
+    "online": "Er-linney",
+    "offline": "Offnien",
+    "join": "Co-hooie",
+    "invite": "cuir",
+    "leave": "faag",
+    "ban": "Bannit",
+    "noMembers": "Cha nel oltey foast",
+    "loading": "load..."
+  }
+}

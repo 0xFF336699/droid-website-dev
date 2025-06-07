@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Käyttäjätiedot",
+    "id": {
+      "name": "Henkilöllisyystodistus",
+      "copy": "kopioida"
+    },
+    "name": "nimi",
+    "avatar": "avataari"
+  }
+}

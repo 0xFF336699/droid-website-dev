@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Sláðu inn skilaboð ..."
+  },
+  "MessageList": {
+    "noMessages": "Það eru engin skilaboð ennþá, sendu fyrstu skilaboðin til að hefja samtalið!",
+    "loading": "hleðsla ...",
+    "error": {
+      "loadFailed": "Ekki tókst að hlaða skilaboðin",
+      "retry": "Reyndu aftur"
+    }
+  },
+  "RoomContent": {
+    "title": "Herbergi"
+  },
+  "RoomHeader": {
+    "title": "Herbergi",
+    "unnamedRoom": "Ónefnt herbergi",
+    "members": "Meðlimur",
+    "settings": "Setja upp",
+    "leaveRoom": "Yfirgefa herbergið",
+    "joinRoom": "Vertu með í herberginu"
+  },
+  "RoomMembers": {
+    "title": "Herbergismenn",
+    "online": "Á netinu",
+    "offline": "Offline",
+    "join": "Taktu þátt",
+    "invite": "Bjóddu",
+    "leave": "fara",
+    "ban": "Bannað",
+    "noMembers": "Enginn félagi ennþá",
+    "loading": "hleðsla ..."
+  }
+}

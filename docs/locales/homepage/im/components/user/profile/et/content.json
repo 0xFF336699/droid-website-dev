@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Kasutajateave",
+    "id": {
+      "name": "Isikutunnistus",
+      "copy": "koopia"
+    },
+    "name": "nimetus",
+    "avatar": "avatar"
+  }
+}

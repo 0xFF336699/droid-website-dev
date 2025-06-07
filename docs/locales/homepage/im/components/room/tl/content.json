@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Magpasok ng isang mensahe ..."
+  },
+  "MessageList": {
+    "noMessages": "Wala pang mensahe, ipadala ang unang mensahe upang simulan ang pag -uusap!",
+    "loading": "Naglo -load ...",
+    "error": {
+      "loadFailed": "Nabigong i -load ang mensahe",
+      "retry": "Subukang muli"
+    }
+  },
+  "RoomContent": {
+    "title": "Silid"
+  },
+  "RoomHeader": {
+    "title": "Silid",
+    "unnamedRoom": "Hindi pinangalanan na silid",
+    "members": "miyembro",
+    "settings": "I -set up",
+    "leaveRoom": "Umalis sa silid",
+    "joinRoom": "Sumali sa silid"
+  },
+  "RoomMembers": {
+    "title": "Mga miyembro ng silid",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "Sumali sa",
+    "invite": "anyayahan",
+    "leave": "umalis",
+    "ban": "Pinagbawalan",
+    "noMembers": "Wala pang miyembro",
+    "loading": "Naglo -load ..."
+  }
+}

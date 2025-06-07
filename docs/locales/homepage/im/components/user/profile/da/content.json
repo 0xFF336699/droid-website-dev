@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Brugeroplysninger",
+    "id": {
+      "name": "Id",
+      "copy": "kopi"
+    },
+    "name": "navn",
+    "avatar": "Avatar"
+  }
+}

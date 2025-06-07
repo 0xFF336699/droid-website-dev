@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Bir mesaj girin ..."
+  },
+  "MessageList": {
+    "noMessages": "Henüz mesaj yok, sohbete başlamak için ilk mesajı gönderin!",
+    "loading": "Yükleme ...",
+    "error": {
+      "loadFailed": "Mesajı yükleyemedi",
+      "retry": "Tekrar deneyin"
+    }
+  },
+  "RoomContent": {
+    "title": "Oda"
+  },
+  "RoomHeader": {
+    "title": "Oda",
+    "unnamedRoom": "İsimsiz oda",
+    "members": "üye",
+    "settings": "kurmak",
+    "leaveRoom": "Odayı terk etmek",
+    "joinRoom": "Odaya Katılın"
+  },
+  "RoomMembers": {
+    "title": "Oda üyeleri",
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı",
+    "join": "katılmak",
+    "invite": "davet etmek",
+    "leave": "ayrılmak",
+    "ban": "Yaslanmış",
+    "noMembers": "Henüz üye yok",
+    "loading": "Yükleme ..."
+  }
+}

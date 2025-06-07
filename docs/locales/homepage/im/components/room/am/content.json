@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "መልእክት ያስገቡ ..."
+  },
+  "MessageList": {
+    "noMessages": "ምንም መልእክት ገና አይኖርም, ውይይቱን ለመጀመር የመጀመሪያውን መልእክት ይላኩ!",
+    "loading": "በመጫን ላይ ...",
+    "error": {
+      "loadFailed": "መልዕክቱን መጫን አልተቻለም",
+      "retry": "እንደገና ሞክር"
+    }
+  },
+  "RoomContent": {
+    "title": "ክፍል"
+  },
+  "RoomHeader": {
+    "title": "ክፍል",
+    "unnamedRoom": "ያልተጠቀሰው ክፍል",
+    "members": "አባል",
+    "settings": "ማዋቀር",
+    "leaveRoom": "ክፍሉን ለቀው ይውጡ",
+    "joinRoom": "ክፍሉን ይቀላቀሉ"
+  },
+  "RoomMembers": {
+    "title": "የክፍል አባላት",
+    "online": "በመስመር ላይ",
+    "offline": "ከመስመር ውጭ",
+    "join": "ተቀላቀል",
+    "invite": "ጋብዝ",
+    "leave": "ተወ",
+    "ban": "የታገደ",
+    "noMembers": "ገና አባል የለም",
+    "loading": "በመጫን ላይ ..."
+  }
+}

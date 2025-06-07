@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Nghenisa rungula..."
+  },
+  "MessageList": {
+    "noMessages": "Akuna rungula ra sweswi, rhumela rungula ro sungula ku sungula mbulavurisano!",
+    "loading": "Ku layicha...",
+    "error": {
+      "loadFailed": "Ku tsandzeka ku layicha rungula .",
+      "retry": "Ringeta nakambe ."
+    }
+  },
+  "RoomContent": {
+    "title": "Kamara"
+  },
+  "RoomHeader": {
+    "title": "Kamara",
+    "unnamedRoom": "Kamara leri nga boxiwangiki vito .",
+    "members": "Xirho .",
+    "settings": "ku lulamisa",
+    "leaveRoom": "Ku huma ekamareni .",
+    "joinRoom": "Joyina kamara ."
+  },
+  "RoomMembers": {
+    "title": "Swirho swa kamara .",
+    "online": "Eka online",
+    "offline": "Offline .",
+    "join": "Joyina eka .",
+    "invite": "rhamba",
+    "leave": "suka",
+    "ban": "Ku yirisiwa .",
+    "noMembers": "Ku hava xirho xa le henhla xa .",
+    "loading": "Ku layicha..."
+  }
+}

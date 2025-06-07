@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Zadajte správu ..."
+  },
+  "MessageList": {
+    "noMessages": "Zatiaľ nie je žiadna správa, pošlite prvú správu na spustenie konverzácie!",
+    "loading": "načítanie ...",
+    "error": {
+      "loadFailed": "Nepodarilo sa načítať správu",
+      "retry": "Skúste to znova"
+    }
+  },
+  "RoomContent": {
+    "title": "Izba"
+  },
+  "RoomHeader": {
+    "title": "Izba",
+    "unnamedRoom": "Nemenovaná miestnosť",
+    "members": "člen",
+    "settings": "nastaviť",
+    "leaveRoom": "Opustiť miestnosť",
+    "joinRoom": "Pripojte sa k miestnosti"
+  },
+  "RoomMembers": {
+    "title": "Miestnosť",
+    "online": "Online",
+    "offline": "Offline",
+    "join": "zapojiť sa",
+    "invite": "pozvať",
+    "leave": "opustiť",
+    "ban": "Zakázaný",
+    "noMembers": "Zatiaľ žiadny člen",
+    "loading": "načítanie ..."
+  }
+}

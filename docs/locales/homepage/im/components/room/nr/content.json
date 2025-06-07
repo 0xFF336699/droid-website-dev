@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Hlola umlayezo."
+  },
+  "MessageList": {
+    "noMessages": "Lokhu kunjalo, ngenzeka, ni .",
+    "loading": "ukufala.",
+    "error": {
+      "loadFailed": "Lokhu ubukhulu ubukhulu ubukhulu .",
+      "retry": "Wapha"
+    }
+  },
+  "RoomContent": {
+    "title": "Ikamero"
+  },
+  "RoomHeader": {
+    "title": "Ikamero",
+    "unnamedRoom": "Wavula ukuvula.",
+    "members": "i",
+    "settings": "ukuhlela",
+    "leaveRoom": "Thelale.",
+    "joinRoom": "-asalo."
+  },
+  "RoomMembers": {
+    "title": "Hlolo u- .",
+    "online": "Onlayini",
+    "offline": "i",
+    "join": "i",
+    "invite": "mema",
+    "leave": "ilifu",
+    "ban": "i",
+    "noMembers": "Lokhu kuhlukile.",
+    "loading": "ukufala."
+  }
+}

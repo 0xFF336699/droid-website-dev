@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "એક સંદેશ દાખલ કરો ..."
+  },
+  "MessageList": {
+    "noMessages": "હજી સુધી કોઈ સંદેશ નથી, વાતચીત શરૂ કરવા માટે પ્રથમ સંદેશ મોકલો!",
+    "loading": "લોડ કરી રહ્યું છે ...",
+    "error": {
+      "loadFailed": "સંદેશ લોડ કરવામાં નિષ્ફળ",
+      "retry": "ફરી પ્રયાસ કરો"
+    }
+  },
+  "RoomContent": {
+    "title": "અવયવો"
+  },
+  "RoomHeader": {
+    "title": "અવયવો",
+    "unnamedRoom": "અનામી ખંડ",
+    "members": "સભ્ય",
+    "settings": "સુયોજિત કરવું",
+    "leaveRoom": "ખંડ છોડી દો",
+    "joinRoom": "ઓરડામાં જોડાઓ"
+  },
+  "RoomMembers": {
+    "title": "ઓરડા -સભ્યો",
+    "online": "T નલાઇન",
+    "offline": "Offનટ",
+    "join": "ક joinંગ કરવું",
+    "invite": "આમંત્રણ આપવું",
+    "leave": "રજા",
+    "ban": "પ્રતિબંધિત",
+    "noMembers": "હજી કોઈ સભ્ય નથી",
+    "loading": "લોડ કરી રહ્યું છે ..."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Kullanıcı bilgileri",
+    "id": {
+      "name": "İD",
+      "copy": "kopya"
+    },
+    "name": "isim",
+    "avatar": "avatar"
+  }
+}

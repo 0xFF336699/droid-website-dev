@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Bir mesaj daxil edin ..."
+  },
+  "MessageList": {
+    "noMessages": "Hələ mesaj yoxdur, söhbətə başlamaq üçün ilk mesajı göndərin!",
+    "loading": "Yükləmə ...",
+    "error": {
+      "loadFailed": "Mesajı yükləyə bilmədi",
+      "retry": "Yenidən cəhd etmək"
+    }
+  },
+  "RoomContent": {
+    "title": "Otaq"
+  },
+  "RoomHeader": {
+    "title": "Otaq",
+    "unnamedRoom": "Adsız otaq",
+    "members": "üzv",
+    "settings": "quraşdırmaq",
+    "leaveRoom": "Otağı tərk etmək",
+    "joinRoom": "Otağa qoşulun"
+  },
+  "RoomMembers": {
+    "title": "Otaq üzvləri",
+    "online": "Onlayn",
+    "offline": "Xətdənsiz",
+    "join": "qoşulmaq",
+    "invite": "dəvət etmək",
+    "leave": "buraxmaq",
+    "ban": "Qadağan olunmuş",
+    "noMembers": "Hələ üzv yoxdur",
+    "loading": "Yükləmə ..."
+  }
+}

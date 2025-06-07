@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "Korisničke informacije",
+    "id": {
+      "name": "Id",
+      "copy": "kopija"
+    },
+    "name": "ime",
+    "avatar": "avatar"
+  }
+}

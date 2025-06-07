@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "Билдирүүнү киргизиңиз ..."
+  },
+  "MessageList": {
+    "noMessages": "Азырынча эч кандай билдирүү жок, сүйлөшүүнү баштоо үчүн биринчи билдирүүнү жөнөтүңүз!",
+    "loading": "жүктөө ...",
+    "error": {
+      "loadFailed": "Билдирүүнү жүктөө алган жок",
+      "retry": "Кайра аракет кыл"
+    }
+  },
+  "RoomContent": {
+    "title": "Бөлмө"
+  },
+  "RoomHeader": {
+    "title": "Бөлмө",
+    "unnamedRoom": "Аты аталбаган бөлмө",
+    "members": "Мүчөсү",
+    "settings": "жайгашуу",
+    "leaveRoom": "Бөлмөдөн чык",
+    "joinRoom": "Бөлмөгө кошулуңуз"
+  },
+  "RoomMembers": {
+    "title": "Бөлмө мүчөлөрү",
+    "online": "Онлайн",
+    "offline": "Offline",
+    "join": "кошулуу",
+    "invite": "Чакыруу",
+    "leave": "кетүү",
+    "ban": "Тыюу салынган",
+    "noMembers": "Азырынча мүчө",
+    "loading": "жүктөө ..."
+  }
+}

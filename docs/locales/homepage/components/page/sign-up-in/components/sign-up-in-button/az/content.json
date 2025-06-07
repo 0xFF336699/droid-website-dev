@@ -6,6 +6,7 @@
     "confirmTitle": "işarə",
     "confirm": "Əlimdən gəlmək",
     "cancel": "Ləğv etmək",
-    "signoutOk": "Çıxmaq"
+    "signoutOk": "Çıxmaq",
+    "loadingData": "İstifadəçi məlumatlarını yükləmək"
   }
 }

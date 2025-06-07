@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "輸入消息..."
+  },
+  "MessageList": {
+    "noMessages": "還沒有消息，發送第一條消息開始對話吧！",
+    "loading": "載入中...",
+    "error": {
+      "loadFailed": "加載消息失敗",
+      "retry": "重試"
+    }
+  },
+  "RoomContent": {
+    "title": "房間"
+  },
+  "RoomHeader": {
+    "title": "房間",
+    "unnamedRoom": "未命名房間",
+    "members": "成員",
+    "settings": "設定",
+    "leaveRoom": "離開房間",
+    "joinRoom": "加入房間"
+  },
+  "RoomMembers": {
+    "title": "房間成員",
+    "online": "在線",
+    "offline": "離線",
+    "join": "加入",
+    "invite": "邀請",
+    "leave": "離開",
+    "ban": "封禁",
+    "noMembers": "暫無成員",
+    "loading": "載入中..."
+  }
+}

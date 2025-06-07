@@ -1,0 +1,11 @@
+{
+  "UserProfile": {
+    "title": "User notitia",
+    "id": {
+      "name": "Id",
+      "copy": "effingo"
+    },
+    "name": "nomen",
+    "avatar": "Avatar"
+  }
+}

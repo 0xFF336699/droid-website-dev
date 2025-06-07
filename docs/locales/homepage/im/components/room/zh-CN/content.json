@@ -1,0 +1,35 @@
+{
+  "MessageInput": {
+    "placeholder": "输入消息..."
+  },
+  "MessageList": {
+    "noMessages": "还没有消息，发送第一条消息开始对话吧！",
+    "loading": "加载中...",
+    "error": {
+      "loadFailed": "加载消息失败",
+      "retry": "重试"
+    }
+  },
+  "RoomContent": {
+    "title": "房间"
+  },
+  "RoomHeader": {
+    "title": "房间",
+    "unnamedRoom": "未命名房间",
+    "members": "成员",
+    "settings": "设置",
+    "leaveRoom": "离开房间",
+    "joinRoom": "加入房间"
+  },
+  "RoomMembers": {
+    "title": "房间成员",
+    "online": "在线",
+    "offline": "离线",
+    "join": "加入",
+    "invite": "邀请",
+    "leave": "离开",
+    "ban": "封禁",
+    "noMembers": "暂无成员",
+    "loading": "加载中..."
+  }
+}
