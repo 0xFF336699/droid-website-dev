@@ -3,8 +3,10 @@
     "title": "Zambiri za ogwiritsa",
     "id": {
       "name": "Id",
-      "copy": "kukopa"
+      "copy": "kukopa",
+      "copied": "ID yajambulidwa"
     },
+    "notLoggedIn": "Osalowa",
     "name": "dzina",
     "avatar": "avatar"
   }

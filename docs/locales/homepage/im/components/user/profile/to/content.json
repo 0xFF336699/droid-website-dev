@@ -3,8 +3,10 @@
     "title": "Fakamatala 'a e Tokotaha 'oku ne ngaue'aki",
     "id": {
       "name": "ID",
-      "copy": "tatau"
+      "copy": "tatau",
+      "copied": "Kuo hiki tatau 'a e ID ."
     },
+    "notLoggedIn": "'Ikai ke kau 'i he .",
     "name": "hingoa",
     "avatar": "avatar"
   }

@@ -3,8 +3,10 @@
     "title": "Gebruikersinformatie",
     "id": {
       "name": "Id",
-      "copy": "kopiëren"
+      "copy": "kopiëren",
+      "copied": "ID is gekopieerd"
     },
+    "notLoggedIn": "Niet ingelogd",
     "name": "naam",
     "avatar": "avatar"
   }

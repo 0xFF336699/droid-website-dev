@@ -3,8 +3,10 @@
     "title": "Informações do usuário",
     "id": {
       "name": "EU IA",
-      "copy": "cópia"
+      "copy": "cópia",
+      "copied": "ID foi copiado"
     },
+    "notLoggedIn": "Não conectado",
     "name": "nome",
     "avatar": "Avatar"
   }

@@ -3,8 +3,10 @@
     "title": "Amakuru y'abakoresha",
     "id": {
       "name": "indangamuntu",
-      "copy": "kopi"
+      "copy": "kopi",
+      "copied": "ID yarakopiwe"
     },
+    "notLoggedIn": "Ntiyanditswe",
     "name": "izina",
     "avatar": "avatar"
   }

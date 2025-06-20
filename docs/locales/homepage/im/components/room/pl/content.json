@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Dołącz do pokoju",
+      "inviteOnly": "To jest pokój prywatny i wymaga zaproszeń do przyłączenia się",
+      "knockRequired": "Ten pokój wymaga aplikacji do dołączenia. Kliknij przycisk poniżej, aby wysłać żądanie połączenia",
+      "canJoin": "To jest pokój publiczny, możesz dołączyć bezpośrednio",
+      "sendRequest": "Wyślij żądanie dołączenia",
+      "join": "Dołącz do pokoju"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nie ma jeszcze prośby o dołączenie",
+      "accept": "przyjąć",
+      "reject": "odrzucić"
+    }
+  },
   "MessageInput": {
     "placeholder": "Wprowadź wiadomość ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Nie udało się załadować wiadomości",
       "retry": "Spróbuj ponownie"
-    }
+    },
+    "loadingHistory": "Ładowanie historii ...",
+    "historyEnd": "Nadeszła najwcześniejsza wiadomość"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Nie ma jeszcze wiadomości, wyślij pierwszą wiadomość, aby rozpocząć rozmowę!"
   },
   "RoomContent": {
     "title": "Pokój"

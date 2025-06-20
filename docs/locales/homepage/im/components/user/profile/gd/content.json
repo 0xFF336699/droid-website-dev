@@ -3,8 +3,10 @@
     "title": "Fiosrachadh neach-cleachdaidh",
     "id": {
       "name": "Id",
-      "copy": "leth-bhreac"
+      "copy": "leth-bhreac",
+      "copied": "Id air a chopaigeadh"
     },
+    "notLoggedIn": "Gun logadh a-steach",
     "name": "Ainm",
     "avatar": "avatar"
   }

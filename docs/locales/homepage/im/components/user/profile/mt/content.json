@@ -3,8 +3,10 @@
     "title": "Informazzjoni dwar l-utent",
     "id": {
       "name": "ID",
-      "copy": "kopja"
+      "copy": "kopja",
+      "copied": "ID ġie kkupjat"
     },
+    "notLoggedIn": "Mhux illoggjat",
     "name": "isem",
     "avatar": "Avatar"
   }

@@ -3,8 +3,10 @@
     "title": "Ebikwata ku bakozesa .",
     "id": {
       "name": "ID .",
-      "copy": "Kopi ."
+      "copy": "Kopi .",
+      "copied": "ID ebadde ekoppoloddwa ."
     },
+    "notLoggedIn": "Teyayingidde mu",
     "name": "erinnya",
     "avatar": "Avatar ."
   }

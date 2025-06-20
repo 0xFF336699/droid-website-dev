@@ -3,8 +3,10 @@
     "title": "User notitia",
     "id": {
       "name": "Id",
-      "copy": "effingo"
+      "copy": "effingo",
+      "copied": "Id est copied"
     },
+    "notLoggedIn": "Non initium",
     "name": "nomen",
     "avatar": "Avatar"
   }

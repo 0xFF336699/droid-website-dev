@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Darapọ mọ yara naa",
+      "inviteOnly": "Eyi jẹ yara ikọkọ ati nilo awọn ifiwepe lati darapọ mọ",
+      "knockRequired": "Yara yii nilo ohun elo lati darapọ mọ. Tẹ bọtini ti o wa ni isalẹ lati fi ibeere darapọ mọ",
+      "canJoin": "Eyi jẹ yara ita gbangba, o le darapọ taara",
+      "sendRequest": "Fi ibeere Darapọ ranṣẹ",
+      "join": "Darapọ mọ yara naa"
+    },
+    "JoinRequestList": {
+      "noRequests": "Ko si ibeere asopọ sibẹsibẹ",
+      "accept": "gba",
+      "reject": "kọ"
+    }
+  },
   "MessageInput": {
     "placeholder": "Tẹ ifiranṣẹ kan ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kuna lati fifuye ifiranṣẹ naa",
       "retry": "Gbiyanju lẹẹkansi"
-    }
+    },
+    "loadingHistory": "Loading Itan ...",
+    "historyEnd": "Awọn iroyin akọkọ ti de"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ko si ifiranṣẹ sibẹsibẹ, fi ifiranṣẹ akọkọ ranṣẹ lati bẹrẹ ibaraẹnisọrọ naa!"
   },
   "RoomContent": {
     "title": "Iyẹwu"

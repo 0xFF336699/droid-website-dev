@@ -3,8 +3,10 @@
     "title": "Gwybodaeth Defnyddiwr",
     "id": {
       "name": "Id",
-      "copy": "copïan"
+      "copy": "copïan",
+      "copied": "Mae ID wedi'i gopïo"
     },
+    "notLoggedIn": "Heb Mewngofnodi",
     "name": "alwai",
     "avatar": "avatar"
   }

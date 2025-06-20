@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Tham gia phòng",
+      "inviteOnly": "Đây là một phòng riêng và yêu cầu lời mời tham gia",
+      "knockRequired": "Phòng này yêu cầu ứng dụng để tham gia. Nhấp vào nút bên dưới để gửi yêu cầu tham gia",
+      "canJoin": "Đây là một phòng công cộng, bạn có thể tham gia trực tiếp",
+      "sendRequest": "Gửi yêu cầu tham gia",
+      "join": "Tham gia phòng"
+    },
+    "JoinRequestList": {
+      "noRequests": "Chưa có yêu cầu tham gia",
+      "accept": "chấp nhận",
+      "reject": "từ chối"
+    }
+  },
   "MessageInput": {
     "placeholder": "Nhập tin nhắn ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Không tải được tin nhắn",
       "retry": "Hãy thử lại"
-    }
+    },
+    "loadingHistory": "Lịch sử tải ...",
+    "historyEnd": "Tin tức sớm nhất đã đến"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Vẫn chưa có tin nhắn, hãy gửi tin nhắn đầu tiên để bắt đầu cuộc trò chuyện!"
   },
   "RoomContent": {
     "title": "Phòng"

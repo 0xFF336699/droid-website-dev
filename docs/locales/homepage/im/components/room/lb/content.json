@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Maacht mat bei de Raum",
+      "inviteOnly": "Dëst ass e private Raum an erfuerdert d'Invitatiounen fir matzemaachen",
+      "knockRequired": "Dëse Raum erfuerdert d'Applikatioun fir matzemaachen. Klickt op de Knäppchen hei drënner fir d'Wonsch ze schécken",
+      "canJoin": "Dëst ass en ëffentleche Raum, kënnt Dir direkt matmaachen",
+      "sendRequest": "Schéckt eng Ufro un",
+      "join": "Maacht mat bei de Raum"
+    },
+    "JoinRequestList": {
+      "noRequests": "Kee Bäitrëttsufro nach",
+      "accept": "akzeptéieren",
+      "reject": "de Kapp refuséieren"
+    }
+  },
   "MessageInput": {
     "placeholder": "Gitt e Message un ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "De Message konnt net lueden",
       "retry": "Versich et nach eng Kéier"
-    }
+    },
+    "loadingHistory": "Luede Geschicht ...",
+    "historyEnd": "Déi fréierst Neiegkeeten ass ukomm"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Et gëtt kee Message nach, schéckt den éischte Message un fir d'Gespréich ze starten!"
   },
   "RoomContent": {
     "title": "Zëmmer"

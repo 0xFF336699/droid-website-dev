@@ -3,8 +3,10 @@
     "title": "Ozi onye ọrụ",
     "id": {
       "name": "Id",
-      "copy": "kopi"
+      "copy": "kopi",
+      "copied": "Edepụtawo NJ"
     },
+    "notLoggedIn": "Abanyeghi na",
     "name": "aha",
     "avatar": "avata"
   }

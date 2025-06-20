@@ -3,8 +3,10 @@
     "title": "Informacje o użytkowniku",
     "id": {
       "name": "ID",
-      "copy": "kopia"
+      "copy": "kopia",
+      "copied": "ID został skopiowany"
     },
+    "notLoggedIn": "Nie zalogowano",
     "name": "nazwa",
     "avatar": "awatara"
   }

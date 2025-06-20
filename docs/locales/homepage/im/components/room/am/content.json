@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "ክፍሉን ይቀላቀሉ",
+      "inviteOnly": "ይህ የግል ክፍል ነው እናም የመቀላቀል ግብዣዎችን ይፈልጋል",
+      "knockRequired": "ይህ ክፍል ለመቀላቀል ማመልከቻ ይፈልጋል. የተቀናጀ ጥያቄን ለመላክ ከዚህ በታች ያለውን ቁልፍ ጠቅ ያድርጉ",
+      "canJoin": "ይህ የህዝብ ክፍል ነው, በቀጥታ መቀላቀል ይችላሉ",
+      "sendRequest": "የተቀላቀለ ጥያቄ ይላኩ",
+      "join": "ክፍሉን ይቀላቀሉ"
+    },
+    "JoinRequestList": {
+      "noRequests": "ገና የመቀላቀል ጥያቄ የለም",
+      "accept": "ተቀበል",
+      "reject": "አለመቀበል"
+    }
+  },
   "MessageInput": {
     "placeholder": "መልእክት ያስገቡ ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "መልዕክቱን መጫን አልተቻለም",
       "retry": "እንደገና ሞክር"
-    }
+    },
+    "loadingHistory": "ታሪክ በመጫን ላይ ...",
+    "historyEnd": "የመጀመሪያው ዜናው ደርሷል"
+  },
+  "MessageVirturalList": {
+    "noMessages": "ምንም መልእክት ገና አይኖርም, ውይይቱን ለመጀመር የመጀመሪያውን መልእክት ይላኩ!"
   },
   "RoomContent": {
     "title": "ክፍል"

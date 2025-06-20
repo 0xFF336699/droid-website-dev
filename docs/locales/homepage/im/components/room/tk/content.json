@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Otaga goşulyň",
+      "inviteOnly": "Bu hususy otag we goşulmak üçin çakylyklary talap edýär",
+      "knockRequired": "Bu otag goşulmak üçin arza talap edýär. Goşmaça haýyş ibermek üçin aşakdaky düwmä basyň",
+      "canJoin": "Bu jemgyýetçilik otagy, göni birikdirilip bilner",
+      "sendRequest": "Goşmaça haýyş iberiň",
+      "join": "Otaga goşulyň"
+    },
+    "JoinRequestList": {
+      "noRequests": "Entek goşulmak haýyşy ýok",
+      "accept": "kabul et",
+      "reject": "ret et"
+    }
+  },
   "MessageInput": {
     "placeholder": "Habary giriziň ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Habary ýükläp bilmedi",
       "retry": "Täzeden synanş"
-    }
+    },
+    "loadingHistory": "Taryhy ýüklemek ...",
+    "historyEnd": "Iň irki habar geldi"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Hormat ýok, söhbetdeşligi başlamak üçin ilkinji habary iberiň!"
   },
   "RoomContent": {
     "title": "Otag"

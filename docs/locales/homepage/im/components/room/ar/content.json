@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "انضم إلى الغرفة",
+      "inviteOnly": "هذه غرفة خاصة وتتطلب دعوات للانضمام",
+      "knockRequired": "تتطلب هذه الغرفة تطبيقًا للانضمام. انقر على الزر أدناه لإرسال طلب Join",
+      "canJoin": "هذه غرفة عامة ، يمكنك الانضمام مباشرة",
+      "sendRequest": "أرسل طلب انضمام",
+      "join": "انضم إلى الغرفة"
+    },
+    "JoinRequestList": {
+      "noRequests": "لا يوجد طلب انضمام حتى الآن",
+      "accept": "يقبل",
+      "reject": "يرفض"
+    }
+  },
   "MessageInput": {
     "placeholder": "أدخل رسالة ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "فشل في تحميل الرسالة",
       "retry": "حاول ثانية"
-    }
+    },
+    "loadingHistory": "تاريخ التحميل ...",
+    "historyEnd": "وصلت أقدم الأخبار"
+  },
+  "MessageVirturalList": {
+    "noMessages": "لا توجد رسالة حتى الآن ، أرسل الرسالة الأولى لبدء المحادثة!"
   },
   "RoomContent": {
     "title": "غرفة"

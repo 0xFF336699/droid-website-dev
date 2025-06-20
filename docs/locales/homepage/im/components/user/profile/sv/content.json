@@ -3,8 +3,10 @@
     "title": "Användarinformation",
     "id": {
       "name": "Id",
-      "copy": "kopiera"
+      "copy": "kopiera",
+      "copied": "Id har kopierats"
     },
+    "notLoggedIn": "Inte inloggad",
     "name": "namn",
     "avatar": "avatar"
   }

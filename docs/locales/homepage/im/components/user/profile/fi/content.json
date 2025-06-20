@@ -3,8 +3,10 @@
     "title": "Käyttäjätiedot",
     "id": {
       "name": "Henkilöllisyystodistus",
-      "copy": "kopioida"
+      "copy": "kopioida",
+      "copied": "Id on kopioitu"
     },
+    "notLoggedIn": "Ei kirjattu sisään",
     "name": "nimi",
     "avatar": "avataari"
   }

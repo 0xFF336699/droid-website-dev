@@ -3,8 +3,10 @@
     "title": "Usuario yatiyawi .",
     "id": {
       "name": "ID ukax .",
-      "copy": "Ukax mä copia ."
+      "copy": "Ukax mä copia .",
+      "copied": "ID ukax copiatawa ."
     },
+    "notLoggedIn": "Janiw 2016 maran utjkiti.",
     "name": "chacha",
     "avatar": "Avatar ."
   }

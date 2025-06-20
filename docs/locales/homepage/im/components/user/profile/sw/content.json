@@ -3,8 +3,10 @@
     "title": "Habari ya Mtumiaji",
     "id": {
       "name": "Id",
-      "copy": "Nakala"
+      "copy": "Nakala",
+      "copied": "Kitambulisho kimenakiliwa"
     },
+    "notLoggedIn": "Haijaingia",
     "name": "Jina",
     "avatar": "avatar"
   }

@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "qari engel",
+      "inviteOnly": "tah cankah qarii kee arcibsih arciba essera",
+      "knockRequired": "Ta qarih addat assabalta esserta. Gabah esseroh esseroh addat xukkuta",
+      "canJoin": "Taham ummattah qari, saanih edde tangalem duddah",
+      "sendRequest": "edde yengele essero rub",
+      "join": "qari engel"
+    },
+    "JoinRequestList": {
+      "noRequests": "esseroh essero matana",
+      "accept": "oggoliyya",
+      "reject": "cin"
+    }
+  },
   "MessageInput": {
     "placeholder": "farmo culus..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Farmo quukah.",
       "retry": "qagitak gibbat"
-    }
+    },
+    "loadingHistory": "Aydaadu...",
+    "historyEnd": "naharsi xaagu gufeh"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Uxih Farmo matan, walal qimbaalam naharsi farmo rub!"
   },
   "RoomContent": {
     "title": "Qari"

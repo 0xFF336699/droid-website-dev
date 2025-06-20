@@ -3,8 +3,10 @@
     "title": "Hlola =",
     "id": {
       "name": "Ngiyakuthanda",
-      "copy": "i"
+      "copy": "i",
+      "copied": "Ngiziyelaka."
     },
+    "notLoggedIn": "Wama .",
     "name": "ibizo",
     "avatar": "i"
   }

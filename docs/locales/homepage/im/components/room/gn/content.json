@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Eike pe koty .",
+      "inviteOnly": "Kóva ha’e peteĩ koty privado ha oikotevẽ invitación oike haĝua .",
+      "knockRequired": "Ko koty oikotevê solicitud oike haguã. Emboguejy pe botón oĩva koʼápe remondo hag̃ua pe rrevísta .",
+      "canJoin": "Kóva ha'e peteî koty público, ikatu reike directamente .",
+      "sendRequest": "Emondo peteĩ joaju rembijerure .",
+      "join": "Eike pe koty ."
+    },
+    "JoinRequestList": {
+      "noRequests": "Ndaipóri mba’ejerure joaju rehegua gueteri .",
+      "accept": "moneĩ",
+      "reject": "mombia"
+    }
+  },
   "MessageInput": {
     "placeholder": "Oike peteĩ marandu..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ndohupytýi pe marandu .",
       "retry": "Eñeha'ã jey ."
-    }
+    },
+    "loadingHistory": "Ojeguerahauka tembiasakue...",
+    "historyEnd": "Oguahẽma marandu ypykue ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ndaipóri gueteri marandu, emondo marandu peteĩha emoñepyrũ hag̃ua ñomongeta!"
   },
   "RoomContent": {
     "title": "Irundyha"

@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Pridružite se sobi",
+      "inviteOnly": "Ovo je privatna soba i zahtijeva pozivnice za pridruživanje",
+      "knockRequired": "Ova soba zahtijeva aplikaciju za pridruživanje. Kliknite donji gumb da biste poslali zahtjev za pridruživanje",
+      "canJoin": "Ovo je javna soba, možete se direktno pridružiti",
+      "sendRequest": "Pošaljite zahtjev za pridruživanje",
+      "join": "Pridružite se sobi"
+    },
+    "JoinRequestList": {
+      "noRequests": "Još nema zahteva za pridruživanje",
+      "accept": "prihvatiti",
+      "reject": "odbiti"
+    }
+  },
   "MessageInput": {
     "placeholder": "Unesite poruku ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Nije uspjelo učitavanje poruke",
       "retry": "Pokušaj ponovo"
-    }
+    },
+    "loadingHistory": "Istorija učitavanja ...",
+    "historyEnd": "Najranijih vijesti su stigle"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Još nema poruke, pošaljite prvu poruku da započnete razgovor!"
   },
   "RoomContent": {
     "title": "Soba"

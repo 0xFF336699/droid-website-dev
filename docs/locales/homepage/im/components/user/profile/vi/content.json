@@ -3,8 +3,10 @@
     "title": "Thông tin người dùng",
     "id": {
       "name": "NHẬN DẠNG",
-      "copy": "sao chép"
+      "copy": "sao chép",
+      "copied": "ID đã được sao chép"
     },
+    "notLoggedIn": "Không đăng nhập",
     "name": "tên",
     "avatar": "Avatar"
   }

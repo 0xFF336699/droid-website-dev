@@ -3,8 +3,10 @@
     "title": "Te mau haamaramaramaraa",
     "id": {
       "name": "ID",
-      "copy": "tāpe'ape'a"
+      "copy": "tāpe'ape'a",
+      "copied": "Ua papa'ihia te ID"
     },
+    "notLoggedIn": "Aita i tano",
     "name": "maita'i a'e",
     "avatar": "fa'a'ōfa'i"
   }

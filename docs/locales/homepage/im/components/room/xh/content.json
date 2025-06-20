@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Joyina igumbi",
+      "inviteOnly": "Eli ligumbi labucala kwaye lifuna izimemo ukuba zijoyine",
+      "knockRequired": "Eli gumbi lifuna isicelo sokujoyina. Cofa iqhosha elingezantsi ukuthumela isicelo sokujoyina",
+      "canJoin": "Eli ligumbi loluntu, unokujoyina ngqo",
+      "sendRequest": "Thumela isicelo sokujoyina",
+      "join": "Joyina igumbi"
+    },
+    "JoinRequestList": {
+      "noRequests": "Akukho sicelo sokuyalela",
+      "accept": "yamkela",
+      "reject": "ukwala"
+    }
+  },
   "MessageInput": {
     "placeholder": "Ngenisa umyalezo ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ayiphumelelanga ukulayisha umyalezo",
       "retry": "Zama kwakhona"
-    }
+    },
+    "loadingHistory": "Ukulayisha imbali ...",
+    "historyEnd": "Iindaba ze-Ekuqaleni zifikile"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Akukho myalezo okwangoku, thumela umyalezo wokuqala ukuqala incoko!"
   },
   "RoomContent": {
     "title": "Igumbi"

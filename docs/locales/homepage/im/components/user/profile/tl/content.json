@@ -3,8 +3,10 @@
     "title": "Impormasyon ng gumagamit",
     "id": {
       "name": "ID",
-      "copy": "Kopyahin"
+      "copy": "Kopyahin",
+      "copied": "Kinopya ang ID"
     },
+    "notLoggedIn": "Hindi naka -log in",
     "name": "Pangalan",
     "avatar": "Avatar"
   }

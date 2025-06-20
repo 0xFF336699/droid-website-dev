@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Aw ka fara so kan .",
+      "inviteOnly": "Nin ye so ye min bɛ kɛ mɔgɔ kelen ta ye, wa a bɛ wele bila mɔgɔ ma walasa a ka fara a kan .",
+      "knockRequired": "Nin so in bɛ ɲini ka don a la walasa a ka fara a kan. Butɔn digi min bɛ duguma walasa ka Join Request ci .",
+      "canJoin": "Nin ye foroba so ye, aw bɛ se ka fara a kan ka ɲɛsin .",
+      "sendRequest": "Aw ye Join ɲinini sɛbɛn ci .",
+      "join": "Aw ka fara so kan ."
+    },
+    "JoinRequestList": {
+      "noRequests": "No joining request ye .",
+      "accept": "ka sɔn",
+      "reject": "ka fili"
+    }
+  },
   "MessageInput": {
     "placeholder": "Aw ye cikan dɔ don..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "A ma se ka cikan doni .",
       "retry": "Aw bɛ segin ka a lajɛ ."
-    }
+    },
+    "loadingHistory": "Tariku doni...",
+    "historyEnd": "Kibaruyaw fɔlɔ sera ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Cikan ma sɔrɔ fɔlɔ, cikan fɔlɔ ci ka baro daminɛ!"
   },
   "RoomContent": {
     "title": "Soden"

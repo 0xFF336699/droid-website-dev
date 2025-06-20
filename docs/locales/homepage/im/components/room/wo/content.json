@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Doole ci néeg bi",
+      "inviteOnly": "Lii néeg bu prive la, te fàww nga woo ko ci",
+      "knockRequired": "Néeg bii dafay laaj aplikaasioŋ ngir mu bokk. Bësal butoŋu bi ci suuf ngir yónnee laaj bi ci suuf",
+      "canJoin": "Lii néeg bu ñépp bokk, mën nga bokk ci sa bopp",
+      "sendRequest": "Yonnee ab laaj bu bokk",
+      "join": "Doole ci néeg bi"
+    },
+    "JoinRequestList": {
+      "noRequests": "Amul benn laaj booy boole",
+      "accept": "nangu",
+      "reject": "dàqq"
+    }
+  },
   "MessageInput": {
     "placeholder": "Bindal ab bataaxal..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ñu ngi ko tëj ngir yab mesaas bi",
       "retry": "Jéemaat"
-    }
+    },
+    "loadingHistory": "Taarixu loading...",
+    "historyEnd": "Xibar bi njëkk a yegsi"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ba leegi mesaas amul, yónnee mesaas bi njëkk ngir tàmbali waxtaan wi!"
   },
   "RoomContent": {
     "title": "Néeg"

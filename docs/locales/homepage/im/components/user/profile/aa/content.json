@@ -3,8 +3,10 @@
     "title": "adda oyta",
     "id": {
       "name": "mamaxxaga",
-      "copy": "korraq"
+      "copy": "korraq",
+      "copied": "mamaxxaga coped"
     },
+    "notLoggedIn": "matbaqa",
     "name": "migaq",
     "avatar": "avatar"
   }

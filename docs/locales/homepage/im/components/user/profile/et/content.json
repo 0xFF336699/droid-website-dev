@@ -3,8 +3,10 @@
     "title": "Kasutajateave",
     "id": {
       "name": "Isikutunnistus",
-      "copy": "koopia"
+      "copy": "koopia",
+      "copied": "ID on kopeeritud"
     },
+    "notLoggedIn": "Pole sisse logitud",
     "name": "nimetus",
     "avatar": "avatar"
   }

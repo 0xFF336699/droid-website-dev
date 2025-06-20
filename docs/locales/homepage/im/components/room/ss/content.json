@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Ngenani leligumbi",
+      "inviteOnly": "Leli ligumbi langasese futsi lidzinga timemo kutsi tijoyine .",
+      "knockRequired": "Leli gumbi lidzinga sicelo kutsi sijoyine. Chafata lenkinobho lengentansi kute utfumele sicelo sekujoyina",
+      "canJoin": "Leli ligumbi lemmango, ungajoyina ngco",
+      "sendRequest": "Tfumela sicelo sekujoyina",
+      "join": "Ngenani leligumbi"
+    },
+    "JoinRequestList": {
+      "noRequests": "Kute sicelo sekujoyina nyalo",
+      "accept": "kwemukela",
+      "reject": "ncaba"
+    }
+  },
   "MessageInput": {
     "placeholder": "Ngena umlayeto..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kwehlulekile kulayisha umlayeto .",
       "retry": "Phiqwe futsi"
-    }
+    },
+    "loadingHistory": "Umlandvo lolayishako...",
+    "historyEnd": "Tindzaba tekucala setifikile"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Kute umlayeto lokhona, tfumela umlayeto wekucala kute ucale lencociswano!"
   },
   "RoomContent": {
     "title": "Likamelo"

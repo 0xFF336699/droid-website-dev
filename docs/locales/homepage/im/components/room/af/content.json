@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Sluit aan by die kamer",
+      "inviteOnly": "Dit is 'n privaat kamer en benodig uitnodigings om aan te sluit",
+      "knockRequired": "Hierdie kamer benodig aansoek om aan te sluit. Klik op die onderstaande knoppie om die aansluitingsversoek te stuur",
+      "canJoin": "Dit is 'n openbare kamer, u kan direk aansluit",
+      "sendRequest": "Stuur 'n aansluitingsversoek",
+      "join": "Sluit aan by die kamer"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nog geen aansluitingsversoek nie",
+      "accept": "aanvaar",
+      "reject": "verwerp"
+    }
+  },
   "MessageInput": {
     "placeholder": "Voer 'n boodskap in ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kon nie die boodskap laai nie",
       "retry": "Probeer weer"
-    }
+    },
+    "loadingHistory": "Laai geskiedenis ...",
+    "historyEnd": "Die vroegste nuus het aangebreek"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Daar is nog geen boodskap nie, stuur die eerste boodskap om die gesprek te begin!"
   },
   "RoomContent": {
     "title": "Kamer"

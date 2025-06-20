@@ -3,8 +3,10 @@
     "title": "Umukoresha Amakuru",
     "id": {
       "name": "Id",
-      "copy": "kopi"
+      "copy": "kopi",
+      "copied": "Indangamuntu yandukuwe"
     },
+    "notLoggedIn": "Ntabwo yinjiye",
     "name": "izina",
     "avatar": "avatar"
   }

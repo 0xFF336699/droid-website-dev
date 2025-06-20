@@ -3,8 +3,10 @@
     "title": "Informacije uporabnika",
     "id": {
       "name": "Id",
-      "copy": "kopijo"
+      "copy": "kopijo",
+      "copied": "ID je bil kopiran"
     },
+    "notLoggedIn": "Ni prijavljen",
     "name": "ime",
     "avatar": "avatar"
   }

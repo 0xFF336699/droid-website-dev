@@ -1,6 +1,8 @@
 {
   "SummaryRoomList": {
     "title": "Tabaka na vola",
-    "noRooms": "E sega ni dua na soqoni me vakaraitaki […]"
+    "noRooms": "E sega ni dua na soqoni me vakaraitaki […]",
+    "acceptInvite": "Digitaka na veisureti",
+    "rejectInvite": "Digitaka na veisureti."
   }
 }

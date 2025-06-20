@@ -3,8 +3,10 @@
     "title": "Nga korero a te kaiwhakamahi",
     "id": {
       "name": "Id",
-      "copy": "tauira"
+      "copy": "tauira",
+      "copied": "Kua kape id"
     },
+    "notLoggedIn": "Kāore i takiuru",
     "name": "ingoa",
     "avatar": "avatar"
   }

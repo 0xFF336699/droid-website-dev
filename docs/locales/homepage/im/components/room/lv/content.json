@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Pievienojieties istabai",
+      "inviteOnly": "Šī ir privāta istaba un prasa ielūgumus pievienoties",
+      "knockRequired": "Šī istaba prasa pievienoties. Noklikšķiniet uz pogas zemāk, lai nosūtītu pievienošanās pieprasījumu",
+      "canJoin": "Šī ir publiska istaba, jūs varat pievienoties tieši",
+      "sendRequest": "Nosūtiet pievienošanās pieprasījumu",
+      "join": "Pievienojieties istabai"
+    },
+    "JoinRequestList": {
+      "noRequests": "Pagaidām nav pievienošanās pieprasījuma",
+      "accept": "pieņemt",
+      "reject": "noraidīt"
+    }
+  },
   "MessageInput": {
     "placeholder": "Ievadiet ziņojumu ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Neizdevās ielādēt ziņojumu",
       "retry": "Mēģiniet vēlreiz"
-    }
+    },
+    "loadingHistory": "Iekraušanas vēsture ...",
+    "historyEnd": "Ir ieradušās agrākās ziņas"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Pagaidām nav ziņojuma, nosūtiet pirmo ziņojumu, lai sāktu sarunu!"
   },
   "RoomContent": {
     "title": "Telpa"

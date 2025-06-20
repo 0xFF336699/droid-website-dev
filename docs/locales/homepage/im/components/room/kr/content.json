@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Njimdǝro kǝlne",
+      "inviteOnly": "Adə njim kəlanzəye kuru shiro bowotə məradəzəna",
+      "knockRequired": "Njim adə application məradəzəna. Boton cidiyanzəyedə ratne awo məradətənadə zutə",
+      "canJoin": "Adǝ shima njim jama mewubewo, raksǝ daataro gayin",
+      "sendRequest": "Matəro zuzə",
+      "join": "Njimdǝro kǝlne"
+    },
+    "JoinRequestList": {
+      "noRequests": "Kuwa yayi awo matəye ba",
+      "accept": "mowo",
+      "reject": "watə"
+    }
+  },
   "MessageInput": {
     "placeholder": "Kawuli laa yike..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kawulidəga load diwo nankaro terəna",
       "retry": "dəye waltə jarabne"
-    }
+    },
+    "loadingHistory": "Gargam ngǝla...",
+    "historyEnd": "Hawar buro salakbedə isəna"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Kuwa yayi kawuli bawo, kawuli buroyedə zuzə zandedə baditəro!"
   },
   "RoomContent": {
     "title": "Njim"

@@ -3,8 +3,10 @@
     "title": "Gebruuksinformasie",
     "id": {
       "name": "ID",
-      "copy": "kopieer"
+      "copy": "kopieer",
+      "copied": "ID is gekopieerd"
     },
+    "notLoggedIn": "Neet ingelogd",
     "name": "naam",
     "avatar": "apotaar"
   }

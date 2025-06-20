@@ -3,8 +3,10 @@
     "title": "Korisnički podaci",
     "id": {
       "name": "Osobna iskaznica",
-      "copy": "kopirati"
+      "copy": "kopirati",
+      "copied": "ID je kopiran"
     },
+    "notLoggedIn": "Nije prijavljen",
     "name": "ime",
     "avatar": "avatar"
   }

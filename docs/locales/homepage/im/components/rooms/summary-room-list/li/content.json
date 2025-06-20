@@ -1,6 +1,8 @@
 {
   "SummaryRoomList": {
     "title": "Sessie lies",
-    "noRooms": "Gein sessies motte weergegeve weure"
+    "noRooms": "Gein sessies motte weergegeve weure",
+    "acceptInvite": "Accepteer-uitnoeging",
+    "rejectInvite": "Reuk-uitnoeging"
   }
 }

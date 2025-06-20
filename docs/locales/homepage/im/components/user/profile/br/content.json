@@ -3,8 +3,10 @@
     "title": "Titouroù implijer",
     "id": {
       "name": "ID",
-      "copy": "kopienn"
+      "copy": "kopienn",
+      "copied": "Kopiet eo bet ID ."
     },
+    "notLoggedIn": "N'eo ket enrollet",
     "name": "anv",
     "avatar": "avatar"
   }

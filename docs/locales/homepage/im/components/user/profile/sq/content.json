@@ -3,8 +3,10 @@
     "title": "Informacioni i Përdoruesit",
     "id": {
       "name": "Edhull",
-      "copy": "kopjoj"
+      "copy": "kopjoj",
+      "copied": "ID është kopjuar"
     },
+    "notLoggedIn": "Nuk është regjistruar në",
     "name": "emër",
     "avatar": "avatar"
   }

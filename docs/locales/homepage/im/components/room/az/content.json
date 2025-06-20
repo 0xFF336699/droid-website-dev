@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Otağa qoşulun",
+      "inviteOnly": "Bu xüsusi bir otaqdır və dəvətnamələrin qatılmasını tələb edir",
+      "knockRequired": "Bu otaq qoşulmaq üçün müraciət tələb edir. Qoşulma tələbini göndərmək üçün aşağıdakı düyməni vurun",
+      "canJoin": "Bu ictimai bir otaqdır, birbaşa qoşula bilərsiniz",
+      "sendRequest": "Birləşmə tələbi göndərin",
+      "join": "Otağa qoşulun"
+    },
+    "JoinRequestList": {
+      "noRequests": "Hələ birləşmə istəyi yoxdur",
+      "accept": "qəbul etmək",
+      "reject": "rədd etmək"
+    }
+  },
   "MessageInput": {
     "placeholder": "Bir mesaj daxil edin ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Mesajı yükləyə bilmədi",
       "retry": "Yenidən cəhd etmək"
-    }
+    },
+    "loadingHistory": "Yükləmə tarixi ...",
+    "historyEnd": "Ən erkən xəbər gəldi"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Hələ mesaj yoxdur, söhbətə başlamaq üçün ilk mesajı göndərin!"
   },
   "RoomContent": {
     "title": "Otaq"

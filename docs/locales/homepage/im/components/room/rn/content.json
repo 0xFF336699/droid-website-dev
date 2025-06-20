@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Nimwifatanye n'icumba",
+      "inviteOnly": "Ico ni icumba c’ibanga kandi gisaba ubutumire kugira ngo umuntu yinjire .",
+      "knockRequired": "Ico cumba gisaba ko umuntu asabwa kwinjira. Fyonda kuri buto iri musi kugira ngo wohereze igisabwa co kwinjira",
+      "canJoin": "Iyi ni icumba ca bose, ushobora kwifatanya n'abandi",
+      "sendRequest": "Wohereze igisabwa co kwifatanya",
+      "join": "Nimwifatanye n'icumba"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nta busabe bw'ukwifatanya",
+      "accept": "kwemera",
+      "reject": "guhakana"
+    }
+  },
   "MessageInput": {
     "placeholder": "Injira ubutumwa..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Yanse gushiramwo ubutumwa",
       "retry": "Nongeye kugerageza"
-    }
+    },
+    "loadingHistory": "Amateka y'uburamamakuru...",
+    "historyEnd": "Inkuru ya mbere yashitse"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Nta butumwa n’ubu, wohereze ubutumwa bwa mbere kugira ngo utangure ikiyago!"
   },
   "RoomContent": {
     "title": "Icumba"

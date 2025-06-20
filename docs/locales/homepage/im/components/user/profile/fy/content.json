@@ -3,8 +3,10 @@
     "title": "Meidoggerynformaasje",
     "id": {
       "name": "ID",
-      "copy": "kopy"
+      "copy": "kopy",
+      "copied": "Id is kopieare"
     },
+    "notLoggedIn": "Net oanmeld",
     "name": "namme",
     "avatar": "Avatar"
   }

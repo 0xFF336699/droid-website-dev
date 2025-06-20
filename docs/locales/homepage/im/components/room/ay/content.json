@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Uka cuarto ukar mantam .",
+      "inviteOnly": "Akax mä privado cuarto ukat invitaciones ukanakaw munasispa .",
+      "knockRequired": "Aka salax aplicación ukar mantañatakiw wakisi. Uka botón ukar chʼetjjtayañamawa, ukhamat Join Request sat .",
+      "canJoin": "Akax mä sala pública ukhamawa, directamente .",
+      "sendRequest": "Mä junt’u thakhi mayiwi .",
+      "join": "Uka cuarto ukar mantam ."
+    },
+    "JoinRequestList": {
+      "noRequests": "Janiw kuna mayacht’asiñ mayiwis utjkiti .",
+      "accept": "iyawsaña",
+      "reject": "janiw saña"
+    }
+  },
   "MessageInput": {
     "placeholder": "Mä yatiyaw qillqt’aña..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Uka yatiyawix janiw phuqhaskiti .",
       "retry": "Mayampi yantʼañamawa ."
-    }
+    },
+    "loadingHistory": "Ukax mä historial...",
+    "historyEnd": "Nayrïr yatiyäwix purinxiwa ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "¡Janiw kuna yatiyawis utjkiti, nayrïr yatiyaw apayanipxam aruskipäwi qalltañataki!"
   },
   "RoomContent": {
     "title": "Uta"

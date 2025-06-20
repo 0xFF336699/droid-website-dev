@@ -3,8 +3,10 @@
     "title": "Maklumat pengguna",
     "id": {
       "name": "Id",
-      "copy": "Salin"
+      "copy": "Salin",
+      "copied": "ID telah disalin"
     },
+    "notLoggedIn": "Tidak log masuk",
     "name": "nama",
     "avatar": "avatar"
   }

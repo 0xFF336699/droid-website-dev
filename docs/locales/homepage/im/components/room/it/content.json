@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Unisciti alla stanza",
+      "inviteOnly": "Questa è una stanza privata e richiede inviti per partecipare",
+      "knockRequired": "Questa stanza richiede l'applicazione per partecipare. Fai clic sul pulsante in basso per inviare la richiesta di join",
+      "canJoin": "Questa è una sala pubblica, puoi unirti direttamente",
+      "sendRequest": "Invia una richiesta di join",
+      "join": "Unisciti alla stanza"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nessuna richiesta di giunzione ancora",
+      "accept": "accettare",
+      "reject": "rifiutare"
+    }
+  },
   "MessageInput": {
     "placeholder": "Inserisci un messaggio ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Impossibile caricare il messaggio",
       "retry": "Riprova"
-    }
+    },
+    "loadingHistory": "Caricamento della storia ...",
+    "historyEnd": "Le prime notizie sono arrivate"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Non c'è ancora messaggio, invia il primo messaggio per iniziare la conversazione!"
   },
   "RoomContent": {
     "title": "Camera"

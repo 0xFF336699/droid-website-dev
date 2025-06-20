@@ -3,8 +3,10 @@
     "title": "Informacija apie vartotoją",
     "id": {
       "name": "Id",
-      "copy": "kopijuoti"
+      "copy": "kopijuoti",
+      "copied": "ID buvo nukopijuotas"
     },
+    "notLoggedIn": "Neįsijungęs",
     "name": "vardas",
     "avatar": "Avataras"
   }

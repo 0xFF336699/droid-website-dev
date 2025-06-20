@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Esperante hao",
+      "inviteOnly": "Este na kuatto pribådu ya ha nisisita i imbitasion para u fanma'ayuda",
+      "knockRequired": "Este na kuatto ha nesessita aplikasion para u fan ma-ayuda. Klåklåse i boton gi papa’ para u na’hanao i inetnon-mu gi fina’tinas-mu",
+      "canJoin": "Estague` un` kuarton publiku, guaha `nai in` fan direchu.",
+      "sendRequest": "Buska un' pattida",
+      "join": "Esperante hao"
+    },
+    "JoinRequestList": {
+      "noRequests": "Taya' na'ma'å'ñao",
+      "accept": "aksepta",
+      "reject": "diroga"
+    }
+  },
   "MessageInput": {
     "placeholder": "Sige un mensahe?"
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Siente hao para un karga",
       "retry": "da"
-    }
+    },
+    "loadingHistory": "Man-a`ayuda gi historia?",
+    "historyEnd": "I mas fine’nina na notisia siha ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ti guaha mensahe pa`gu, na`e i primet mensahe para u tutuhon i konbetsasion!"
   },
   "RoomContent": {
     "title": "Apusentu"

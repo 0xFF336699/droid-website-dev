@@ -3,8 +3,10 @@
     "title": "Brukerinformasjon",
     "id": {
       "name": "Id",
-      "copy": "kopiere"
+      "copy": "kopiere",
+      "copied": "ID har blitt kopiert"
     },
+    "notLoggedIn": "Ikke logget inn",
     "name": "navn",
     "avatar": "Avatar"
   }

@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Kutaa keessatti makamaa .",
+      "inviteOnly": "Kun kutaa dhuunfaa waan ta'eef itti makamuuf afeerraa barbaada .",
+      "knockRequired": "Kutaan kun itti makamuuf iyyannoo barbaada. Gaaffii Join erguuf button armaan gadii cuqaasaa .",
+      "canJoin": "Kun kutaa uummataati, kallattiin itti makamuu dandeessu .",
+      "sendRequest": "Gaaffii walitti makamuu ergaa .",
+      "join": "Kutaa keessatti makamaa ."
+    },
+    "JoinRequestList": {
+      "noRequests": "Gaaffiitti makamuu hin qabu ammatti .",
+      "accept": "simachuu",
+      "reject": "fudhachuu dhiisuu"
+    }
+  },
   "MessageInput": {
     "placeholder": "Ergaa galchaa..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ergaa fe'uu hin dandeenye .",
       "retry": "Ammas yaali ."
-    }
+    },
+    "loadingHistory": "Seenaa fe'umsaa...",
+    "historyEnd": "Oduu jalqabaa dhufeera ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ammatti ergaan hin jiru, haasawa jalqabuuf ergaa jalqabaa ergi!"
   },
   "RoomContent": {
     "title": "Kutaa"

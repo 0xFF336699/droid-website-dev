@@ -3,8 +3,10 @@
     "title": "Uzantaj Informoj",
     "id": {
       "name": "ID",
-      "copy": "Kopio"
+      "copy": "Kopio",
+      "copied": "ID estis kopiita"
     },
+    "notLoggedIn": "Ne ensalutinta",
     "name": "Nomo",
     "avatar": "Avataro"
   }

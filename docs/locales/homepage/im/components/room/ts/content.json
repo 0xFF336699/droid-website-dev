@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Joyina kamara .",
+      "inviteOnly": "Leri i kamara ra le xihundleni naswona ri lava swirhambo swo joyina .",
+      "knockRequired": "Kamara leri ri lava xikombelo xo joyina. Click button leyi nga laha hansi ku rhumela xikombelo xo joyina .",
+      "canJoin": "Leyi i kamara ra mani na mani, u nga joyina hi ku kongoma .",
+      "sendRequest": "Rhumela xikombelo xo joyina .",
+      "join": "Joyina kamara ."
+    },
+    "JoinRequestList": {
+      "noRequests": "Ku hava xikombelo xo joyina ku fikela sweswi .",
+      "accept": "amukela",
+      "reject": "ariwa"
+    }
+  },
   "MessageInput": {
     "placeholder": "Nghenisa rungula..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ku tsandzeka ku layicha rungula .",
       "retry": "Ringeta nakambe ."
-    }
+    },
+    "loadingHistory": "Matimu ya ku layicha...",
+    "historyEnd": "Mahungu yo sungula ma fikile ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Akuna rungula ra sweswi, rhumela rungula ro sungula ku sungula mbulavurisano!"
   },
   "RoomContent": {
     "title": "Kamara"

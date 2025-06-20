@@ -3,8 +3,10 @@
     "title": "Kullanıcı bilgileri",
     "id": {
       "name": "İD",
-      "copy": "kopya"
+      "copy": "kopya",
+      "copied": "Kimlik kopyalandı"
     },
+    "notLoggedIn": "Giriş yapmadı",
     "name": "isim",
     "avatar": "avatar"
   }

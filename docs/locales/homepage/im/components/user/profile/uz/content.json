@@ -3,8 +3,10 @@
     "title": "Foydalanuvchi haqida ma'lumot",
     "id": {
       "name": "Id",
-      "copy": "nusxa ko'chirmoq"
+      "copy": "nusxa ko'chirmoq",
+      "copied": "ID nusxalangan"
     },
+    "notLoggedIn": "Tizimga kirmagan",
     "name": "ism",
     "avatar": "avatar"
   }

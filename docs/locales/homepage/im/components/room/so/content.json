@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Ku soo biir qolka",
+      "inviteOnly": "Kani waa qol gaar loo leeyahay oo wuxuu u baahan yahay casuumaad inuu ku biiro",
+      "knockRequired": "Qolkani wuxuu u baahan yahay codsi inuu ku biiro. Guji batoonka hoose si aad ugu dirto dalabka ku soo biirista",
+      "canJoin": "Kani waa qol dadweyne, si toos ah ayaad ugu biiri kartaa",
+      "sendRequest": "U dir codsi ku biirista",
+      "join": "Ku soo biir qolka"
+    },
+    "JoinRequestList": {
+      "noRequests": "Wali wax ku biirin",
+      "accept": "ogolaansho",
+      "reject": "qaadicid"
+    }
+  },
   "MessageInput": {
     "placeholder": "Gali farriin ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ku guuldareystay inuu xamuul farriinta",
       "retry": "Mar labaad isku day"
-    }
+    },
+    "loadingHistory": "Taariikhda Loading ...",
+    "historyEnd": "Wararkii ugu horreeyay ayaa yimid"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Farriin maleh weli, u dir farriinta ugu horreysa si aad u bilowdo wada hadalka!"
   },
   "RoomContent": {
     "title": "Boos"

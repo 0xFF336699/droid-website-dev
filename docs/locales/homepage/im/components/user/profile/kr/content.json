@@ -3,8 +3,10 @@
     "title": "Bayan faidatəmaye",
     "id": {
       "name": "ID",
-      "copy": "Kuratə"
+      "copy": "Kuratə",
+      "copied": "ID də copy təna"
     },
+    "notLoggedIn": "Suro",
     "name": "su",
     "avatar": "alagə"
   }

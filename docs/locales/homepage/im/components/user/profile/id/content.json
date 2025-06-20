@@ -3,8 +3,10 @@
     "title": "Informasi pengguna",
     "id": {
       "name": "PENGENAL",
-      "copy": "menyalin"
+      "copy": "menyalin",
+      "copied": "ID telah disalin"
     },
+    "notLoggedIn": "Tidak masuk",
     "name": "nama",
     "avatar": "Avatar"
   }

@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "-asalo.",
+      "inviteOnly": "Kuyikuqala i-assssssssssssssssssss.",
+      "knockRequired": "Lokhu ubukhulu kuvelayo, udinga. Ilinye ukufika i-alalo, ililo akhona.",
+      "canJoin": "Kunjalo, udinga ukuvula, i-ore.",
+      "sendRequest": "Fala i .",
+      "join": "-asalo."
+    },
+    "JoinRequestList": {
+      "noRequests": "Lokhu kudinga ukuxazulula.",
+      "accept": "yamukela",
+      "reject": "yala"
+    }
+  },
   "MessageInput": {
     "placeholder": "Hlola umlayezo."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Lokhu ubukhulu ubukhulu ubukhulu .",
       "retry": "Wapha"
-    }
+    },
+    "loadingHistory": "Bula imbuzi.",
+    "historyEnd": "Isuku enzima ukulala."
+  },
+  "MessageVirturalList": {
+    "noMessages": "Lokhu kunjalo, ngenzeka, ni ."
   },
   "RoomContent": {
     "title": "Ikamero"

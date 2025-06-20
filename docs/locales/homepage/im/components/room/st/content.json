@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Eba le kamore",
+      "inviteOnly": "Ena ke kamore ea motho ea ikemetseng 'me e hloka limemo ho ikopanya le",
+      "knockRequired": "Kamore ena e hloka kopo ho kenella. Tobetsa konopo e ka tlase ho romella kopo ea kopano",
+      "canJoin": "Ena ke kamore ea sechaba, u ka ikopanya ka kotloloho",
+      "sendRequest": "Romella kopo ea kopano",
+      "join": "Eba le kamore"
+    },
+    "JoinRequestList": {
+      "noRequests": "Ha ho na kopo ea ho kopanela",
+      "accept": "Amohela",
+      "reject": "hana"
+    }
+  },
   "MessageInput": {
     "placeholder": "Kenya molaetsa ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Ha rea ​​atleha ho beha molaetsa",
       "retry": "Leka hape"
-    }
+    },
+    "loadingHistory": "Ho Reka Nalane ...",
+    "historyEnd": "Litaba tsa pele-pele li fihlile"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ha ho na molaetsa, romella molaetsa oa pele ho qala moqoqo!"
   },
   "RoomContent": {
     "title": "Kamore"

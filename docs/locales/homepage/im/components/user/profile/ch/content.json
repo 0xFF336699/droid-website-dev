@@ -3,8 +3,10 @@
     "title": "Infotma",
     "id": {
       "name": "RO",
-      "copy": "kopia"
+      "copy": "kopia",
+      "copied": "I ID ma kopia"
     },
+    "notLoggedIn": "Ti monhålo yugo",
     "name": "na'an",
     "avatar": "gaige"
   }

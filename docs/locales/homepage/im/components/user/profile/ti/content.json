@@ -3,8 +3,10 @@
     "title": "ሓበሬታ ተጠቃሚ",
     "id": {
       "name": "ID",
-      "copy": "ቅዳሕ"
+      "copy": "ቅዳሕ",
+      "copied": "ID ተቐዲሑ ኣሎ"
     },
+    "notLoggedIn": "ኣብ 2019 ዘይተመዝገበ",
     "name": "ሽም",
     "avatar": "ኣቫታር"
   }

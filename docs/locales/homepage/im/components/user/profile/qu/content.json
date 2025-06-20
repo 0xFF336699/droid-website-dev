@@ -3,8 +3,10 @@
     "title": "Usuariomanta willakuy .",
     "id": {
       "name": "ID nisqa.",
-      "copy": "Copia ."
+      "copy": "Copia .",
+      "copied": "ID nisqa qillqasqa ."
     },
+    "notLoggedIn": "Mana yaykusqa .",
     "name": "suti",
     "avatar": "Avatar ."
   }

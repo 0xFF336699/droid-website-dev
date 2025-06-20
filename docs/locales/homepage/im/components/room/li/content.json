@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Sluit aon de kamer",
+      "inviteOnly": "Dit is ‘n privékamer en vereist dat ze zich in stand hawwe",
+      "knockRequired": "Deze kamer vereist aanvraog om bij te voere. Klik op de knop heij oonder um ‘t verzoek te sjikke",
+      "canJoin": "Dit is 'n openbare kamer, je kint direct nemen",
+      "sendRequest": "Stuur ‘n verzeuk",
+      "join": "Sluit aon de kamer"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nog gein verzoek verzoek",
+      "accept": "acceptere",
+      "reject": "aafsjloon"
+    }
+  },
   "MessageInput": {
     "placeholder": "Voer ‘n boodsjap in..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Verzuim um de boodsjap te lade",
       "retry": "Probeer weer"
-    }
+    },
+    "loadingHistory": "Laad gesjiedenis...",
+    "historyEnd": "De ierste nuujs is aangekomme"
+  },
+  "MessageVirturalList": {
+    "noMessages": "D’r is nog gein boodsjap, sjik de ierste boodsjap um ‘t gesprek te beginne!"
   },
   "RoomContent": {
     "title": "Kamer"

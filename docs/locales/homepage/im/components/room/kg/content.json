@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Kota na suku",
+      "inviteOnly": "Yai kele suku ya kinsweki mpi yo kelombaka baemvitasio sambu na kuvukana .",
+      "knockRequired": "E suku diadi divavanga vo muntu kafwete kota. Fina na buto yina kele na nsi sambu na kutinda mukanda ya kulomba .",
+      "canJoin": "Yai kele suku ya bantu yonso, nge lenda kota mbala mosi .",
+      "sendRequest": "Tinda demande ya kukota",
+      "join": "Kota na suku"
+    },
+    "JoinRequestList": {
+      "noRequests": "Ata kima mosi ve ya ke lomba kukota na mambu yai",
+      "accept": "kundima",
+      "reject": "kulosa"
+    }
+  },
   "MessageInput": {
     "placeholder": "Sonika nsangu..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kukonda kutula nsangu na nsangu",
       "retry": "Meka diaka"
-    }
+    },
+    "loadingHistory": "Disolo ya kutula...",
+    "historyEnd": "Nsangu ya ntete me kuma"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Ke vena nsangu ko, fila nsangu zantete muna yantika e moko!"
   },
   "RoomContent": {
     "title": "Shambre"

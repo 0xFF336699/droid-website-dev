@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Jokku suudu nduu",
+      "inviteOnly": "Ko ɗum suudu keeriiɗo, ina ɗaɓɓi noddaango ngam naatde",
+      "knockRequired": "Oo suudu ina ɗaɓɓi ɗaɓɓaande ngam naatde. Ɓoɗɗu butoŋ les oo ngam neldude ɗaɓɓaande jokkondire",
+      "canJoin": "Ko ɗum suudu jamaa, aɗa waawi naatde heen",
+      "sendRequest": "Neldu ɗaɓɓaande jokkondire",
+      "join": "Jokku suudu nduu"
+    },
+    "JoinRequestList": {
+      "noRequests": "Alaa ɗaɓɓaande jokkondire haa jooni",
+      "accept": "jabbugo",
+      "reject": "accugo"
+    }
+  },
   "MessageInput": {
     "placeholder": "Naat e mesaas..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Waɗii loowde mesaas oo",
       "retry": "Enndu kadi"
-    }
+    },
+    "loadingHistory": "Daartol loading...",
+    "historyEnd": "Kabaruuji gadani ɗi ngari"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Alaa fof mesaas tawo, neldu mesaas gadano ngam fuɗɗaade yeewtere ndee!"
   },
   "RoomContent": {
     "title": "Suudu"

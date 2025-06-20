@@ -1,6 +1,8 @@
 {
   "SummaryRoomList": {
     "title": "Sesiynau",
-    "noRooms": "Dim sesiynau i'w harddangos"
+    "noRooms": "Dim sesiynau i'w harddangos",
+    "acceptInvite": "Derbyn Gwahoddiad",
+    "rejectInvite": "Gwrthod gwahoddiad"
   }
 }

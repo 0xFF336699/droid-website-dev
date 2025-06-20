@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Juntatz-vos a la sala",
+      "inviteOnly": "Esta es una habitacion privada y requiere invitaciones para unirse",
+      "knockRequired": "Aquesta sala exigís que l'aplicacion s'i inscriu. Clicatz sul boton çai-jos per mandar la demanda de join .",
+      "canJoin": "Aquò's una sala publica, podètz vos inscriure dirèctament",
+      "sendRequest": "Enviatz una demanda de join .",
+      "join": "Juntatz-vos a la sala"
+    },
+    "JoinRequestList": {
+      "noRequests": "Pas de demanda de jonccion encara",
+      "accept": "acceptar",
+      "reject": "fòragetar"
+    }
+  },
   "MessageInput": {
     "placeholder": "Picatz un messatge..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Fracàs de cargar lo messatge .",
       "retry": "Tornatz ensajar"
-    }
+    },
+    "loadingHistory": "Istòria de carga...",
+    "historyEnd": "Las primièras novèlas son arribadas ."
+  },
+  "MessageVirturalList": {
+    "noMessages": "I a pas encara de messatge, mandatz lo primièr messatge per començar la convèrsa !"
   },
   "RoomContent": {
     "title": "Membre"

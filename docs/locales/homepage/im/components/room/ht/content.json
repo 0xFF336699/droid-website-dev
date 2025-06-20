@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Antre nan sal la",
+      "inviteOnly": "Sa a se yon chanm prive ak mande pou envitasyon yo rantre nan",
+      "knockRequired": "Chanm sa a mande pou aplikasyon yo rantre nan. Klike sou bouton ki anba a pou voye demann lan rantre nan",
+      "canJoin": "Sa a se yon chanm piblik, ou ka rantre nan dirèkteman",
+      "sendRequest": "Voye yon demann rantre nan",
+      "join": "Antre nan sal la"
+    },
+    "JoinRequestList": {
+      "noRequests": "Pa gen demann rantre nan ankò",
+      "accept": "aksepte",
+      "reject": "rejte"
+    }
+  },
   "MessageInput": {
     "placeholder": "Mete yon mesaj ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Echwe pou pou chaje mesaj la",
       "retry": "Eseye ankò"
-    }
+    },
+    "loadingHistory": "Loading Istwa ...",
+    "historyEnd": "Nouvèl la pi bonè te rive"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Pa gen okenn mesaj ankò, voye premye mesaj la yo kòmanse konvèsasyon an!"
   },
   "RoomContent": {
     "title": "Plas"

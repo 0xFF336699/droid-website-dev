@@ -3,8 +3,10 @@
     "title": "Faisnéis úsáideora",
     "id": {
       "name": "Úd",
-      "copy": "cóip"
+      "copy": "cóip",
+      "copied": "Cóipeáladh id"
     },
+    "notLoggedIn": "Gan logáil isteach",
     "name": "ainmnigh",
     "avatar": "avatar"
   }

@@ -3,8 +3,10 @@
     "title": "Vuxokoxoko bya Mutirhisi .",
     "id": {
       "name": "ID .",
-      "copy": "Khopi ."
+      "copy": "Khopi .",
+      "copied": "ID yi kopiwile ."
     },
+    "notLoggedIn": "A swi nghenanga endzeni .",
     "name": "vito",
     "avatar": "Avatar ."
   }

@@ -3,8 +3,10 @@
     "title": "Ɔdefo no ho nsɛm .",
     "id": {
       "name": "ID .",
-      "copy": "Kɔpi ."
+      "copy": "Kɔpi .",
+      "copied": "Wɔayɛ ID no ho mfonini ."
     },
+    "notLoggedIn": "ɛnyɛ logged wɔ mu .",
     "name": "din",
     "avatar": "Avatar ."
   }

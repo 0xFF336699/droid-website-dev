@@ -1,6 +1,8 @@
 {
   "SummaryRoomList": {
     "title": "Session list",
-    "noRooms": "Sessionit takutinneqartussaanngillat"
+    "noRooms": "Sessionit takutinneqartussaanngillat",
+    "acceptInvite": "Akuersissut qaaqqusineq",
+    "rejectInvite": "Qaaqqusineq itigartitsissutigiuk"
   }
 }

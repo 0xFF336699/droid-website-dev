@@ -3,8 +3,10 @@
     "title": "Enfòmasyon itilizatè",
     "id": {
       "name": "Id",
-      "copy": "kopye"
+      "copy": "kopye",
+      "copied": "ID te kopye"
     },
+    "notLoggedIn": "Pa louvri sesyon an",
     "name": "non",
     "avatar": "avatar"
   }

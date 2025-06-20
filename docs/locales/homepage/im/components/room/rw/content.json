@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Injira mucyumba",
+      "inviteOnly": "Iki nicyumba cyihariye kandi gisaba ubutumire bwo kwinjira",
+      "knockRequired": "Iki cyumba gisaba gusaba kwinjira. Kanda buto hepfo kugirango wohereze gusaba",
+      "canJoin": "Iki nicyumba rusange, urashobora kwifatanya",
+      "sendRequest": "Ohereza icyifuzo",
+      "join": "Injira mucyumba"
+    },
+    "JoinRequestList": {
+      "noRequests": "Nta gusaba kwinjira",
+      "accept": "emera",
+      "reject": "kwanga"
+    }
+  },
   "MessageInput": {
     "placeholder": "Injira ubutumwa ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Kunanirwa kwikorera ubutumwa",
       "retry": "Ongera ugerageze"
-    }
+    },
+    "loadingHistory": "Gupakira Amateka ...",
+    "historyEnd": "Amakuru ya mbere yageze"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Nta butumwa buhari, ohereza ubutumwa bwa mbere kugirango utangire ikiganiro!"
   },
   "RoomContent": {
     "title": "Icyumba"

@@ -1,6 +1,8 @@
 {
   "SummaryRoomList": {
     "title": "Liste ya ba sessions .",
-    "noRooms": "Ba séances oyo esengeli kolakisa te ."
+    "noRooms": "Ba séances oyo esengeli kolakisa te .",
+    "acceptInvite": "Ndima invitation .",
+    "rejectInvite": "Libyangi ya koboya ."
   }
 }

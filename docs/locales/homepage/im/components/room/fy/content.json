@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Meidwaan oan 'e keamer",
+      "inviteOnly": "Dit is in priveekeamer en fereasket útnoegings om mei te dwaan",
+      "knockRequired": "Dizze keamer fereasket applikaasje om mei te dwaan. Klikje op de knop hjirûnder om it oanfreegjen oan te stjoeren",
+      "canJoin": "Dit is in iepenbiere keamer, jo kinne direkt meidwaan",
+      "sendRequest": "Stjoer in meidwaan oan fersyk",
+      "join": "Meidwaan oan 'e keamer"
+    },
+    "JoinRequestList": {
+      "noRequests": "Gjin oanmelden fan oanfreegje",
+      "accept": "oannimme",
+      "reject": "ôfwize"
+    }
+  },
   "MessageInput": {
     "placeholder": "Fier in berjocht yn ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "It berjocht is net laden",
       "retry": "Besykje opnij"
-    }
+    },
+    "loadingHistory": "Histoarje laden ...",
+    "historyEnd": "It ierste nijs is oankaam"
+  },
+  "MessageVirturalList": {
+    "noMessages": "D'r is noch gjin berjocht, stjoer it earste berjocht om it petear te begjinnen!"
   },
   "RoomContent": {
     "title": "Keamer"

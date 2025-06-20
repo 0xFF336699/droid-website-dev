@@ -3,8 +3,10 @@
     "title": "Macluumaadka isticmaalaha",
     "id": {
       "name": "Id",
-      "copy": "koobbi ka sameyn"
+      "copy": "koobbi ka sameyn",
+      "copied": "Aqoonsi ayaa la koobiyey"
     },
+    "notLoggedIn": "Aan galin",
     "name": "magac",
     "avatar": "gaari yar"
   }

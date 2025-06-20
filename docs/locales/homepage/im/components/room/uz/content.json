@@ -1,4 +1,19 @@
 {
+  "content": {
+    "JoinRequestDialog": {
+      "title": "Xonaga qo'shiling",
+      "inviteOnly": "Bu xususiy xonadir va qo'shilish taklifini talab qiladi",
+      "knockRequired": "Bu xonada qo'shilish uchun qo'llanmani talab qiladi. Qo'shilish so'rovini yuborish uchun quyidagi tugmani bosing",
+      "canJoin": "Bu jamoat xonasi, siz to'g'ridan-to'g'ri qo'shilishingiz mumkin",
+      "sendRequest": "Qo'shilish so'rovini yuboring",
+      "join": "Xonaga qo'shiling"
+    },
+    "JoinRequestList": {
+      "noRequests": "Hali so'rov yo'q",
+      "accept": "qabul qilmoq",
+      "reject": "rad qilmoq"
+    }
+  },
   "MessageInput": {
     "placeholder": "Xabarni kiriting ..."
   },
@@ -8,7 +23,12 @@
     "error": {
       "loadFailed": "Xabarni yuklab bo'lmadi",
       "retry": "Qayta urinib ko'ring"
-    }
+    },
+    "loadingHistory": "Tarixni yuklash ...",
+    "historyEnd": "Eng erta yangilik keldi"
+  },
+  "MessageVirturalList": {
+    "noMessages": "Birda xabar yo'q, suhbatni boshlash uchun birinchi xabarni yuboring!"
   },
   "RoomContent": {
     "title": "Xona"

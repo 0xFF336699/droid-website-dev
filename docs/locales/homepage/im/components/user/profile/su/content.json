@@ -3,8 +3,10 @@
     "title": "Inpormasi pangguna",
     "id": {
       "name": "I id",
-      "copy": "nyalin"
+      "copy": "nyalin",
+      "copied": "KTP parantos disalin"
     },
+    "notLoggedIn": "Henteu asup",
     "name": "nami",
     "avatar": "avatar"
   }

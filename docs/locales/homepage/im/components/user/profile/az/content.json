@@ -3,8 +3,10 @@
     "title": "İstifadəçi haqqında məlumat",
     "id": {
       "name": "İd",
-      "copy": "surətini çıxarmaq"
+      "copy": "surətini çıxarmaq",
+      "copied": "İd kopyalanmışdır"
     },
+    "notLoggedIn": "Daxil deyil",
     "name": "ad",
     "avatar": "avatar"
   }
